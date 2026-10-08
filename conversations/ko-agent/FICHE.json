@@ -7,5 +7,6 @@
  "source": "https://huggingface.co/datasets/taejoon89/Ko-Agent-Trajectories-1.0",
  "licence": "cc-by-4.0",
  "taille_octets": 1358916399,
- "sha_echantillon": "318eea9825a03b63"
+ "sha_echantillon": "531963bd550491c4",
+ "note_echantillon": "100 % lignes JSON valides (vérifié)"
 }
