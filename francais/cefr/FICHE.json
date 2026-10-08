@@ -12,5 +12,13 @@
  "lignes_echantillon": 200,
  "octets_echantillon": 26284,
  "sha_echantillon": "744ec8ed7bafff6e",
- "contenu": "phrases françaises classées A1 à C2"
+ "contenu": "phrases françaises classées A1 à C2",
+ "statut": "BU par la leçon 40 (cerveau fige-300M-cefr : +5571 neurones, +38332 liens, MA1..MC2)",
+ "phrases_bues": 6000,
+ "repartition": "train 4320 (A1 744, A2 707, B1 705, B2 718, C1 714, C2 732) + val 480 + test 1200 (sans niveau)",
+ "mots_appris": 109486,
+ "paires_uniques": 53828,
+ "rencontres": 103200,
+ "bruits_reperes_main": 89,
+ "note_licence": "licence non indiquée sur la carte HF : trace relationnelle seule, texte jamais redistribué"
 }

@@ -33,7 +33,7 @@ récupérés avec les sources listées dans `LISTE-RESTE.md`.
 | ding-01 | 10 dialogues, 14834 tours, 70274 mots appris | ✅ BU 4 passages, réservoir vide (+531 neurones, +12102 liens) |
 | FLEURON | site ATILF, masse non trouvée; URL renvoie actuellement 404 | ⚠️ site seul documenté |
 | TCOF | environ 200k mots annoncés | ⚠️ page actuelle 404; transcription `.trs` à obtenir ailleurs, pas d'audio |
-| french_CEFR | 17 431 599 o, 4 fichiers HF | ✅ 200 lignes + fiche |
+| french_CEFR | 6000 phrases A1..C2, 109486 mots appris | ✅ BU 4 passages, réservoir vide (+5571 neurones, +38332 liens, MA1..MC2) |
 | iRead4Skills | 2 199 textes FR / 530 298 tokens annoncés; dataset 1 restreint | ✅ versions et accès documentés; lexique public 544 270 o |
 | CATIE-AQ | 100 datasets catalogués par l'API | ✅ `CATALOGUE.json` + extrait frenchQA |
 | Zagreus-0.4B / Ilyana | modèles, pas corpus | ✅ références seulement, aucun poids téléchargé |
