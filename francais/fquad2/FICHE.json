@@ -1,0 +1,27 @@
+{
+ "nom": "manu/fquad2_test (FQuAD 2.0 test+valid, français natif)",
+ "source": "https://huggingface.co/datasets/manu/fquad2_test",
+ "licence": "Apache-2.0",
+ "taille_brut_octets": 785547,
+ "contenu": {
+  "test": 800,
+  "valid": 200,
+  "total_bu": 1000,
+  "sans_reponse": 500,
+  "contextes_ignores": 1000,
+  "exclus_doublons": ["test_hasAns (400, sous-ensemble)", "valid_hasAns (100, sous-ensemble)"]
+ },
+ "bu_lecon": 43,
+ "commande": "convertisseur_dialogues.py v4 (Q + 1re réponse, topk=0 TOUT)",
+ "resultat": {
+  "dialogues": 1000,
+  "tours": 1481,
+  "mots": 11700,
+  "neurones_plus": 214,
+  "liens_plus": 2866,
+  "cerveau": "64539 neurones / 316963 liens"
+ },
+ "bruits_chasses": 20,
+ "statut": "BU 8 oct. 2026, brut jeté après comptage (rotation); trace relationnelle seule",
+ "batterie": "132/132 contrôles verts"
+}
