@@ -1,0 +1,153 @@
+---
+task_categories:
+- question-answering
+language:
+- fra
+size_categories:
+- 100K<n<1M
+license: cc-by-4.0
+dataset_info:
+  features:
+  - name: id
+    dtype: string
+  - name: title
+    dtype: string
+  - name: context
+    dtype: string
+  - name: question
+    dtype: string
+  - name: answers
+    sequence:
+    - name: text
+      dtype: string
+    - name: answer_start
+      dtype: int32
+  splits:
+  - name: train
+    num_bytes: 195323685
+    num_examples: 200617
+  - name: validation
+    num_bytes: 465228
+    num_examples: 910
+  - name: test
+    num_bytes: 3300945
+    num_examples: 3188
+  download_size: 34581907
+  dataset_size: 199089858
+configs:
+- config_name: default
+  data_files:
+  - split: train
+    path: data/train-*
+  - split: validation
+    path: data/validation-*
+  - split: test
+    path: data/test-*
+---
+
+# Dataset information 
+**Dataset concatenating QA datasets with context available in French and open-source.**  
+In addition, an augmented version of these datasets has been added (same context but different questions to create data in SQuAD 2.0 format).  
+In total, there are 221,348 training data, **910** validation data and 6,376 test data.   
+In practice, due to the restrictive license for the FQUAD 1.0 dataset, we can only share **200,617** rows of the 221,348 training data and **3,188** rows of the 6,376 test data.  
+So to obtain the complete dataset, the user will have to concatenate this dataset with the fquad dataset available [here](https://fquad.illuin.tech/).  
+Our methodology is described in a blog post available in [English](https://blog.vaniila.ai/en/QA_en/) or [French](https://blog.vaniila.ai/QA/).
+
+
+
+#  Usage
+```
+from datasets import load_dataset
+dataset = load_dataset("CATIE-AQ/frenchQA")
+```
+```
+dataset
+DatasetDict({
+    train: Dataset({
+        features: ['id', 'title', 'context', 'question', 'answers'],
+        num_rows: 200617
+    })
+    validation: Dataset({
+        features: ['id', 'title', 'context', 'question', 'answers'],
+        num_rows: 910
+    })
+    test: Dataset({
+        features: ['id', 'title', 'context', 'question', 'answers'],
+        num_rows: 3188
+    })
+})
+```
+
+
+# Dataset
+## Dataset details
+
+| Dataset     | Format      | Train split | Dev split   | Test split  | Available in frenchQA |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ------------------------ |
+| [piaf](https://www.data.gouv.fr/en/datasets/piaf-le-dataset-francophone-de-questions-reponses/)| SQuAD 1.0    | 9 224 Q & A  | X  | X  |  Yes |
+| piaf_v2| SQuAD 2.0    | 9 224 Q & A  | X  | X  | Yes |        
+| [fquad](https://fquad.illuin.tech/)| SQuAD 1.0    | 20 731 Q & A | 3 188 Q & A  (is not used for training, but as a test dataset) | 2 189 Q & A (not freely available)| No due to the license |        
+| fquad_v2 | SQuAD 2.0    | 20 731 Q & A | 3 188 Q & A  (is not used for training, but as a test dataset) | X | Yes |         
+| [lincoln/newsquadfr](https://huggingface.co/datasets/lincoln/newsquadfr) | SQuAD 1.0    | 1 650 Q & A  | 455 Q & A | X |   Yes |          
+| lincoln/newsquadfr_v2 | SQuAD 2.0   | 1 650 Q & A  | 455 Q & A | X |  Yes |         
+| [pragnakalp/squad_v2_french_translated](https://huggingface.co/datasets/pragnakalp/squad_v2_french_translated)| SQuAD 2.0    | 79 069 Q & A  | X  | X  |  Yes |         
+| pragnakalp/squad_v2_french_translated_v2| SQuAD 2.0    | 79 069 Q & A  | X  | X  |  Yes |
+
+
+## Split
+- `train` corresponds to the concatenation of the training dataset from `pragnakalp/squad_v2_english_translated` + `lincoln/newsquadfr` + `PIAFv1.2` + the augmented version of each dataset in SQuADv2 format (no shuffle has been performed)
+- `validation` corresponds to the concatenation of the newsquadfr validation dataset + this same dataset expanded in SQuAD v2 format (= newsquadfr_v2) (no shuffle performed)
+- `test` corresponds to the concatenation of the fquad dataset SQuAD v1 in SQuAD v2 format (here we can only share the SQuAD v2 format)
+
+
+# Question type statistics
+
+The question type distribution is as follows:
+
+| Type of question | Frequency in percent |
+| -----------      | ----------- |
+|What (que)        |55.02|
+|Who (qui)         |15.96|
+|How much (combien)|7.92|
+|When (quand)      |6.90|
+|Where (où)        |3.15|
+|How (comment)     |3.76|
+|What (quoi)       |2.60|
+|Why (pourquoi)    |1.25|
+|Other             |3.44|
+
+The number of questions containing a negation, e.g. "What was the name of Chopin's first music teacher who was not an amateur musician?", is estimated at 3.55% of the total questions.
+
+
+For information, the distribution of the complete dataset (containing FQUAD 1.0 and FQUAD 1.0 data in SQUAD 2.0 format) is as follows:
+
+| Type of question | Frequency in percent |
+| -----------      | ----------- |
+|What (que)        |55.12|
+|Who (qui)         |16.24|
+|How much (combien)|7.56|
+|When (quand)      |6.85|
+|Where (où)        |3.98|
+|How (comment)     |3.76|
+|What (quoi)       |2.94|
+|Why (pourquoi)    |1.41|
+|Other             |2.14|
+
+The number of questions containing a negation, e.g. "What was the name of Chopin's first music teacher who was not an amateur musician?", is estimated at 3.07% of the total questions.
+
+
+# Citation
+```
+@misc {frenchQA2023,  
+    author       = { {ALBAR, Boris and BEDU, Pierre and BOURDOIS, Loïck} },  
+    organization  = { {Centre Aquitain des Technologies de l'Information et Electroniques} },  
+    title        = { frenchQA (Revision 6249cd5) },  
+    year         = 2023,  
+    url          = { https://huggingface.co/CATIE-AQ/frenchQA },  
+    doi          = { 10.57967/hf/0862 },  
+    publisher    = { Hugging Face }  
+}
+```
+
+# License
+[cc-by-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)

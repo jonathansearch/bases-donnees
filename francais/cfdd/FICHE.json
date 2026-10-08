@@ -1,0 +1,9 @@
+{
+ "nom": "Claire French Dialogue Dataset (CFDD)",
+ "source": "https://huggingface.co/datasets/OpenLLM-France/Claire-Dialogue-French-0.1",
+ "licence": "CC BY-NC-SA 4.0",
+ "taille_octets_annoncee": 15089356633,
+ "statut": "catalogué; brut non conservé",
+ "contenu": "théâtre et transcriptions de dialogues français",
+ "erreur_extrait": "401 Client Error: Unauthorized for url: https://huggingface.co/datasets/OpenLLM-France/Claire-Dialogue-French-0.1/resolve/main/FR/ACSYNT/train.txt?download=true"
+}

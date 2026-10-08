@@ -1,50 +1,57 @@
-# INDICE du dépôt (un par un, selon nos besoins)
+# INDICE du dépôt
 
-Loi du dépôt : ici les Go ne dorment pas (le snapshot les avale et la
-session plante, prouvé 2 fois). UN seul dataset complet à la fois, le
-reste attend sous forme de catalogue léger (fiches + échantillons Ko-Mo,
-re-clonables en quelques minutes, vitesse mesurée ~60 Mo/s).
+Le dépôt est un **catalogue léger** : fiches JSON, extraits et scripts
+reproductibles. Les archives brutes ne sont jamais conservées. Le plafond
+opérationnel est de 128 Mo et un échantillon ne dépasse pas 3 Mo.
 
-## LE dataset de travail (1 seul)
+## Dataset de travail
 
-- AUCUN complet pour l'instant (budget) : le dépôt = catalogue.
-  Le travail se fait à la demande : on clone, on s'en sert, on jette.
-  (Précédents sortis : yield 363 Mo, accueil-ubs 745 Ko — fiches gardées.)
+Aucun snapshot complet n'est conservé. Les corpus sont re-clonables à la
+demande, puis supprimés après comptage et prélèvement.
 
-## Catalogue d'attente (fiches + échantillons, re-clonables)
+## Conversations
 
-Section `conversations/` (l'ordre du chef : du plus petit au plus grand) :
+| # | Dataset | Taille annoncée | Contenu / vérification | Statut |
+|---|---|---:|---|---|
+| 1 | discord-dialogues | 347 729 144 o | 7 300 966 lignes, 1 parquet, 200 lignes échantillonnées | ✅ fiche + extrait |
+| 2 | yield | 362 440 161 o | 105 735 blocs, 2 281 dialogues, 4 domaines | ✅ fiche + extrait |
+| 3 | ko-agent | 1 358 916 399 o | 600 fichiers JSON, 1 000 lignes échantillonnées | ✅ fiche + extrait |
+| 4 | lmsys-chat-1m | ~1,49 Go | 1M conversations, 6 parquets | 🔒 gated HF, fiche ajoutée |
+| 5 | ultrachat-200k | 1 624 060 272 o | 515 311 lignes, 8 parquets | ✅ fiche + extrait |
+| 6 | escorpius-dialog v1.2 | 2 979 959 806 o | 8 fichiers Zenodo; archives dehydrated = identifiants | ✅ métadonnées + fiche, brut jeté |
+| 7 | wildchat-1m | 3 360 876 486 o | 837 989 lignes, 14 parquets | ✅ fiche + extrait |
 
-| # | Dataset | Taille | Contenu | Échantillon | Licence | Statut |
-|---|---------|--------|---------|-------------|---------|--------|
-| 1 | discord-dialogues | 331 Mo | 7 300 966 lignes | 200 | Apache-2.0 | ✅ clonable |
-| 2 | yield | 363 Mo | 105 735 blocs | 200 | CC BY 4.0 | 📦 DANS LE REPO |
-| 3 | ko-agent | 1,36 Go | 654 fichiers | 1000 | ? | ✅ clonable |
-| 4 | lmsys-chat-1m | 1,49 Go | 1M conv. | — | ? | 🔒 gated (1 clic HF) |
-| 5 | ultrachat-200k | 1,62 Go | 515 311 lignes | 200 | ? | ✅ clonable |
-| 6 | escorpius-dialog | 2,98 Go | 26,9M dial. | — | CC BY-NC-ND | ✅ Zenodo 18466512 |
-| 7 | wildchat-1m | 3,36 Go | 837 989 lignes | 200 | ? | ✅ clonable |
+Les fichiers complets sont volontairement absents de Git et peuvent être
+récupérés avec les sources listées dans `LISTE-RESTE.md`.
 
-Section `francais/` (sources repérées, à cloner sur ordre) :
+## Français
 
-| Dataset | Source repérée | Note |
-|---------|----------------|------|
-| accueil-ubs | univ-tours ZIP | fiche seule (brut sorti, 3 s) |
-| CFDD | OpenLLM-France/Claire-Dialogue-French-0.1 (HF) | ~160M mots, CC BY-NC-SA |
-| ding-01 | GitLab Inria semagramme ding | dialogues Catan + AMR |
-| FLEURON | apps.atilf.fr/fleuron | site concordancier, masse à vérifier |
-| TCOF | cnrtl.fr/corpus/tcof | 200k mots transcrits (+20h audio) |
-| Makxxx/french_CEFR | HF Makxxx/french_CEFR | phrases A1→C2 |
-| iRead4Skills | Zenodo 10889888 | corpus FR par niveaux |
-| CATIE-AQ prompts | org HF CATIE-AQ | collection 30 tâches |
-| Zagreus-0.4B / Ilyana | modèles HF | RÉFÉRENCES, pas des données (pas de LLM dans le système) |
+| Dataset | Taille / comptage | Statut |
+|---|---:|---|
+| accueil-ubs | 26 045 mots, 40 dialogues | ✅ fiche existante |
+| CFDD / Claire | 15 089 356 633 o selon l'API HF | ✅ fiche + statut 401 documenté; brut non conservé |
+| ding-01 | 10 transcriptions `.txt`, 7 annotations `.conllu` | ✅ 2 extraits + fiche |
+| FLEURON | site ATILF, masse non trouvée; URL renvoie actuellement 404 | ⚠️ site seul documenté |
+| TCOF | environ 200k mots annoncés | ⚠️ page actuelle 404; transcription `.trs` à obtenir ailleurs, pas d'audio |
+| french_CEFR | 17 431 599 o, 4 fichiers HF | ✅ 200 lignes + fiche |
+| iRead4Skills | 2 199 textes FR / 530 298 tokens annoncés; dataset 1 restreint | ✅ versions et accès documentés; lexique public 544 270 o |
+| CATIE-AQ | 100 datasets catalogués par l'API | ✅ `CATALOGUE.json` + extrait frenchQA |
+| Zagreus-0.4B / Ilyana | modèles, pas corpus | ✅ références seulement, aucun poids téléchargé |
 
 ## Scripts
 
-- `scripts/echantillonner_s1.py` : clone → échantillonne → jette le brut.
-- `scripts/sonder_s2.py` : sonde les sources françaises.
+- `scripts/echantillonner_s1.py` : clone temporaire → échantillon → suppression
+  du brut; chemin calculé depuis le dépôt, sans `/home/user` en dur.
+- `scripts/sonder_s2.py` : sondage HTTP sans dépendance `huggingface_hub`.
+- `scripts/ajouter_s2.py` : ajoute les fiches et extraits français via API,
+  sans snapshot massif.
 
-## Règle de rotation
+## Validation
 
-Quand le chef ordonne le suivant : on sort l'actuel (sa fiche reste),
-on clone le suivant, on travaille. Jamais 2 complets ensemble.
+```bash
+python3 -m py_compile scripts/*.py
+python3 scripts/sonder_s2.py
+python3 scripts/ajouter_s2.py
+```
+
+Le dépôt ne conserve actuellement aucun fichier de données supérieur à 3 Mo.

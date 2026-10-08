@@ -1,0 +1,19 @@
+{
+ "nom": "iRead4Skills Dataset 1",
+ "source_demandee": "https://zenodo.org/records/10889888",
+ "source_publique_active": "https://zenodo.org/records/13768477",
+ "source_lexiques": "https://zenodo.org/records/10889986",
+ "licence": "CC BY-NC-ND 4.0 (dataset 1, selon la notice); CC BY 4.0 (lexiques)",
+ "statut": "dataset 1 restreint (API sans fichier); lexique public catalogué",
+ "comptage_notice": {
+  "fr_textes": 2199,
+  "fr_tokens": 530298
+ },
+ "fichiers_lexiques": [
+  {
+   "nom": "iRead4Skills_D3.6 Basic lexicons per complexity levels.zip",
+   "octets": 544270
+  }
+ ],
+ "version": "2.1."
+}

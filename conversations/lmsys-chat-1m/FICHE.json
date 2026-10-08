@@ -1,0 +1,9 @@
+{
+ "nom": "LMSYS-Chat-1M",
+ "source": "https://huggingface.co/datasets/lmsys/lmsys-chat-1m",
+ "taille_annoncee_octets": 1490000000,
+ "contenu": "1 million de conversations, 6 parquets",
+ "statut": "gated-401-anonyme",
+ "action": "accepter les conditions sur Hugging Face, puis relancer avec HF_TOKEN",
+ "echantillon": null
+}

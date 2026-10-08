@@ -1,0 +1,22 @@
+{
+ "nom": "DING",
+ "source": "https://gitlab.inria.fr/semagramme-public-projects/resources/ding",
+ "licence": "voir LICENSE du dépôt Inria",
+ "fichiers_source": 21,
+ "fichiers_transcriptions": 10,
+ "fichiers_annotations": 7,
+ "contenu": "dialogues spontanés Catan et annotations CoNLL-U",
+ "samples": [
+  {
+   "source": "ding1-1.txt",
+   "octets": 175140,
+   "sha256_16": "4c048ad6f24d8dde"
+  },
+  {
+   "source": "ding1-2.txt",
+   "octets": 122091,
+   "sha256_16": "24470d1cd42add0f"
+  }
+ ],
+ "statut": "échantillon ajouté; source complète re-clonable"
+}

@@ -1,0 +1,1460 @@
+[
+ {
+  "id": "CATIE-AQ/orange_sum_fr_prompt_fill_mask",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/orange_sum_fr_prompt_fill_mask",
+  "licences": [
+   "license:cc-by-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:fill-mask"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/frenchQA",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/frenchQA",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:question-answering"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/french_books",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/french_books",
+  "licences": [],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [],
+  "taille": "size_categories:1K<n<10K"
+ },
+ {
+  "id": "CATIE-AQ/french_books_summaries",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/french_books_summaries",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:summarization"
+  ],
+  "taille": "size_categories:n<1K"
+ },
+ {
+  "id": "CATIE-AQ/stsb_multi_mt_fr_prompt_sentence_similarity",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/stsb_multi_mt_fr_prompt_sentence_similarity",
+  "licences": [
+   "license:other"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification",
+   "task_ids:text-scoring",
+   "task_ids:semantic-similarity-scoring"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/paws-x_fr_prompt_paraphrase_detection",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/paws-x_fr_prompt_paraphrase_detection",
+  "licences": [
+   "license:other"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/paws-x_fr_prompt_paraphrase_generation",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/paws-x_fr_prompt_paraphrase_generation",
+  "licences": [
+   "license:other"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/xnli_fr_prompt_textual_entailment",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/xnli_fr_prompt_textual_entailment",
+  "licences": [
+   "license:cc-by-nc-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/anli_fr_prompt_textual_entailment",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/anli_fr_prompt_textual_entailment",
+  "licences": [],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/fever_fr_prompt_textual_entailment",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/fever_fr_prompt_textual_entailment",
+  "licences": [],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/ling_fr_prompt_textual_entailment",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/ling_fr_prompt_textual_entailment",
+  "licences": [],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/mnli_fr_prompt_textual_entailment",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/mnli_fr_prompt_textual_entailment",
+  "licences": [],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/wanli_fr_prompt_textual_entailment",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/wanli_fr_prompt_textual_entailment",
+  "licences": [],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/bisect_fr_prompt_textual_simplification",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/bisect_fr_prompt_textual_simplification",
+  "licences": [
+   "license:cc-by-nc-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:summarization"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/bisect_fr_prompt_textual_merging",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/bisect_fr_prompt_textual_merging",
+  "licences": [
+   "license:cc-by-nc-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:summarization"
+  ],
+  "taille": "size_categories:10M<n<100M"
+ },
+ {
+  "id": "CATIE-AQ/xwinograd_fr_prompt_coreference",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/xwinograd_fr_prompt_coreference",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [],
+  "taille": "size_categories:n<1K"
+ },
+ {
+  "id": "CATIE-AQ/wino_x_fr_prompt_coreference",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/wino_x_fr_prompt_coreference",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/french_book_reviews_fr_prompt_sentiment_analysis",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/french_book_reviews_fr_prompt_sentiment_analysis",
+  "licences": [
+   "license:cc"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/allocine_fr_prompt_sentiment_analysis",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/allocine_fr_prompt_sentiment_analysis",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/amazon_reviews_multi_fr_prompt_sentiment_analysis",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/amazon_reviews_multi_fr_prompt_sentiment_analysis",
+  "licences": [
+   "license:other"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/wikiann_fr_prompt_ner",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/wikiann_fr_prompt_ner",
+  "licences": [
+   "license:unknown"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/wikineural_fr_prompt_ner",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/wikineural_fr_prompt_ner",
+  "licences": [
+   "license:unknown"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/multinerd_fr_prompt_ner",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/multinerd_fr_prompt_ner",
+  "licences": [
+   "license:unknown"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/wikiner_fr_prompt_ner",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/wikiner_fr_prompt_ner",
+  "licences": [
+   "license:unknown"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/universal_dependencies_fr_fqb_fr_prompt_pos",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/universal_dependencies_fr_fqb_fr_prompt_pos",
+  "licences": [
+   "license:lgpl"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/universal_dependencies_fr_gsd_fr_prompt_pos",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/universal_dependencies_fr_gsd_fr_prompt_pos",
+  "licences": [
+   "license:cc-by-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/universal_dependencies_fr_partut_fr_prompt_pos",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/universal_dependencies_fr_partut_fr_prompt_pos",
+  "licences": [
+   "license:cc-by-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/universal_dependencies_fr_pud_fr_prompt_pos",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/universal_dependencies_fr_pud_fr_prompt_pos",
+  "licences": [
+   "license:cc-by-sa-3.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/universal_dependencies_fr_spoken_fr_prompt_pos",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/universal_dependencies_fr_spoken_fr_prompt_pos",
+  "licences": [
+   "license:cc-by-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/universal_dependencies_fr_sequoia_fr_prompt_pos",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/universal_dependencies_fr_sequoia_fr_prompt_pos",
+  "licences": [
+   "license:lgpl"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/amazon_massive_intent_fr_prompt_intent_classification",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/amazon_massive_intent_fr_prompt_intent_classification",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/mtop_domain_intent_fr_prompt_intent_classification",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/mtop_domain_intent_fr_prompt_intent_classification",
+  "licences": [
+   "license:unknown"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/french_book_reviews_fr_prompt_stars_classification",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/french_book_reviews_fr_prompt_stars_classification",
+  "licences": [
+   "license:cc"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/amazon_reviews_multi_fr_prompt_stars_classification",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/amazon_reviews_multi_fr_prompt_stars_classification",
+  "licences": [
+   "license:other"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/amazon_reviews_multi_fr_prompt_classes_classification",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/amazon_reviews_multi_fr_prompt_classes_classification",
+  "licences": [
+   "license:other"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/amazon_reviews_multi_fr_prompt_title_generation_from_a_review",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/amazon_reviews_multi_fr_prompt_title_generation_from_a_review",
+  "licences": [
+   "license:other"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/orange_sum_fr_prompt_summarization",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/orange_sum_fr_prompt_summarization",
+  "licences": [
+   "license:cc-by-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:summarization"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/orange_sum_fr_prompt_text_generation_from_an_article",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/orange_sum_fr_prompt_text_generation_from_an_article",
+  "licences": [
+   "license:cc-by-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/orange_sum_fr_prompt_text_generation_from_title_of_an_article",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/orange_sum_fr_prompt_text_generation_from_title_of_an_article",
+  "licences": [
+   "license:cc-by-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/orange_sum_fr_prompt_title_generation_from_an_article",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/orange_sum_fr_prompt_title_generation_from_an_article",
+  "licences": [
+   "license:cc-by-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/amazon_reviews_multi_fr_prompt_binary_text_generation_from_title_of_a_review",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/amazon_reviews_multi_fr_prompt_binary_text_generation_from_title_of_a_review",
+  "licences": [
+   "license:other"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/amazon_reviews_multi_fr_prompt_text_generation_from_title_of_a_review",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/amazon_reviews_multi_fr_prompt_text_generation_from_title_of_a_review",
+  "licences": [
+   "license:other"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/french_book_reviews_fr_prompt_binary_text_generation_from_title_of_a_review",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/french_book_reviews_fr_prompt_binary_text_generation_from_title_of_a_review",
+  "licences": [
+   "license:cc"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/fquad_fr_prompt_qa",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/fquad_fr_prompt_qa",
+  "licences": [
+   "license:cc-by-nc-sa-3.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:question-answering"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/fquad_fr_prompt_context_generation_with_answer",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/fquad_fr_prompt_context_generation_with_answer",
+  "licences": [
+   "license:cc-by-nc-sa-3.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": null
+ },
+ {
+  "id": "CATIE-AQ/fquad_fr_prompt_context_generation_with_answer_and_question",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/fquad_fr_prompt_context_generation_with_answer_and_question",
+  "licences": [
+   "license:cc-by-nc-sa-3.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": null
+ },
+ {
+  "id": "CATIE-AQ/fquad_fr_prompt_context_generation_with_question",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/fquad_fr_prompt_context_generation_with_question",
+  "licences": [
+   "license:cc-by-nc-sa-3.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": null
+ },
+ {
+  "id": "CATIE-AQ/fquad_fr_prompt_question_generation_with_answer",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/fquad_fr_prompt_question_generation_with_answer",
+  "licences": [
+   "license:cc-by-nc-sa-3.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": null
+ },
+ {
+  "id": "CATIE-AQ/fquad_fr_prompt_question_generation_with_context",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/fquad_fr_prompt_question_generation_with_context",
+  "licences": [
+   "license:cc-by-nc-sa-3.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": null
+ },
+ {
+  "id": "CATIE-AQ/squad_v2_french_translated_fr_prompt_context_generation_with_answer",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/squad_v2_french_translated_fr_prompt_context_generation_with_answer",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/squad_v2_french_translated_fr_prompt_qa",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/squad_v2_french_translated_fr_prompt_qa",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:question-answering"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/squad_v2_french_translated_fr_prompt_context_generation_with_answer_and_question",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/squad_v2_french_translated_fr_prompt_context_generation_with_answer_and_question",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/squad_v2_french_translated_fr_prompt_context_generation_with_question",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/squad_v2_french_translated_fr_prompt_context_generation_with_question",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/squad_v2_french_translated_fr_prompt_question_generation_with_answer",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/squad_v2_french_translated_fr_prompt_question_generation_with_answer",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/squad_v2_french_translated_fr_prompt_question_generation_with_context",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/squad_v2_french_translated_fr_prompt_question_generation_with_context",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/piaf_fr_prompt_qa",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/piaf_fr_prompt_qa",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:question-answering"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/piaf_fr_prompt_context_generation_with_answer",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/piaf_fr_prompt_context_generation_with_answer",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/piaf_fr_prompt_context_generation_with_answer_and_question",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/piaf_fr_prompt_context_generation_with_answer_and_question",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/piaf_fr_prompt_context_generation_with_question",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/piaf_fr_prompt_context_generation_with_question",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/piaf_fr_prompt_question_generation_with_answer",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/piaf_fr_prompt_question_generation_with_answer",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/piaf_fr_prompt_question_generation_with_context",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/piaf_fr_prompt_question_generation_with_context",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/newsquadfr_fr_prompt_qa",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/newsquadfr_fr_prompt_qa",
+  "licences": [
+   "license:cc-by-nc-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:question-answering"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/newsquadfr_fr_prompt_context_generation_with_answer",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/newsquadfr_fr_prompt_context_generation_with_answer",
+  "licences": [
+   "license:cc-by-nc-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/newsquadfr_fr_prompt_context_generation_with_answer_and_question",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/newsquadfr_fr_prompt_context_generation_with_answer_and_question",
+  "licences": [
+   "license:cc-by-nc-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/newsquadfr_fr_prompt_context_generation_with_question",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/newsquadfr_fr_prompt_context_generation_with_question",
+  "licences": [
+   "license:cc-by-nc-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/newsquadfr_fr_prompt_question_generation_with_answer",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/newsquadfr_fr_prompt_question_generation_with_answer",
+  "licences": [
+   "license:cc-by-nc-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/newsquadfr_fr_prompt_question_generation_with_context",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/newsquadfr_fr_prompt_question_generation_with_context",
+  "licences": [
+   "license:cc-by-nc-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/newsquadfr_fr_prompt_question_generation_with_answer_and_context",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/newsquadfr_fr_prompt_question_generation_with_answer_and_context",
+  "licences": [
+   "license:cc-by-nc-sa-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/piaf_fr_prompt_question_generation_with_answer_and_context",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/piaf_fr_prompt_question_generation_with_answer_and_context",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/fquad_fr_prompt_question_generation_with_answer_and_context",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/fquad_fr_prompt_question_generation_with_answer_and_context",
+  "licences": [
+   "license:cc-by-nc-sa-3.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": null
+ },
+ {
+  "id": "CATIE-AQ/squad_v2_french_translated_fr_prompt_question_generation_with_answer_and_context",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/squad_v2_french_translated_fr_prompt_question_generation_with_answer_and_context",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1M<n<10M"
+ },
+ {
+  "id": "CATIE-AQ/DFP",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/DFP",
+  "licences": [],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification",
+   "task_categories:token-classification",
+   "task_categories:question-answering",
+   "task_categories:zero-shot-classification",
+   "task_categories:summarization",
+   "task_categories:text-generation",
+   "task_categories:fill-mask",
+   "task_categories:sentence-similarity"
+  ],
+  "taille": "size_categories:100M<n<1B"
+ },
+ {
+  "id": "CATIE-AQ/taln-archives_fr_prompt_data_to_text",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/taln-archives_fr_prompt_data_to_text",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/taln-archives_fr_prompt_keywords_extraction",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/taln-archives_fr_prompt_keywords_extraction",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/termith-eval_fr_prompt_data_to_text",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/termith-eval_fr_prompt_data_to_text",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/termith-eval_fr_prompt_keywords_extraction",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/termith-eval_fr_prompt_keywords_extraction",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1K<n<10K"
+ },
+ {
+  "id": "CATIE-AQ/wikinews-fr-100_fr_prompt_data_to_text",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/wikinews-fr-100_fr_prompt_data_to_text",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1K<n<10K"
+ },
+ {
+  "id": "CATIE-AQ/wikinews-fr-100_fr_prompt_keywords_extraction",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/wikinews-fr-100_fr_prompt_keywords_extraction",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language_creators:found",
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:1K<n<10K"
+ },
+ {
+  "id": "CATIE-AQ/frenchSUM",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/frenchSUM",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language:fr"
+  ],
+  "taches": [
+   "task_categories:summarization"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/frenchKEYWORDS",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/frenchKEYWORDS",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language:fr"
+  ],
+  "taches": [
+   "task_categories:token-classification",
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/frenchNLI",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/frenchNLI",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/frenchPARAPHRASE",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/frenchPARAPHRASE",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language:fr"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/frenchNER_3entities",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/frenchNER_3entities",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/ssl-checkpoints",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/ssl-checkpoints",
+  "licences": [],
+  "langues": [],
+  "taches": [],
+  "taille": null
+ },
+ {
+  "id": "CATIE-AQ/CFP",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/CFP",
+  "licences": [],
+  "langues": [
+   "language_creators:found",
+   "language:fr"
+  ],
+  "taches": [
+   "task_categories:text-classification",
+   "task_categories:token-classification",
+   "task_categories:question-answering",
+   "task_categories:zero-shot-classification",
+   "task_categories:summarization",
+   "task_categories:text-generation",
+   "task_categories:fill-mask",
+   "task_categories:sentence-similarity"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/frenchNER_4entities",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/frenchNER_4entities",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:token-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/frenchSIMPLIFICATION",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/frenchSIMPLIFICATION",
+  "licences": [],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-generation"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/frenchSTS",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/frenchSTS",
+  "licences": [],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:sentence-similarity"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/allocine_clean",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/allocine_clean",
+  "licences": [],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:text-classification"
+  ],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/french_narrativeqa",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/french_narrativeqa",
+  "licences": [
+   "license:cc-by-4.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:question-answering"
+  ],
+  "taille": "size_categories:1K<n<10K"
+ },
+ {
+  "id": "CATIE-AQ/wikipedia_fr_2022_250K",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/wikipedia_fr_2022_250K",
+  "licences": [],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [],
+  "taille": "size_categories:100K<n<1M"
+ },
+ {
+  "id": "CATIE-AQ/wikipedia_fr_2022",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/wikipedia_fr_2022",
+  "licences": [],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [],
+  "taille": "size_categories:10M<n<100M"
+ },
+ {
+  "id": "CATIE-AQ/VQA-ByteDance-MTVQA-clean",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/VQA-ByteDance-MTVQA-clean",
+  "licences": [
+   "license:cc-by-nc-4.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:visual-question-answering",
+   "task_categories:image-feature-extraction",
+   "task_categories:image-text-to-text"
+  ],
+  "taille": "size_categories:1K<n<10K"
+ },
+ {
+  "id": "CATIE-AQ/VQA-floschne-maxm-clean",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/VQA-floschne-maxm-clean",
+  "licences": [
+   "license:cc-by-sa-4.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:visual-question-answering",
+   "task_categories:image-feature-extraction"
+  ],
+  "taille": "size_categories:n<1K"
+ },
+ {
+  "id": "CATIE-AQ/VQA-vidore-shiftproject_test-clean",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/VQA-vidore-shiftproject_test-clean",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:visual-question-answering",
+   "task_categories:image-feature-extraction"
+  ],
+  "taille": "size_categories:n<1K"
+ },
+ {
+  "id": "CATIE-AQ/VQA-cmarkea-doc-vqa-clean",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/VQA-cmarkea-doc-vqa-clean",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:visual-question-answering",
+   "task_categories:image-feature-extraction"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/VQA-cmarkea-table-vqa-clean",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/VQA-cmarkea-table-vqa-clean",
+  "licences": [
+   "license:apache-2.0"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:visual-question-answering",
+   "task_categories:image-feature-extraction"
+  ],
+  "taille": "size_categories:10K<n<100K"
+ },
+ {
+  "id": "CATIE-AQ/retriever-vidore-vdsid_french-clean",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/retriever-vidore-vdsid_french-clean",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:image-feature-extraction"
+  ],
+  "taille": "size_categories:1K<n<10K"
+ },
+ {
+  "id": "CATIE-AQ/VQA-vidore-vdsid_french-clean",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/VQA-vidore-vdsid_french-clean",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:visual-question-answering",
+   "task_categories:image-feature-extraction"
+  ],
+  "taille": "size_categories:1K<n<10K"
+ },
+ {
+  "id": "CATIE-AQ/caption-vidore-vdsid_french-clean",
+  "url": "https://huggingface.co/datasets/CATIE-AQ/caption-vidore-vdsid_french-clean",
+  "licences": [
+   "license:mit"
+  ],
+  "langues": [
+   "language:fra"
+  ],
+  "taches": [
+   "task_categories:visual-question-answering"
+  ],
+  "taille": "size_categories:1K<n<10K"
+ }
+]

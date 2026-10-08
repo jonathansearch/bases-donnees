@@ -1,0 +1,19 @@
+{
+ "nom": "esCorpiusDialog",
+ "source": "https://zenodo.org/records/18466512",
+ "version": "1.2",
+ "licence": "CC BY-NC-ND 4.0",
+ "statut": "catalogué; archives brutes non conservées",
+ "fichiers": {
+  "meneame_dehydrated.tar.gz": {"octets": 33786634, "statut": "métadonnée vérifiée"},
+  "usenet.zip": {"octets": 1455020172, "statut": "métadonnée vérifiée"},
+  "gutenberg.zip": {"octets": 3192640, "statut": "métadonnée vérifiée"},
+  "open_subtitles.zip": {"octets": 1377726709, "statut": "métadonnée vérifiée"},
+  "LICENSE.txt": {"octets": 19347, "statut": "source Zenodo"},
+  "mediavida_dehydrated.tar.gz": {"octets": 4760312, "statut": "métadonnée vérifiée"},
+  "reddit_dehydrated.tar.gz": {"octets": 108399270, "statut": "métadonnée vérifiée"},
+  "README.txt": {"octets": 6334, "statut": "source Zenodo"}
+ },
+ "comptage": "les archives dehydrated contiennent des identifiants, pas le texte; open_subtitles et usenet restent re-clonables",
+ "regle": "ne pas dézipper ni conserver les archives > 50 Mo dans le dépôt"
+}

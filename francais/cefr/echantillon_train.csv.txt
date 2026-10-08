@@ -1,0 +1,200 @@
+sentence,difficulty,label
+"Les coûts kilométriques réels peuvent diverger sensiblement des valeurs moyennes en fonction du moyen de transport utilisé, du taux d'occupation ou du taux de remplissage, de l'infrastructure utilisée, de la topographie des lignes, du flux de trafic, etc.",C1,4
+"Le bleu, c'est ma couleur préférée mais je n'aime pas le vert!",A1,0
+Le test de niveau en français est sur le site Internet de l'école.,A1,0
+Est-ce que ton mari est aussi de Boston?,A1,0
+"Dans les écoles de commerce, dans les couloirs de places financières, il arrive aujourd'hui de croiser de jeunes adultes de 20 ou 25 ans qui prévoient d'ouvrir une maison d'hôtes ""dans une quinzaine d'années"".",B1,2
+voilà une autre histoire que j'ai beaucoup aimée.,A2,1
+Les médecins disent souvent qu'on doit boire un verre de vin rouge après les repas.,A2,1
+"Il est particulièrement observé chez les personnes ayant un besoin de popularité développé, qui considèrent dès lors le moindre signal du smartphone comme un possible indicateur de leur degré de popularité.",B2,3
+J'ai retrouvé le plaisir de manger un oeuf à la coque,A2,1
+"Nous allons bien, nous habitons dans une petite maison ancienne avec un très beau jardin",B1,2
+Bonjour et bonne année.,A1,0
+La presse s'est abondamment fait l'écho des effets secondaires ressentis par les soignants de moins de 65 ans.,B2,3
+"Pour que le rocher s'ouvre, il faut le toucher avec un brin d'herbe.",B1,2
+J'habite une belle ville dans le nord de la France.,A1,0
+"Certes il doit répondre aux goûts du consommateur, mais aussi aux capacités de son porte-monnaie.",B2,3
+"Ma timidité me quittait dès que je m'éloignais d'Ellénore ; je reprenais alors mes plans habiles et mes profondes combinaisons : mais à peine me retrouvais-je auprès d'elle, que je me sentais de nouveau tremblant et troublé.",C2,5
+Je pense que fréquenter les galeries est la meilleure manière d'éduquer son oeil à l'art contemporain.,B2,3
+"Le soir, je me cuche tôt parce que je dois être toujours en bonne forme.",A1,0
+"La mère de Raphaël et de Vanessa exprime sa satisfaction : depuis que ses enfants possèdent un portable, ""ça a libéré ma ligne"", déclare-t-elle.",B2,3
+Je ne fais pas grand-chose à la maison.,A2,1
+Elle ajoute qu'une interdiction totale est impossible à gérer.,B2,3
+"Sans plus d'hésitation, il tourna vers la gauche ; son pas sonnait sur la terre durcie, et ce bruit cadencé, monotone, assoupissait en le berçant, le tumulte de son esprit.",C2,5
+"Comme le signale l'expression ""lingua franca"", le français a été pendant très longtemps la langue internationale, eu égard à notre rayonnement politique aussi bien que culturel",C2,5
+Je ne t'ai pas téléphoné parce que j'ai eu trop de travail.,B1,2
+C'est peut-être ça que vous cherchez ?,A2,1
+"Qu'est-ce qui peut bien poser problème dans ces petits livrets pourtant plutôt attractifs pour que seuls 23, 4 % de leurs détenteurs arrivent au bout ?",C2,5
+Je consulte d'habitude ma messagerie. Et puis je prends un café.,A1,0
+Nous sommes en train de dîner.,A2,1
+"En fait, je trouve que l'éducation est une bonne chose.",B1,2
+As-tu besoin de quelque chose?,A1,0
+"Perpétuel clandestin, c'est muni d'un faux titre de séjour, photocopie de la carte de résident d'un copain-complice, qu'il avait ensuite sillonné l'Hexagone, au bon vouloir d'employeurs peu scrupuleux.",C1,4
+"Le mariage mixte apparaît comme le lieu privilégié ou les cultures s'affrontent, dialoguent et se fondent.",B2,3
+"Assis en terrasse dans le quartier touristique du Vieux Lyon, James sirote une limonade bien fraîche",B2,3
+"La chronologie antique ne prend sens que sur un large pourtour de la Méditerranée, de même que ce découpage spatial n'est pertinent comme entité géographique que durant cette période pendant laquelle la mer intérieure n'est pas vécue comme une limite.",C2,5
+"En voici un des moins obscurs : ""Plus nous devenons maîtres de la biosphère, plus nous en devenons dépendants ; plus nous la dégradons, plus nous dégradons nos vies5.",C2,5
+"C'est le début de troubles qui se poursuivent et s'étendent au reste du territoire tout au long du mois de septembre les fameuses ""Journées de septembre"" amplifiés le refus de Guillaume 1er de considérer les revendications des insurgés",B2,3
+Les filles s'étaient fait des colliers en fruits rouges qui ressemblaient à des perles.,B2,3
+Je reste avec toi.,A1,0
+Un revenu devient donc une nécessité pour que l'Homme puisse accéder à la satisfaction d'avoir comblé ses désirs,C2,5
+Tu mangeas les petits fruits dès que tu les eus cueillis,C2,5
+"Ben, on est tous débordés quoi.",A1,0
+"Un petit garçon : Ben trois dans un nid et dans l'autre, y'en a deux",A2,1
+J'ai été en forme toute la matinée.,A2,1
+"L'ordinateur peut aussi répondre à des interruptions qui lui permettent d'exécuter des programmes de réponses spécifiques à chacune, puis de reprendre l'exécution séquentielle du programme interrompu.",C2,5
+Il a plu et j'ai attendu l'autobus.,A2,1
+"Dans d'autres cas il s'agit de limites relatives, basées sur un taux de croissance démographique de référence, valables là aussi uniquement hors centres ou pondérées en fonction du degré de centralité.",C2,5
+C'est bien !,A1,0
+"En 2007, moins de 8% des déchets des entreprises ont fait l'objet d'une collecte sélective.",B2,3
+Les médecins des donneurs vous conseilleront volontiers dans un tel cas vous renseigneront par rapport aux dons de sang.,C1,4
+Le plus inquiétant c'est que la Scandinavie avait déjà battu des records de chaleur pendant l'été 2018,A2,1
+J'aime le ski.,A1,0
+"""Malheureusement, il semble désormais évident qu'il n'y a pas de voie pour obtenir une confirmation"", a écrit Neera Tanden à Joe Biden en retirant sa candidature",B2,3
+Pourquoi l'oisillon se retrouve-t-il seul dans la forêt ?,A1,0
+Elle est née quel jour ?,A1,0
+"Il existe effectivement, des êtres humains qui possèdent une quantité de pouvoir importante et qui contraignent l'humanité à travailler en créant un cercle vicieux qui fait du travail une nécessité pour accéder à ses propres désirs",C2,5
+Une bouchée de : cette expression fait référence à la quantité d'un aliment qu'on met dans la bouche en une fois.,B1,2
+"Si tu respectait les indications plus sérieusement, tu trouverais plus facilement ton chemin à travers ces ruelles.",B2,3
+"Aussitôt que Julie eut découvert la vérité, elle fut furieuse",C2,5
+Pile au moment où on a le plus besoin de réconfort,A2,1
+"Le train, en son temps, était également craint. Brigitte Munier Les robots suscitent l'enthousiasme des Occidentaux, mais aussi leur angoisse: au lieu de les concevoir comme de simples outils ou, à la manière japonaise, tels d'amicaux auxiliaires, ils craignent des compétiteurs menaçant leur avenir.",C1,4
+Je viens d'emménager dans ma nouvelle maison.,A2,1
+"Et cette année, ça défile !",B1,2
+"Compte tenu de cette configuration, cette zone est peu adaptée à des mesures de terrain pour limiter la diffusion des campagnols terrestres ; les axes routiers ne représentant pas une barrière très forte pour cette espèce, on peut aussi penser qu'un tel résultat est un artéfact dû à la coupure artificielle d'une seule tache de prairie.",C1,4
+"Après mûre réflexion, la Commission européenne a eu une idée brillante: s'attaquer à un nouveau chantier, qui avait jusque-là bizarrement échappé à sa sagacité légendaire.",C1,4
+"Avec de l'expérience, le télévendeur peut devenir animateur d'un pôle de télévendeurs, superviseur d'équipe, chef de plateau.",B1,2
+"Et toi, qu'est-ce que tu vas faire ?",A2,1
+Les valorisations boursières des sociétés Internet comme AMAZON,C2,5
+"Sur d'autres, on entendait une série de détonations, tandis que des contestataires scandaient: ""notre révolte doit réussir"".",C1,4
+Les baby-boomers en sont convaincus: tout peut recommencer à 50 ans.,C1,4
+"Rien n'était si beau, si leste, si brillant, si bien ordonné que les deux armées.",B1,2
+Comment t'appelles-tu ?,A1,0
+"Largué par la sonde européenne Rosetta, le petit robot avait atterri mercredi en fin d'après-midi sur le noyau de la comète Tchourioumov-Guérassimenko, une première de l'histoire spatiale.",B2,3
+"Elle pendit son linge au dossier d'une chaise, elle demeura debout, tournant, examinant les meubles, frappée d'une telle stupeur, que ses larmes ne coulaient plus ; il lui restait un sou sur les quatre sous gardés pour le lavoir. Puis, entendant rire à la fenêtre Étienne et Claude, déjà consolés, elle s'approcha, prit leurs têtes sous ses bras, s'oublia un instant devant cette chaussée grise, où elle avait vu, le matin, s'éveiller le peuple ouvrier, le travail géant de Paris ; à cette heure, le pavé échauffé par les besognes du jour allumait une réverbération ardente au-dessus de la ville, derrière le mur de l'octroi ; c'était sur ce pavé, dans cet air de fournaise, qu'on la jetait toute seule avec les petits et elle enfila d'un regard les boulevards extérieurs, à droite, à gauche, s'arrêtant aux deux bouts, prise d'une épouvante sourde, comme si sa vie, désormais, allait tenir là, entre un abattoir et un hôpital.",C2,5
+"Le sérum, qui a pâti de la comparaison avec ses concurrents Pfizer et Moderna, est désormais considéré comme aussi efficace pour prévenir le risque d'hospitalisation.",C1,4
+"J'ai identifié trois peurs fondamentales du robot: la crainte instinctive du métal contre la chair, la crainte sociétale, presque désespérée du robot qui va voler le travail de l'homme, et, enfin, la crainte identitaire de voir le robot nous dépasser en capacités intellectuelles ou autres.",C2,5
+Mais d'autres pourront préférer L'Assassin des échecs ou Les Annales du Kangourou (Editions du Kangourou) .,C2,5
+Vous ferez de la randonnée ?,B1,2
+il y a plus de 50 pays francophones !,A1,0
+Ils ont déjà l'obligation de les ramener chez eux.,B1,2
+"Un autre : Oui, on leur a bien donné des noms",A2,1
+Vous joindrez à votre formulaire les pièces justificatives et documents sous format numérique.,B2,3
+"Merci, bon voyage.",A1,0
+"Ce geste, presque insensible, lui fit courir, de la tête aux pieds, un grand frisson sur la peau, et, se tournant vivement, il se jeta sur elle, cherchant la bouche avec ses lèvres et la chair nue avec ses mains.",C2,5
+Il clabaude aux esgourdes des blaireaux enfarinés et des tordus pasteurisés.,C2,5
+"Avec sa nouvelle compagne de quatorze ans sa cadette, il dit ""vivre une renaissance"".",C1,4
+"Entre ceux qui ne jurent que par l'introduction de l'informatique dans l'enseignement obligatoire, et ceux qui ont peur que l'on veuille transformer le primaire en une grande école d'informatique, il existe pourtant des pistes pour initier les enseignants et favoriser un passage du périscolaire au scolaire, sans avoir à attendre une réforme du socle commun qui prendra des années.",C2,5
+"Parmi les acteurs du commerce équitable, il faut distinguer les organismes ""labellisateurs"", qui certifient des filières d'importation par produit, et les importateurs - grossistes, détaillants ou réseaux de boutiques, comme Artisans du monde -, qui ont leurs propres contacts avec les producteurs et s'autocontrôlent, faute de mieux.",C1,4
+Elle peut donc ouvrir d'autres réflexions et finalement devenir très enrichissante.,B2,3
+"Ce paysan pleurait et prétendait qu'on lui avait tout pris ; Fabrice lui donna un écu, et il trouva de l'avoine.",B2,3
+"La première limite est que les instruments de contingentement spatial pris en compte donnent une idée de la maîtrise ""potentielle"" de l'urbanisation, maîtrise dérivant des possibilités fournies par le cadre légal et stratégique dont chaque canton s'est doté.",C2,5
+Le petit chat a plu à mes parents,A2,1
+Se prémunir contre l'altération des données et avoir la certitude qu'elles n'ont pas été modifiées lors de leur stockage ou de leur traitement contribue à la qualité des prises de décisions basées sur celles-ci.,C2,5
+"[.] Nous sommes des joueurs/joués3"".",B2,3
+"Quand j'ai lu, j'ai découvert de nouvelles choses surprenantes sur les locataires qui occupaient l'appartement.",B1,2
+Vous avez dit la seule chose intelligente !,A2,1
+Mon ami ne répond pas au téléphone.,A1,0
+Mon frère Patrice est plus jeune que moi,A2,1
+"Ils sont en vacances, il n'y a que nous sur cette partie de l'île.",B1,2
+"Quand il y a des nuages avec de la neige qui tombe, c'est qu'il va neiger et qu'il peut y avoir du brouillard, des risques de congélation, de la glace et que la température sera très basse",B1,2
+"Un escalier nous conduisit à une large coursive en hauteur qui faisait le tour du bâtiment, desservant une succession de bureaux.",C2,5
+"Que vous cherchiez une simple annonce ou un recruteur, vous êtes sûr de ne rater aucune offre d'emploi grâce à notre système d'alerte personnalisé.",B2,3
+"Ça nous a donc coûté de l'argent, s'énerve-t-elle.",B1,2
+Vous vous appelez comment ?,A1,0
+"Fabrice, à peine âgé de seize ans, représentait fort bien le chef de la maison.",B2,3
+"Oui, je suis à Paris depuis vingt jours à peine.",A1,0
+"L'apprentissage du code et plus largement d'une culture générale du numérique à l'école est une mesure réclamée depuis longtemps par l'Académie des Sciences, soutenue par des acteurs qui comptent dans le secteur numérique, comme la Cnil ou le Conseil national du numérique, et qui figure même dans une proposition de loi de la députée UMP Laure de la Raudière.",C2,5
+Pourquoi ne pas avoir donné la serviette alors que tu avais déjà les plans ?,B1,2
+"Quand je rentre, je demande à mes parents si je peux t'appeler pour avoir de tes nouvelles.",A2,1
+"L'important, évidemment, pour les contribuables européens qui voudraient annuler leur dette, c'est que chacun des créditeurs, des créanciers soit traité de la même façon.",B2,3
+"Même l'ambassadeur birman aux Nations unies, Kyaw Moe Tun, a rompu de manière spectaculaire avec les généraux putschistes la semaine dernière en appelant à ""mettre fin au coup d'Etat"".",C1,4
+Le directeur aurait donné de nouvelles consignes au personnel.,B2,3
+Vos regards m'observent.,C2,5
+De nombreux auteurs ont spéculé sur les différents aspects de la personnalité de Léonard.,C1,4
+"Les conséquences sur la nature sont gravissimes, notamment sur les océans qui contiendraient selon la revue américaine Science plus de 110 millions de tonnes de déchets plastiques.",B2,3
+"Si sept millions de citadins rêvent de refaire leur vie aux champs, tous ne passent pourtant pas à l'acte. ""Il y a toujours un événement déclencheur"", constate la directrice de Changer tout.",B2,3
+"Mon père, bien qu'il observât strictement les convenances extérieures, se permettait assez fréquemment des propos légers sur les liaisons d'amour : il les regardait comme des amusements, sinon permis, du moins excusables, et considérait le mariage seul sous un rapport sérieux.",C2,5
+Après tout que lui offre-t-elle à part de l'ennui et une grosse boule d'angoisse au creux du ventre ?,A2,1
+Leur pavillon mitoyen à Paris était pratiquement neuf quand ils l'avaient acheté.,B2,3
+L'émigration galicienne sous-tend l'évolution du peuplement et l'explique en grande partie.,C1,4
+Ces tanières se fondent dans la nature pour être quasiment invisibles.,C1,4
+Les hommes se croient libres alors qu'ils sont contraints ou déterminés par leur nature,C2,5
+Il fallait radicalement changer de cap en choisissant la cuisine de qualité accessible au plus grand nombre au lieu de quoi nous nous sommes repliés sur des valeurs sûres désormais désuètes et indigestes.,B2,3
+"Nos prophéties disent que tant qu'il y aura des bisons sauvages, nous survivrons.",C1,4
+"Je m'appelle Camille et quand j'étais enfant, j'avais des rêves plein la tête",A2,1
+"Réaffirmant que le Sénat ne s'était livré à aucun chantage contrairement aux allégations du rapporteur pour l'Assemblée nationale, il a, au contraire, affirmé que la position de la Haute Assemblée relevait d'une conception cohérente et constante de la société.",C1,4
+"Quelques coups de battoir partaient encore, espacés, au milieu des rires adoucis, des conversations qui s'empâtaient dans un bruit glouton de mâchoires ; tandis que la machine à vapeur, allant son train, sans repos ni trêve, semblait hausser la voix, vibrante, ronflante, emplissant l'immense salle. Mais pas une des femmes ne l'entendait ; c'était comme la respiration même du lavoir, une haleine ardente amassant sous les poutres du plafond l'éternelle buée qui flottait. La chaleur devenait intolérable ; des rais de soleil entraient à gauche, par les hautes fenêtres, allumant les vapeurs fumantes de nappes opalisées, d'un gris rose et d'un gris bleu très tendre ; et, comme des plaintes s'élevaient, le garçon Charles allait d'une fenêtre à l'autre, tirait des stores de grosse toile ; ensuite, il passa de l'autre côté, du côté de l'ombre, et ouvrit des vasistas.",C2,5
+Que du bonheur !,A2,1
+On semble oublier que le personnel en milieu scolaire applique déjà cette mesure.,B2,3
+"Une association de promotion et de développement de l'apprentissage en ligne note que si la calculatrice a ""supplanté le calcul mental y compris pour des opérations basiques, et que l'utilisation d'un ordinateur relié à internet pourrait aisément remplacer une partie de notre mémoire, les opérations basiques ont ont été mémorisées en amont et c'est grâce à cette assimilation de connaissances basiques que l'apprenant peut utiliser la calculatrice"".",C1,4
+"Tous, sauf un petit oiseau.",A1,0
+Sa santé s'est dégradée à cause d'une infection sévère et ses jours sont comptés.,B2,3
+La chose me vient d'être certifiée.,B1,2
+La nouvelle a fait grand bruit: cette affaire de couvre-feu cache en fait une angoisse plus profonde.,B1,2
+J'ai le plaisir de vous annoncer que votre demande d'inscription à l'université de Strasbourg en première année de master Sciences et Société a été acceptée,B1,2
+"Une large majorité de français est favorable à la modification du calcul de la retraite des fonctionnaires dans le cadre de la réforme en préparation, selon un sondage publié vendredi",C2,5
+"Aussi, les jeunes heureux réussissent à acheter leur autonomie et leur tranquillité par une réussite au lycée qui ne les dévore pas.",B2,3
+"Une fois qu'il a tout fini, Théo peut enfin aller jouer et s'amuser avant de dîner avec ses parents.",A2,1
+"La cinquantaine est un bel âge: on gagne en profondeur et en bienveillance, constate Philippe Wattier.",C1,4
+Les quelques chiffres publiés à ce jour donnent une idée de la dégradation du climat entre les élèves des deux sexes.,C1,4
+"Mais une différence apparaît en fin de cursus scolaire, les garçons prenant dans ce dernier domaine un avantage sur les filles.",B2,3
+"Le vert par exemple, est la couleur de l'herbe et des feuilles des arbres.",A1,0
+Elle ne ressemble à aucune des filles que je connais.,A2,1
+"Les masses liquides transportent les plus grandes espèces connues de mammifères, et peut-être recèlent-elles des mollusques d'une incomparable taille, des crustacés effrayants à contempler, tels que seraient des homards de cent mètres ou des crabes pesant deux cents tonnes !",B2,3
+"Force est de constater que l'écart se creuse entre les pays en développement qui, progressivement, sortent de la pénurie chronique, et ceux qui stagnent ou régressent dans leur combat contre la faim.",C1,4
+"Une huitième édition dominée par le duel au sommet avec Alex Thomson, une course poursuite menée par Armel depuis le 23 novembre dernier, quarante-sept jours de haute tension qui se terminent aujourd'hui",C1,4
+Pourquoi on ne peut pas entrer dans la chambre ?,A1,0
+À très bientôt.,A2,1
+"C'était cette comparaison, tacitement et inlassablement répétée dans une même toile, qui y introduisait cette puissante et multiforme unité, cause, parfois non clairement aperçue par eux, de l'enthousiasme qu'excitait chez certains amateurs la peinture d'Elstir.",C2,5
+Soyons sérieux,B2,3
+Bienheureux le quidam que voilà débarrassé de cette peur originelle d'échouer et de faire faux,C2,5
+Je prends le train.,A1,0
+"C'est dans sa lettre à Schuller, extraite de sa Correspondance, que Spinoza dénonce l'illusion du libre arbitre",C2,5
+Je prends mon petit-déjeuner dans la cuisine.,A1,0
+Il nous arrive de procéder de cette façon de temps en temps.,A2,1
+"Alors qu'au cours du Paléolithique, la diffusion avait fractionné l'écoumène en petits groupes, la tendance depuis la fin de la dernière glaciation est à l'épaississement des relations dans l'Ancien Monde, par augmentation des effectifs et par tissage d'interconnexions.",C2,5
+"Or, la croissance démographique concerne surtout les pays en voie de développement, qui connaissent aujourd'hui des problèmes de sous-alimentation et de mauvaise alimentation.",C1,4
+Je suis dans ma chambre.,A1,0
+Une indéniable sérénité se reflétait sur ses traits.,C2,5
+Le jour de l'An correspond au 1 janvier.,A1,0
+"Étant féru d'art, Yves Saint Laurent a constitué, au fil des années, une importante collection d'objets précieux et de peintures qui ont inspiré certaines de ses créations.",C1,4
+Ils suivaient une sente creuse que dominait des deux côtés un talus de six pieds de haut.,C2,5
+Je ne comprends pas.,A1,0
+"Mais, à partir de ce moment, elle n'écouta plus ; et le choeur des conviés, la scène d'Ashton et de son valet, le grand duo en ré majeur, tout passa pour elle dans l'éloignement, comme si les instruments fussent devenus moins sonores et les personnages plus reculés ; elle se rappelait les parties de cartes chez le pharmacien, et la promenade chez la nourrice, les lectures sous la tonnelle, les tête-à-tête au coin du feu, tout ce pauvre amour si calme et si long, si discret, si tendre, et qu'elle avait oublié cependant.",C2,5
+"Et nos esprits qui reçoivent les instructions de ces organes, diversement impressionnés, comprennent, analysent et jugent comme si chacun de nous appartenait à une autre race.",C1,4
+"Trop concrète peut-être après le temps du rêve. Aucun terminus ne semble, pour l'écrivain, pouvoir justifier d'avoir enduré tant de souffrances, ni inciter à rompre avec le temps du vagabondage.",C2,5
+"""Nous explorons la meilleure voie légale, probablement via le système interaméricain, en invoquant la déclaration des droits de l'homme de 1948"".",C1,4
+"À ce compte-là, les cours de langue au collège pourraient être profitablement remplacés par des séances de mémorisation de l'annuaire",C2,5
+Je préfère un autre bijou.,A1,0
+Il n'a pas de veste,A1,0
+Un autre inconvénient à cette interdiction est le risque de priver les adolescents d'un apprentissage sur l'utilisation raisonnée d'Internet et des réseaux sociaux.,B2,3
+Le massacre est commémoré sur le drapeau de la ville de Chicago par sa première étoile rouge,B1,2
+Je ne trouve pas la rue du marché.,A1,0
+"Fruit d'une pensée élaborée depuis la Renaissance, l'individualisme est un projet de société dans lequel chacun devrait trouver les meilleures conditions de sa réalisation et de son épanouissement.",C1,4
+"Cette année, ce n'est pas moins de 12 millions d'élèves qui ont repris le chemin de l'école.",A2,1
+"Sébastien Granet et Hélène Lavoie, la cheffe, nous ont accueillis malgré un autobus de visiteurs qui ripaillaient",C2,5
+Les parents qui ont du mal à couper le cordon s'étonnent que leurs enfants préfèrent brancher leur boîte vocale et ne répondent pas à leurs appels.,B2,3
+"C'est pourquoi nous demandons aujourd'hui que le président de la République tienne sa parole et soumette, 'sans filtre', les propositions de la Convention au référendum, au parlement ou à application réglementaire directe.",C1,4
+Je ne trouve pas mes clés de maison.,A1,0
+"Les industriels polluent l'eau, l'air et les sols avec leurs produits toxiques.",B2,3
+Il met son plus beau costume et son chapeau,B1,2
+"D'abord, la dernière élection présidentielle, où le vote pour le Front national fut autant le fait des jeunes électeurs que de leurs aînés.",B2,3
+"Selon un sondage publié en mai dernier par BVA (société française de sondages) et le Syntec Numérique (fédération professionnelle du secteur informatique) favorable à la mesure, 87 % des Français seraient même d'accord pour que la programmation informatique soient enseignée à l'école (24 % à partir du primaire, 41 % à partir du collège).",C2,5
+Les parents de banlieue se sont organisés pour les devoirs des enfants.,A2,1
+Vous attendîtes la surprise que vos parents vous eurent promise,C2,5
+"Le duo n'a pas grand chose en commun, mis à part ses positions relativement conservatrices, qui lui vaut les foudres des progressistes.",B2,3
+"Or, sur les quelque 6 000 langues qui existent actuellement dans le monde, la moitié compte moins de 10 000 locuteurs et un quart moins de 1 000.",C1,4
+"Les passants semblent moins pressés, et s'attardent plus facilement devant une devanture ou dansles rayons.",B2,3
+A qui appartient le chien qui aboie nuit et jour ?,B1,2
+Elle sait parler anglais et espagnol,A1,0
+"Ce phénomène, c'est l'apparition d'une génération inédite.",B2,3
+"Après l'ambiance de luxe, ici c'est comme un tranquille village",B1,2
+"Des chiffres tirés d'une des rares enquêtes sur le sujet, réalisée en 2000 (publiée en 2001) par l'Institut de recherche sur l'économie de l'éducation auprès des parents de 2 500 enfants de l'académie.",C2,5
+Monet peignit ce portrait emplit de sensualité et lourd de symbolisme.,C1,4
+Elle pense à lui.,A1,0
+"Oui, l'ouragan a touché terre la nuit dernière dans le nord du Nicaragua, il s'est ensuite étendu à plusieurs pays d'Amérique centrale",B1,2
+Je viens d'emménager dans ma nouvelle maison,A2,1
+"De toute façon, chacun sait que, pour choisir son logement idéal, cela peut prendre plusieurs mois.",B1,2
+"Parmi les habitants de la région, il y a ceux qui veulent revenir et ceux qui ne veulent pas",A2,1
+Nous apportons des arguments experimentaux et théoriques en faveur d'un mecanisme intramoleculaire.,C2,5

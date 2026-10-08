@@ -15,9 +15,12 @@ import hashlib
 import shutil
 import zipfile
 import tarfile
+from pathlib import Path
 
-BASE = "/home/user/bases-donnees/conversations"
-TMP = "/home/user/bases-donnees/_tmp"
+# Le dépôt peut être cloné n'importe où : ne pas dépendre de /home/user.
+ROOT = Path(__file__).resolve().parents[1]
+BASE = str(ROOT / "conversations")
+TMP = str(ROOT / "_tmp")
 N_LIGNES = 200
 PLAFOND = 3_000_000  # ~3 Mo max par échantillon
 

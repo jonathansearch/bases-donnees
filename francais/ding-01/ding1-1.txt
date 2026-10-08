@@ -1,0 +1,7230 @@
+0001 R   le but du jeu c'est d'avoir
+         00:00:00.362 - 00:00:01.681
+
+0002 Y   des points
+         00:00:01.681 - 00:00:02.232
+         (0.09)
+
+0003 R   oui combien 10 ?
+         00:00:02.318 - 00:00:03.275
+         (0.28)
+
+0004 Y   j'en sais rien
+         00:00:03.550 - 00:00:04.275
+
+0005 R   je vais juste vérifier si c'est 10 ou 12 j'ai un trou
+         00:00:04.217 - 00:00:06.115
+
+0006 Y   euh (1s) victoire euh
+         00:00:05.405 - 00:00:09.183
+
+0007 R   si c'est le seul (xxx)
+         00:00:06.284 - 00:00:08.167
+
+0008 O   [pages]
+         00:00:09.010 - 00:00:10.833
+
+0009 Y   hum euh ben tiens en fait c'est peut-être plus facile
+         00:00:10.426 - 00:00:14.078
+
+0010 R   (xxx)
+         00:00:10.920 - 00:00:12.258
+
+0011 R   10 points ?
+         00:00:12.471 - 00:00:13.213
+
+0012 O   si vous voulez
+         00:00:13.966 - 00:00:14.606
+         (0.22)
+
+0013 R   [rire]
+         00:00:14.830 - 00:00:15.914
+         (1.28)
+
+0014 R   [chant]
+         00:00:17.190 - 00:00:18.595
+
+0015 Y   je
+         00:00:17.763 - 00:00:18.552
+         (5.51)
+
+0016 Y   faut les retourner après ?
+         00:00:24.104 - 00:00:25.084
+
+0017 B   apparemment
+         00:00:24.946 - 00:00:25.736
+         (0.05)
+
+0018 W   oui
+         00:00:25.788 - 00:00:26.236
+         (0.03)
+
+0019 Y   oui ?
+         00:00:26.262 - 00:00:26.680
+         (0.08)
+
+0020 R   ouais là vous pouvez (xxx)
+         00:00:26.762 - 00:00:28.025
+
+0021 W   oui
+         00:00:26.815 - 00:00:27.215
+         (0.03)
+
+0022 Y   allez c'est parti
+         00:00:28.052 - 00:00:29.342
+
+0023 R   fin de partie donc euh la partie prend fin lorsqu'un joueur atteint 10 points de victoire
+         00:00:28.782 - 00:00:32.512
+         (0.24)
+
+0024 Y   ok
+         00:00:32.755 - 00:00:33.191
+
+0025 R   ou plus si jamais tout d'un coup on en a (xxx)
+         00:00:33.191 - 00:00:34.973
+
+0026 Y   ouais
+         00:00:34.973 - 00:00:35.598
+         (0.86)
+
+0027 R   hum donc comment est-ce qu'on peut obtenir des points de victoire ?
+         00:00:36.461 - 00:00:38.883
+         (0.90)
+
+0028 R   moi j'ai pas mes pions ? ah si ils sont là
+         00:00:39.781 - 00:00:41.794
+         (0.05)
+
+0029 B   je les ai pas triés par contre
+         00:00:41.845 - 00:00:42.910
+
+0030 R   c'est en construisant des petites choses comme ça
+         00:00:42.538 - 00:00:44.487
+
+0031 O   [jetons]
+         00:00:43.422 - 00:00:46.807
+
+0032 W   hum
+         00:00:43.806 - 00:00:44.205
+
+0033 R   donc là vous avez
+         00:00:44.716 - 00:00:45.788
+
+0034 Y   des routes une ville
+         00:00:46.447 - 00:00:47.702
+
+0035 R   (xxx) route
+         00:00:47.435 - 00:00:48.948
+
+0036 W   mouais
+         00:00:48.076 - 00:00:48.717
+
+0037 Y   ok
+         00:00:48.961 - 00:00:49.563
+
+0038 R   ok ? mais les routes ça rapporte pas de point
+         00:00:49.320 - 00:00:50.896
+         (0.35)
+
+0039 Y   ah
+         00:00:51.242 - 00:00:51.629
+         (0.32)
+
+0040 R   ensuite on peut construire
+         00:00:51.947 - 00:00:53.204
+
+0041 Y   ah oui
+         00:00:52.435 - 00:00:52.987
+         (0.44)
+
+0042 R   des colonies
+         00:00:53.640 - 00:00:54.363
+         (1.96)
+
+0043 R   ce qui ressemble à cette chose-là
+         00:00:56.320 - 00:00:57.448
+
+0044 Y   d'accord
+         00:00:57.460 - 00:00:58.108
+         (0.19)
+
+0045 B   hum
+         00:00:58.294 - 00:00:58.746
+
+0046 R   ou des villes
+         00:00:58.383 - 00:00:59.550
+         (0.68)
+
+0047 Y   ok
+         00:01:00.230 - 00:01:00.709
+
+0048 R   ok ?
+         00:01:00.628 - 00:01:01.076
+         (0.40)
+
+0049 R   sur vos cartes
+         00:01:01.480 - 00:01:02.281
+
+0050 Y   1 point 2 points très bien (xxx)
+         00:01:02.281 - 00:01:03.781
+
+0051 R   exactement donc chaque colonie que vous construisez vous rapporte 1 point chaque ville vous rapporte 2 points
+         00:01:03.153 - 00:01:07.550
+
+0052 W   hum hum
+         00:01:03.871 - 00:01:04.394
+
+0053 W   [toux]
+         00:01:05.179 - 00:01:05.511
+         (0.25)
+
+0054 R   donc ça c'est la manière principale de gagner des points il y a un petit peu d'autres manières de gagner des points mais j'en parlerai après
+         00:01:07.798 - 00:01:12.908
+
+0055 Y   ok
+         00:01:08.151 - 00:01:08.737
+         (0.56)
+
+0056 R   au tout début du jeu chacun va poser
+         00:01:13.464 - 00:01:15.539
+         (0.46)
+
+0057 R   1 colonie et 1 route
+         00:01:15.994 - 00:01:17.687
+         (0.25)
+
+0058 Y   d'accord
+         00:01:17.939 - 00:01:18.717
+
+0059 R   fin en fait entre 2 colonies 2 routes
+         00:01:18.081 - 00:01:19.822
+         (0.70)
+
+0060 Y   ok
+         00:01:20.525 - 00:01:21.353
+         (0.28)
+
+0061 R   et on peut poser les colonies que sur les intersections
+         00:01:21.636 - 00:01:24.300
+         (0.83)
+
+0062 Y   et les routes que sur les arêtes
+         00:01:25.135 - 00:01:27.361
+
+0063 R   et les routes que sur les arêtes
+         00:01:26.654 - 00:01:28.153
+
+0064 Y   ok
+         00:01:28.054 - 00:01:28.526
+
+0065 R   d'accord ?
+         00:01:28.479 - 00:01:29.001
+         (0.84)
+
+0066 R   hum il y a une règle qui dit qu'on peut pas mettre des colonies trop proche de quelqu'un d'autre ou d'une sienne donc par exemple
+         00:01:29.839 - 00:01:35.105
+         (0.06)
+
+0067 R   il faut toujours un espace entre une colonie et une autre colonie
+         00:01:35.161 - 00:01:38.196
+
+0068 Y   une intersection vide en plus ok
+         00:01:38.055 - 00:01:40.433
+
+0069 R   une intersection vide
+         00:01:39.029 - 00:01:40.249
+         (0.08)
+
+0070 R   je peux pas venir me coller comme ça euh à moi-même je suis obligée de me mettre là
+         00:01:40.515 - 00:01:44.272
+         (0.05)
+
+0071 Y   d'accord
+         00:01:44.322 - 00:01:44.898
+
+0072 B   ok
+         00:01:44.502 - 00:01:45.039
+
+0073 R   ce qui peut poser des problèmes si jamais il y a une colonie là une colonie là on voit bien que du coup cette carte plus personne peut (xxx)
+         00:01:45.044 - 00:01:49.365
+         (0.29)
+
+0074 Y   attends attends attends
+         00:01:49.659 - 00:01:50.710
+
+0075 B   oui ben oui puisque (xxx)
+         00:01:50.710 - 00:01:52.034
+
+0076 Y   ah oui d'accord
+         00:01:51.771 - 00:01:52.456
+
+0077 R   tu peux pas te mettre là tu peux pas te mettre là
+         00:01:51.787 - 00:01:52.959
+
+0078 Y   ok
+         00:01:52.910 - 00:01:53.284
+         (0.19)
+
+0079 R   ok ? donc il y a cette règle qui est que on a pas le droit de coller trop les autres
+         00:01:53.476 - 00:01:56.811
+         (0.16)
+
+0080 R   par contre les routes il y a pas de problème
+         00:01:56.973 - 00:01:59.067
+         (0.64)
+
+0081 R   juste vos prénoms c'est ?
+         00:01:59.704 - 00:02:00.849
+
+0082 W   BLANC
+         00:02:00.849 - 00:02:01.297
+
+0083 R   BLANC JAUNE (xxx)
+         00:02:00.939 - 00:02:02.585
+
+0084 B   BLEU
+         00:02:02.149 - 00:02:02.711
+
+0085 R   BLEU ok ROUGE
+         00:02:02.686 - 00:02:04.090
+         (0.68)
+
+0086 R   euh si BLANC a envie de venir m'embêter et de mettre une route près de chez moi (xxx)
+         00:02:04.765 - 00:02:08.284
+
+0087 Y   ok
+         00:02:08.284 - 00:02:08.763
+         (0.56)
+
+0088 R   ok ?
+         00:02:09.324 - 00:02:09.805
+         (0.66)
+
+0089 R   donc au début du jeu on va s'implanter quelque part
+         00:02:10.466 - 00:02:12.471
+         (0.16)
+
+0090 Y   d'accord
+         00:02:12.633 - 00:02:13.354
+
+0091 R   (xxx) imaginons que je me mette ici par exemple
+         00:02:12.762 - 00:02:14.770
+         (0.26)
+
+0092 R   j'aurai une autre colonie quelque part et vous vous aurez d'autres fin vos colonies vos routes donc ça va être un peu chargé hein
+         00:02:15.035 - 00:02:19.984
+
+0093 Y   hum
+         00:02:17.699 - 00:02:18.302
+         (1.07)
+
+0094 R   hum
+         00:02:21.057 - 00:02:22.265
+
+0095 Y   c'est c'est toi qui choisis où est-ce que tu les mets ?
+         00:02:21.693 - 00:02:23.411
+
+0096 R   ouais
+         00:02:23.411 - 00:02:23.797
+         (0.16)
+
+0097 Y   d'accord les 2 ?
+         00:02:23.952 - 00:02:24.828
+         (0.19)
+
+0098 R   les 2 mais il y a un ordre particulier
+         00:02:25.017 - 00:02:27.304
+
+0099 Y   et à tour de rôle du coup ouais d'accord j'imagine parce que sinon
+         00:02:25.564 - 00:02:28.590
+
+0100 R   (xxx) voilà ça répond
+         00:02:27.668 - 00:02:28.842
+         (0.27)
+
+0101 R   tout le monde (xxx)
+         00:02:29.115 - 00:02:30.214
+
+0102 B   j'imagine qu'on (xxx) quand même pas 2 routes sur la même arête
+         00:02:29.519 - 00:02:31.805
+         (0.36)
+
+0103 R   non on peut mettre 1 route par arête
+         00:02:32.167 - 00:02:33.572
+         (0.04)
+
+0104 Y   ok
+         00:02:33.611 - 00:02:34.055
+         (0.02)
+
+0105 R   et on a le droit de mettre des routes le long de la mer si on veut
+         00:02:34.079 - 00:02:36.177
+
+0106 B   ok
+         00:02:36.177 - 00:02:36.685
+
+0107 Y   ok et les colonies c'est pareil on peut on peut les mettre comme ça si on veut ?
+         00:02:36.672 - 00:02:40.342
+         (0.82)
+
+0108 R   ouais
+         00:02:41.160 - 00:02:41.471
+
+0109 Y   ok
+         00:02:41.443 - 00:02:41.839
+
+0110 R   ouais les colonies ont le droit d'être le long de la mer aussi
+         00:02:41.762 - 00:02:43.408
+         (0.53)
+
+0111 Y   et les villes pareil ? ouais
+         00:02:43.938 - 00:02:45.548
+
+0112 R   et les villes
+         00:02:43.992 - 00:02:45.418
+
+0113 R   euh donc chaque ville doit être en fait une amélioration d'une colonie par exemple (xxx) une grosse ville on a d'abord petit village
+         00:02:45.548 - 00:02:49.930
+
+0114 Y   d'accord
+         00:02:48.112 - 00:02:48.778
+         (0.12)
+
+0115 R   donc si j'ai une colonie je peux la transformer en ville
+         00:02:50.053 - 00:02:52.603
+
+0116 Y   d'accord
+         00:02:52.603 - 00:02:53.216
+         (0.15)
+
+0117 R   en payant ce qui est écrit
+         00:02:53.362 - 00:02:54.558
+         (0.56)
+
+0118 Y   (xxx) 2 blés c'est quoi le
+         00:02:55.116 - 00:02:57.740
+
+0119 R   donc là le coût
+         00:02:57.233 - 00:02:58.350
+
+0120 B   et caillou
+         00:02:57.655 - 00:02:58.383
+
+0121 W   et caillou
+         00:02:58.147 - 00:02:58.916
+
+0122 R   vous avez 5 ressources dans le jeu
+         00:02:58.662 - 00:03:00.545
+
+0123 Y   ok
+         00:02:58.805 - 00:02:59.402
+         (0.11)
+
+0124 R   du bois du mouton du minerais du blé et de la pierre
+         00:03:00.657 - 00:03:04.175
+         (0.02)
+
+0125 Y   d'accord
+         00:03:04.195 - 00:03:04.800
+         (0.09)
+
+0126 R   ok
+         00:03:04.886 - 00:03:05.351
+         (0.67)
+
+0127 Y   hum hum
+         00:03:06.019 - 00:03:06.685
+         (0.58)
+
+0128 R   hum et c'est la combinaison de ces ressources-là
+         00:03:07.264 - 00:03:09.831
+         (0.27)
+
+0129 R   qui vont vous permettre de construire tout ce que vous avez à construire
+         00:03:10.097 - 00:03:12.157
+
+0130 Y   ok
+         00:03:12.157 - 00:03:12.759
+         (0.14)
+
+0131 R   donc pour construire une route vous faites un bois fin vous donnez 1 bois et 1 pierre à la banque
+         00:03:12.901 - 00:03:16.833
+
+0132 Y   d'accord
+         00:03:16.844 - 00:03:17.477
+
+0133 R   donc ça vous permet de construire une route
+         00:03:17.111 - 00:03:18.555
+
+0134 Y   ok
+         00:03:18.288 - 00:03:18.961
+
+0135 R   ok ?
+         00:03:18.966 - 00:03:19.479
+         (0.04)
+
+0136 Y   là où on veut ? ou faut que ce soit genre adjacent à une
+         00:03:19.518 - 00:03:23.142
+
+0137 R   la route elle doit toujours être
+         00:03:20.920 - 00:03:22.087
+
+0138 R   tout au début du jeu tu peux te poser un peu n'importe où
+         00:03:22.144 - 00:03:24.066
+
+0139 Y   ouais
+         00:03:23.956 - 00:03:24.404
+
+0140 W   [toux]
+         00:03:24.297 - 00:03:24.531
+
+0141 R   en respectant la règle des 1 trou d'écart par contre au cours de la partie t'as pas le droit de parachuter une colonie n'importe où
+         00:03:24.511 - 00:03:30.333
+         (0.06)
+
+0142 Y   d'accord et les routes c'est pa(interrup-) ok
+         00:03:30.390 - 00:03:32.365
+
+0143 R   ni une route d'ailleurs
+         00:03:30.830 - 00:03:31.791
+
+0144 R   c'est toujours de manière euh
+         00:03:32.001 - 00:03:33.992
+
+0145 Y   ok il va y avoir des règles après qui vont suivre
+         00:03:33.128 - 00:03:35.713
+
+0146 B   adjacente
+         00:03:34.085 - 00:03:34.860
+
+0147 R   adjacente à ce qui existe déjà
+         00:03:34.729 - 00:03:36.235
+         (0.07)
+
+0148 Y   d'accord
+         00:03:36.306 - 00:03:36.670
+         (0.34)
+
+0149 Y   donc typiquement euh j'avais une route ici euh je peux en faire 1 là et
+         00:03:37.011 - 00:03:42.125
+         (0.29)
+
+0150 Y   et 1 là si jamais j'ai envie
+         00:03:42.416 - 00:03:44.151
+
+0151 R   oui et puis t'as même le droit de faire un truc débile c'est-à-dire que tu peux même faire quelque chose où tu sais pas où tu t'en vas mais faut que ce soit collé à ce qui existe déjà à toi
+         00:03:44.144 - 00:03:49.643
+
+0152 W   hum
+         00:03:44.833 - 00:03:45.349
+
+0153 Y   ok
+         00:03:47.896 - 00:03:48.507
+
+0154 Y   ok
+         00:03:49.289 - 00:03:49.781
+         (1.04)
+
+0155 R   alors du coup comment est-ce qu'on va gagner ces ressources ?
+         00:03:50.824 - 00:03:52.804
+         (0.41)
+
+0156 R   hum eh bien on va gagner ces ressources grâce à nos colonies ou nos villes qui vont produire des choses
+         00:03:53.213 - 00:03:57.590
+
+0157 Y   hum hum
+         00:03:57.590 - 00:03:58.440
+
+0158 R   et elles vont produire en fonction de ce qu'il y a autour d'elles
+         00:03:58.336 - 00:04:00.083
+
+0159 Y   ce qui est logique
+         00:04:00.075 - 00:04:01.075
+
+0160 R   donc ici un champ ça va produire du blé
+         00:04:00.903 - 00:04:03.111
+         (0.65)
+
+0161 R   les montagnes
+         00:04:03.766 - 00:04:04.567
+
+0162 Y   quand c'est la même couleur oui
+         00:04:03.908 - 00:04:05.143
+
+0163 R   ça produit du minerais ouais voilà
+         00:04:04.719 - 00:04:06.306
+         (0.27)
+
+0164 R   les forêts ça produit du bois
+         00:04:06.578 - 00:04:08.104
+         (0.26)
+
+0165 B   (xxx)
+         00:04:08.364 - 00:04:09.379
+
+0166 Y   les prés du mouton
+         00:04:08.702 - 00:04:09.920
+
+0167 R   les prairies du mouton
+         00:04:09.106 - 00:04:10.526
+         (0.47)
+
+0168 R   et qu'est-ce que j'ai oublié ? et les carrières là ça produit de la pierre
+         00:04:10.997 - 00:04:14.019
+
+0169 Y   les carrières
+         00:04:11.981 - 00:04:12.907
+         (0.06)
+
+0170 Y   ouais ok
+         00:04:14.078 - 00:04:14.830
+
+0171 R   ici on a un désert qui produit rien du tout
+         00:04:14.627 - 00:04:16.304
+         (0.18)
+
+0172 Y   d'accord donc ça c'est pourri
+         00:04:16.483 - 00:04:17.673
+
+0173 R   d'accord ?
+         00:04:17.010 - 00:04:17.511
+         (0.23)
+
+0174 R   la mer ça produit pas non plus si je me mets là ça produit pas
+         00:04:17.904 - 00:04:20.200
+         (0.17)
+
+0175 Y   ok et alors du coup c'est quoi les les petits
+         00:04:20.372 - 00:04:22.793
+
+0176 R   ah attends -tends -tends j'y viens [rire]
+         00:04:21.938 - 00:04:23.786
+
+0177 Y   d'accord
+         00:04:23.358 - 00:04:23.884
+         (0.26)
+
+0178 R   euh donc un tour de jeu comment ça se passe ?
+         00:04:24.145 - 00:04:26.416
+         (0.14)
+
+0179 R   est-ce qu'on a des dés ? oui
+         00:04:26.561 - 00:04:27.698
+
+0180 W   hum
+         00:04:27.698 - 00:04:28.219
+         (0.04)
+
+0181 R   on va commencer par on a pas un dessous de plateau pour éviter de lancer (xxx) ?
+         00:04:28.262 - 00:04:31.850
+         (5.03)
+
+0182 Y   hop
+         00:04:36.875 - 00:04:37.662
+         (0.13)
+
+0183 W   hum
+         00:04:37.788 - 00:04:38.267
+         (0.26)
+
+0184 R   donc un tour de jeu normal
+         00:04:38.531 - 00:04:40.016
+         (0.15)
+
+0185 W   merci
+         00:04:40.170 - 00:04:40.761
+         (0.03)
+
+0186 R   donc on joue à tour de rôle hein
+         00:04:40.788 - 00:04:41.789
+
+0187 Y   ouais
+         00:04:41.780 - 00:04:42.152
+         (0.11)
+
+0188 R   mais euh au tour de quelqu'un euh tout le monde va potentiellement pouvoir agir
+         00:04:42.261 - 00:04:46.369
+         (0.17)
+
+0189 R   donc je vous montre un tour de jeu normal
+         00:04:46.536 - 00:04:47.717
+
+0190 Y   d'accord
+         00:04:46.542 - 00:04:47.265
+
+0191 O   [dés]
+         00:04:47.484 - 00:04:48.530
+
+0192 R   on lance les dés
+         00:04:48.242 - 00:04:49.051
+         (0.06)
+
+0193 Y   hum hum
+         00:04:49.108 - 00:04:49.635
+         (0.12)
+
+0194 R   là j'ai fait un 3
+         00:04:49.757 - 00:04:50.757
+
+0195 Y   (xxx)
+         00:04:50.656 - 00:04:51.573
+
+0196 R   c'est génial pour mon exemple parce que la personne qui est sur euh un terrain qui a un 3 va récolter
+         00:04:50.972 - 00:04:56.756
+         (0.56)
+
+0197 R   de la matière première qui est ici
+         00:04:57.317 - 00:04:59.111
+         (0.25)
+
+0198 R   quand j'ai une colonie je récolte 1 2 minerais
+         00:04:59.359 - 00:05:02.523
+         (0.49)
+
+0199 R   d'accord ?
+         00:05:03.008 - 00:05:03.576
+         (0.08)
+
+0200 Y   ok
+         00:05:03.659 - 00:05:04.168
+         (0.06)
+
+0201 R   parce que il y a un 3 à côté de moi
+         00:05:04.224 - 00:05:05.484
+
+0202 Y   d'accord
+         00:05:05.493 - 00:05:06.069
+         (0.04)
+
+0203 R   et s'il y a un autre 3 dans le jeu oui
+         00:05:06.112 - 00:05:07.584
+         (0.10)
+
+0204 R   là s'il y avait une colonie elle elle aurait le droit d'avoir un une carte de blé
+         00:05:07.681 - 00:05:11.809
+
+0205 Y   même si c'est pas toi ?
+         00:05:11.374 - 00:05:12.196
+         (0.14)
+
+0206 Y   je veux dire ç'aurait été moi ici là euh
+         00:05:12.341 - 00:05:15.027
+
+0207 R   voilà (xxx) pas de moi en gros la première phase au bout de de d'un tour c'est tout le monde euh tout le monde récolte
+         00:05:12.757 - 00:05:19.199
+
+0208 Y   ok
+         00:05:18.430 - 00:05:18.973
+         (0.09)
+
+0209 Y   donc euh là là par exemple avec ton 3 j'aurais eu euh 1 blé
+         00:05:19.291 - 00:05:22.941
+         (0.49)
+
+0210 R   ouais
+         00:05:23.433 - 00:05:23.771
+
+0211 Y   ok
+         00:05:23.771 - 00:05:24.330
+         (0.35)
+
+0212 R   et si t'avais une ville
+         00:05:24.678 - 00:05:25.832
+         (1.42)
+
+0213 Y   hum
+         00:05:27.257 - 00:05:27.841
+
+0214 B   ça double ?
+         00:05:27.773 - 00:05:28.601
+
+0215 R   à ton avis ?
+         00:05:27.821 - 00:05:28.587
+         (0.08)
+
+0216 R   ça double
+         00:05:28.676 - 00:05:29.230
+         (0.08)
+
+0217 Y   ok
+         00:05:29.306 - 00:05:29.661
+         (0.42)
+
+0218 R   tu récoltes 2
+         00:05:30.079 - 00:05:30.884
+
+0219 Y   d'accord
+         00:05:30.822 - 00:05:31.435
+
+0220 R   donc l'avantage des villes c'est de faire gagner des points (xxx) encore plus
+         00:05:31.095 - 00:05:34.016
+
+0221 Y   d'acc
+         00:05:34.035 - 00:05:34.679
+         (0.83)
+
+0222 R   hum donc on a une première phase qui est une phase de récolte
+         00:05:35.511 - 00:05:38.063
+         (0.47)
+
+0223 R   ensuite on a une phase d'échanges
+         00:05:38.533 - 00:05:40.428
+         (0.36)
+
+0224 R   où tout le monde peut échanger avec celui dont c'est le tour
+         00:05:40.788 - 00:05:43.490
+         (0.18)
+
+0225 R   si c'est moi qui ai lancé les dés vous avez le droit de faire des échanges des échanges avec moi
+         00:05:43.673 - 00:05:46.563
+
+0226 Y   que avec toi
+         00:05:45.999 - 00:05:46.592
+         (0.14)
+
+0227 R   que avec moi
+         00:05:46.737 - 00:05:47.421
+         (0.14)
+
+0228 R   moi j'ai le droit d'échanger avec vous ou avec la banque
+         00:05:47.566 - 00:05:50.376
+         (0.55)
+
+0229 Y   ah
+         00:05:50.924 - 00:05:51.419
+         (0.32)
+
+0230 R   alors avec vous c'est très simple je vais te dire euh ben je voudrais bien du mouton et j'ai trop de pierre est-ce que tu veux bien faire un deal fin voilà
+         00:05:51.743 - 00:05:57.652
+
+0231 Y   ouais
+         00:05:53.716 - 00:05:54.316
+
+0232 Y   ok
+         00:05:57.645 - 00:05:58.096
+         (0.70)
+
+0233 R   hum et avec la banque comment ça se passe ? si jamais personne veut euh
+         00:05:58.800 - 00:06:03.360
+
+0234 Y   ah
+         00:06:01.231 - 00:06:01.725
+
+0235 Y   et que tu veux quand même une ressource que t'as pas
+         00:06:03.344 - 00:06:05.361
+
+0236 R   veut me vendre son mouton
+         00:06:04.458 - 00:06:05.992
+         (0.27)
+
+0237 R   parce que je sais pas il y a pas de mouton dans le jeu ou (xxx) j'en sais rien
+         00:06:06.266 - 00:06:09.754
+         (0.10)
+
+0238 R   eh ben j'ai le droit de donner 4 cartes identiques pour obtenir une carte de mon choix
+         00:06:09.851 - 00:06:13.041
+         (0.16)
+
+0239 Y   ok
+         00:06:13.196 - 00:06:13.779
+
+0240 R   donc c'est un 4 contre 1 donc ça coûte cher mais voilà
+         00:06:13.525 - 00:06:16.808
+
+0241 Y   ouais
+         00:06:15.680 - 00:06:16.477
+
+0242 Y   mais si t'es bloqué euh voilà
+         00:06:16.676 - 00:06:18.010
+
+0243 R   ouais et il y a pas d'ordre on peut faire un échange avec quelqu'un faire un échange avec la banque refaire un échange avec quelqu'un et cetera
+         00:06:17.878 - 00:06:22.079
+
+0244 B   merci
+         00:06:19.727 - 00:06:20.282
+         (0.19)
+
+0245 B   (xxx)
+         00:06:22.268 - 00:06:23.203
+
+0246 R   par contre une fois que hum (0.8s) qu'on a fini les échanges donc ce qui inclut encore une fois un peu tout le monde
+         00:06:22.547 - 00:06:27.168
+         (0.61)
+
+0247 R   on a une phase de construction
+         00:06:27.777 - 00:06:28.949
+         (0.23)
+
+0248 R   donc celui dont c'est le tour
+         00:06:29.180 - 00:06:30.762
+         (0.63)
+
+0249 R   a la possibilité de construire
+         00:06:31.388 - 00:06:33.047
+         (0.20)
+
+0250 Y   d'accord
+         00:06:33.250 - 00:06:33.933
+
+0251 R   et c'est à ce moment-là où on va construire soit une route soit une colonie soit une ville
+         00:06:33.494 - 00:06:36.363
+         (0.57)
+
+0252 Y   ok
+         00:06:36.938 - 00:06:37.407
+         (0.56)
+
+0253 R   soit ce qui est écrit en-dessous une petite carte développement
+         00:06:37.968 - 00:06:39.848
+         (1.32)
+
+0254 Y   ouais construire une carte développement ? ok
+         00:06:41.165 - 00:06:43.100
+
+0255 R   bah acheter une carte développement
+         00:06:42.906 - 00:06:44.316
+
+0256 Y   ah d'accord ok
+         00:06:43.780 - 00:06:44.725
+         (0.89)
+
+0257 R   donc on achète une carte développement qui sont ces cartes-là
+         00:06:45.619 - 00:06:47.926
+         (0.10)
+
+0258 Y   hum hum
+         00:06:48.027 - 00:06:48.583
+         (0.12)
+
+0259 R   faces cachées c'est un peu des cartes chance hein
+         00:06:48.704 - 00:06:51.076
+         (0.48)
+
+0260 R   euh qui apportent toujours des bonus à celui qui les achète
+         00:06:51.555 - 00:06:53.686
+
+0261 Y   d'accord
+         00:06:53.616 - 00:06:54.161
+         (0.56)
+
+0262 Y   déjà c'est bien à savoir ça
+         00:06:54.718 - 00:06:55.858
+
+0263 R   ouais [rire]
+         00:06:55.787 - 00:06:56.895
+         (0.44)
+
+0264 R   et il y a des gens qui jouent beaucoup qu'avec ces cartes puisque ils trouvent ça super bien c'est un peu la le le package surprise tu vois
+         00:06:57.333 - 00:07:02.443
+         (0.26)
+
+0265 R   donc qu'est-ce que ça nous fait ?
+         00:07:02.702 - 00:07:03.771
+         (1.05)
+
+0266 R   eh bah voilà c'est la meilleure hein
+         00:07:04.822 - 00:07:06.131
+         (0.32)
+
+0267 R   de mon point de vue c'est la carte point de victoire
+         00:07:06.451 - 00:07:08.655
+         (0.14)
+
+0268 Y   ok
+         00:07:08.790 - 00:07:09.290
+
+0269 R   quand tu l'obtiens
+         00:07:09.145 - 00:07:10.419
+         (0.30)
+
+0270 R   t'as le droit de cacher tes cartes hein tu peux les
+         00:07:10.722 - 00:07:12.738
+         (0.05)
+
+0271 R   les gens sont pas obligés de savoir combien de cartes comme ça spéciales tu tu tu gardes encore
+         00:07:12.790 - 00:07:16.967
+
+0272 B   (xxx) ?
+         00:07:13.255 - 00:07:14.290
+
+0273 W   hum
+         00:07:14.322 - 00:07:14.629
+         (0.20)
+
+0274 R   (xxx)
+         00:07:17.168 - 00:07:18.210
+
+0275 Y   ah parce que tu la pioches mais t'es pas obligé de la jouer immédiatement ? d'accord
+         00:07:17.484 - 00:07:20.474
+
+0276 R   voilà ça c'est une carte euh où à la fin tu vas dire ben en fait j'ai gagné parce que j'avais 1 point caché quoi
+         00:07:19.163 - 00:07:24.038
+         (0.12)
+
+0277 Y   d'accord
+         00:07:24.153 - 00:07:24.595
+
+0278 R   d'accord ? c'est 1 point en plus mais t'es pas obligé de dire aux autres que tu l'as que tu l'as obtenu
+         00:07:24.451 - 00:07:28.387
+
+0279 Y   du moins pas tout de suite
+         00:07:27.741 - 00:07:28.838
+         (0.23)
+
+0280 R   donc il y a ces cartes-là point de victoire (xxx) continuer ouais il y en a plusieurs
+         00:07:29.069 - 00:07:32.432
+
+0281 Y   il y en a plusieurs ?
+         00:07:30.722 - 00:07:31.715
+
+0282 Y   ok
+         00:07:32.303 - 00:07:32.798
+         (0.54)
+
+0283 Y   euh j'ai l'impression que c'est un peu trié hum
+         00:07:33.333 - 00:07:35.143
+
+0284 R   ouais on va regarder ça tout de suite
+         00:07:34.724 - 00:07:36.156
+         (0.35)
+
+0285 R   hum je vais remélanger de toute manière
+         00:07:36.506 - 00:07:37.953
+
+0286 Y   ouais
+         00:07:37.760 - 00:07:38.369
+
+0287 R   alors il y a des cartes
+         00:07:38.232 - 00:07:39.338
+         (0.75)
+
+0288 R   euh la carte progrès
+         00:07:40.087 - 00:07:41.511
+         (0.23)
+
+0289 R   invention
+         00:07:41.743 - 00:07:42.532
+         (0.47)
+
+0290 R   qui nous dit de toute manière c'est écrit hein
+         00:07:43.000 - 00:07:44.736
+         (0.07)
+
+0291 R   recevez 2 cartes de la réserve
+         00:07:44.806 - 00:07:46.838
+         (0.23)
+
+0292 R   et donc 2 cartes ressources de votre choix
+         00:07:47.064 - 00:07:48.585
+         (0.23)
+
+0293 R   ça permet de jouer cette carte-là au moment où on veut
+         00:07:48.819 - 00:07:51.743
+
+0294 Y   d'accord ouais
+         00:07:50.759 - 00:07:52.483
+
+0295 R   et d'obtenir bah des moutons quoi
+         00:07:52.016 - 00:07:53.666
+
+0296 B   3 pour 2 c'est pas mal
+         00:07:53.564 - 00:07:54.822
+         (1.38)
+
+0297 R   ben là l'avantage c'est que tu peux le jouer à un moment où t'arrives pas à avoir ce que tu veux fin (xxx)
+         00:07:56.197 - 00:07:59.906
+
+0298 B   oui oui oui
+         00:07:58.423 - 00:07:59.414
+
+0299 B   (xxx)
+         00:07:59.759 - 00:08:01.500
+
+0300 R   bon c'est pas la meilleure mais ça peut être très utile
+         00:08:00.016 - 00:08:02.080
+         (0.71)
+
+0301 R   euh hop la carte la plus courante parmi toutes ces cartes ici c'est la carte chevalier
+         00:08:02.794 - 00:08:05.999
+
+0302 Y   hum hum ?
+         00:08:05.999 - 00:08:06.578
+         (0.30)
+
+0303 R   alors en fait il y a un voleur dans l'histoire
+         00:08:06.877 - 00:08:08.548
+
+0304 O   [micro]
+         00:08:07.877 - 00:08:08.511
+
+0305 W   (xxx)
+         00:08:08.511 - 00:08:08.945
+
+0306 Y   c'est eux ?
+         00:08:08.719 - 00:08:09.207
+
+0307 R   voilà c'est le petit truc noir
+         00:08:09.048 - 00:08:10.182
+         (0.15)
+
+0308 R   au début du jeu ah ils sont plusieurs
+         00:08:10.328 - 00:08:12.175
+         (0.25)
+
+0309 R   au début du jeu ils sont euh dans le désert
+         00:08:12.429 - 00:08:15.092
+
+0310 Y   dans le désert ok
+         00:08:14.214 - 00:08:15.494
+
+0311 R   (xxx)
+         00:08:15.219 - 00:08:15.878
+         (0.11)
+
+0312 Y   c'est vraiment la merde le désert en fait
+         00:08:15.987 - 00:08:17.646
+         (0.14)
+
+0313 R   ouais [rire]
+         00:08:17.783 - 00:08:19.049
+         (0.19)
+
+0314 R   et au premier 7 qui va tomber qui est donc euh le lancé de dés le plus possible hein le plus courant
+         00:08:19.243 - 00:08:23.658
+         (0.03)
+
+0315 Y   hum
+         00:08:23.685 - 00:08:24.146
+         (0.10)
+
+0316 R   euh si vous remarquez il y a pas de 7 dans le jeu
+         00:08:24.244 - 00:08:26.403
+
+0317 Y   hum
+         00:08:26.403 - 00:08:26.871
+
+0318 R   au premier 7 qui tombe celui qui lance les dés va choisir de déplacer le voleur
+         00:08:26.756 - 00:08:30.609
+         (0.30)
+
+0319 Y   d'accord
+         00:08:30.907 - 00:08:31.400
+         (0.54)
+
+0320 R   le mettre à l'endroit de son choix
+         00:08:31.943 - 00:08:33.115
+         (0.12)
+
+0321 Y   ah euh pas adjacent rien du tout ok
+         00:08:33.237 - 00:08:35.243
+         (1.44)
+
+0322 R   voilà
+         00:08:36.679 - 00:08:37.306
+         (0.71)
+
+0323 R   et toi si t'as une ville ici ça va me permettre plusieurs choses
+         00:08:38.013 - 00:08:40.313
+         (0.04)
+
+0324 R   donc déjà j'ai mis le voleur sur le numéro
+         00:08:40.350 - 00:08:42.057
+         (0.17)
+
+0325 Y   d'accord
+         00:08:42.230 - 00:08:42.881
+
+0326 R   ça veut dire que dans tous les tours qui vont suivre et tant que le voleur est là
+         00:08:42.313 - 00:08:44.951
+         (0.63)
+
+0327 R   si le 3 tombe tu récoltes rien
+         00:08:45.583 - 00:08:47.342
+         (0.24)
+
+0328 Y   et toi tu récoltes ? à ma place ?
+         00:08:47.583 - 00:08:49.115
+
+0329 R   (xxx)
+         00:08:47.724 - 00:08:48.361
+
+0330 R   bah ça dépend non non
+         00:08:48.894 - 00:08:50.170
+
+0331 W   non
+         00:08:49.157 - 00:08:49.668
+
+0332 B   euh vu que t'as le 3 ici
+         00:08:49.672 - 00:08:51.494
+
+0333 R   juste il cache le le numéro (xxx) pas de récolte
+         00:08:50.213 - 00:08:52.790
+
+0334 Y   d'accord ok
+         00:08:52.119 - 00:08:53.353
+         (0.08)
+
+0335 R   donc ça empêche euh de récolter tous les gens qui sont autour
+         00:08:53.431 - 00:08:56.157
+
+0336 B   et c'est que ce 3 là pas l'autre ?
+         00:08:55.487 - 00:08:57.309
+         (0.87)
+
+0337 W   oui
+         00:08:58.180 - 00:08:58.687
+
+0338 R   oui
+         00:08:58.412 - 00:08:58.814
+         (0.70)
+
+0339 R   que celui sur lequel il est
+         00:08:59.516 - 00:09:00.558
+         (0.34)
+
+0340 R   et en plus celui qui a déplacé le voleur a le droit de voler c'est bien son but une carte à à quelqu'un qui est adjacent donc là s'il y avait que toi JAUNE
+         00:09:00.903 - 00:09:07.010
+         (0.16)
+
+0341 Y   hum hum ?
+         00:09:07.170 - 00:09:07.560
+
+0342 R   parmi toutes tes cartes que t'auras euh ressources je t'en prends une
+         00:09:07.327 - 00:09:09.722
+         (0.06)
+
+0343 Y   d'accord ressources pas les cartes mystère
+         00:09:09.781 - 00:09:11.830
+
+0344 R   on ne choisit pas
+         00:09:10.161 - 00:09:10.955
+
+0345 R   non les cartes mystère elles sont toujours à part normalement
+         00:09:11.430 - 00:09:13.319
+         (0.93)
+
+0346 R   euh voilà donc évidemment euh tu tu montres tes cartes et je t'en prends 1 on ne sait pas si (xxx)
+         00:09:14.253 - 00:09:18.595
+
+0347 Y   c'est chiant
+         00:09:15.953 - 00:09:16.631
+
+0348 Y   ah tu les on t'es obligé de montrer tes cartes ressources ?
+         00:09:17.917 - 00:09:20.293
+         (0.05)
+
+0349 R   non non tu les tu les (xxx)
+         00:09:20.339 - 00:09:22.825
+
+0350 Y   ah d'accord tu les ok c'est face cachée quand même
+         00:09:21.522 - 00:09:24.059
+
+0351 W   (xxx)
+         00:09:21.710 - 00:09:22.647
+
+0352 R   1 voilà
+         00:09:23.273 - 00:09:24.053
+         (0.07)
+
+0353 Y   ouais ok c'est sinon c'est pété quand même
+         00:09:24.126 - 00:09:25.732
+
+0354 R   du coup la carte chevalier fait un petit peu la même chose euh sauf qu'on n'a pas besoin de lancer un 7
+         00:09:25.430 - 00:09:29.329
+         (0.11)
+
+0355 R   en gros à un moment donné dans en cours de de de
+         00:09:29.439 - 00:09:32.207
+         (0.07)
+
+0356 R   de
+         00:09:32.281 - 00:09:32.773
+         (0.29)
+
+0357 R   (xxx) tour
+         00:09:33.064 - 00:09:33.976
+
+0358 Y   (xxx) plutôt que des chevaliers mais [rire]
+         00:09:33.165 - 00:09:35.917
+
+0359 R   je peux
+         00:09:34.142 - 00:09:34.845
+
+0360 R   je peux prendre cette carte euh (0.4s) chevalier ouais t'as raison
+         00:09:35.371 - 00:09:38.465
+         (0.22)
+
+0361 R   pour déplacer le voleur
+         00:09:38.689 - 00:09:39.924
+         (0.67)
+
+0362 R   de l'endroit où il est et le mettre là où j'ai envie
+         00:09:40.589 - 00:09:42.248
+
+0363 Y   d'accord
+         00:09:40.734 - 00:09:41.202
+         (0.10)
+
+0364 R   et ensuite je (xxx)
+         00:09:42.347 - 00:09:43.332
+
+0365 Y   d'accord
+         00:09:42.681 - 00:09:43.265
+         (0.27)
+
+0366 R   donc après il y a le même euh il y a le même euh
+         00:09:43.602 - 00:09:45.963
+         (0.54)
+
+0367 R   la même action c'est juste qu'il est pas initié par la même chose
+         00:09:46.504 - 00:09:48.853
+         (0.09)
+
+0368 Y   d'accord
+         00:09:48.943 - 00:09:49.419
+         (0.07)
+
+0369 R   c'est utile quand il est chez nous et que ça nous empêche de récolter ou quand on a envie de voler à quelqu'un
+         00:09:49.486 - 00:09:53.550
+         (0.54)
+
+0370 R   l'autre intérêt de ces cartes chevaliers donc je vous ai dit qu'il y en avait plusieurs
+         00:09:54.093 - 00:09:56.787
+         (1.60)
+
+0371 R   hop c'est que si jamais ah celle-là on va la garder pour après
+         00:09:58.386 - 00:10:01.381
+         (0.27)
+
+0372 R   si jamais j'arrive à jouer 3 cartes chevaliers euh faces retournées devant moi
+         00:10:01.655 - 00:10:04.851
+
+0373 Y   hum ?
+         00:10:04.855 - 00:10:05.396
+         (0.22)
+
+0374 R   j'obtiens la carte armée la plus puissante
+         00:10:05.614 - 00:10:07.642
+         (0.77)
+
+0375 Y   d'accord
+         00:10:08.412 - 00:10:09.030
+
+0376 R   et ça ça fait 2 points de victoire
+         00:10:09.009 - 00:10:10.175
+         (0.03)
+
+0377 R   donc dès que quelqu'un obtient 3 chevaliers il prend cette carte-là pour lui il gagne 2 points
+         00:10:10.205 - 00:10:14.261
+
+0378 Y   ah
+         00:10:10.344 - 00:10:10.767
+         (0.45)
+
+0379 R   et il faut faire une armée plus puissante que lui donc avoir 1 carte de plus pour la récupérer
+         00:10:14.709 - 00:10:18.822
+         (0.08)
+
+0380 Y   d'accord
+         00:10:18.899 - 00:10:19.465
+
+0381 B   et il y a combien de chevaliers en tout à peu près ?
+         00:10:19.097 - 00:10:20.786
+         (0.21)
+
+0382 R   je sais pas mais il y en a pas mal
+         00:10:20.997 - 00:10:22.341
+
+0383 B   ok
+         00:10:22.196 - 00:10:22.704
+         (0.13)
+
+0384 R   j'ai jamais été (xxx)
+         00:10:22.837 - 00:10:23.931
+         (1.53)
+
+0385 R   euh voilà donc les chevaliers c'est intéressant pour plusieurs choses pour avoir des points et puis pour
+         00:10:25.465 - 00:10:30.265
+         (1.05)
+
+0386 R   pour décaler le voleur
+         00:10:31.312 - 00:10:32.399
+         (0.28)
+
+0387 R   alors parmi les cartes progrès donc c'est les cartes qui nous donnent des choses à faire
+         00:10:32.683 - 00:10:35.555
+         (0.55)
+
+0388 R   il y en a 2 autres il y a la carte monopole
+         00:10:36.105 - 00:10:37.883
+         (1.35)
+
+0389 R   euh au moment de mon choix je vais dire que hum je demande le monopole du blé donc tous les gens qu'ont du blé euh dans leurs mains doivent me donner tout leur blé
+         00:10:39.235 - 00:10:47.341
+         (0.46)
+
+0390 Y   wah
+         00:10:47.797 - 00:10:48.549
+         (0.45)
+
+0391 R   donc (xxx) bien quand il y a beaucoup de blé qui vient de tomber
+         00:10:49.000 - 00:10:51.470
+
+0392 Y   ok
+         00:10:49.182 - 00:10:49.615
+
+0393 W   j'ai jamais joué la carte (xxx)
+         00:10:50.871 - 00:10:52.256
+
+0394 O   [micro]
+         00:10:51.453 - 00:10:54.906
+
+0395 R   ah ouais ?
+         00:10:52.147 - 00:10:52.908
+
+0396 W   je crois pas non
+         00:10:52.720 - 00:10:53.605
+
+0397 R   quand personne veut donner son blé (xxx)
+         00:10:53.511 - 00:10:55.785
+         (0.39)
+
+0398 R   et la dernière
+         00:10:56.179 - 00:10:57.350
+         (2.23)
+
+0399 R   donc là on a encore des points de victoire
+         00:10:59.584 - 00:11:01.817
+         (0.75)
+
+0400 R   la carte construction de route
+         00:11:02.569 - 00:11:03.757
+         (0.05)
+
+0401 R   avec cette carte (xxx) on a le droit de (xxx) de construire gratuitement 2 routes
+         00:11:03.811 - 00:11:06.736
+         (0.05)
+
+0402 R   (xxx) route ici (xxx)
+         00:11:06.786 - 00:11:08.385
+
+0403 Y   2 ?
+         00:11:06.983 - 00:11:07.498
+
+0404 Y   ok
+         00:11:07.733 - 00:11:08.158
+         (0.19)
+
+0405 R   et ouais
+         00:11:08.574 - 00:11:09.167
+         (0.62)
+
+0406 R   normalement je crois que c'est tout pour le le reste (xxx) je vais juste mélanger bien
+         00:11:09.785 - 00:11:13.258
+
+0407 Y   c'est pas mal
+         00:11:09.937 - 00:11:10.589
+         (2.05)
+
+0408 R   bon les autres hum
+         00:11:15.304 - 00:11:16.872
+         (0.11)
+
+0409 R   ben il  y a 2 cartes il y a 2 cartes de chaque 2 monopoles 2 constructions de route
+         00:11:16.979 - 00:11:20.327
+         (0.54)
+
+0410 R   2 cartes euh dites invention (xxx)
+         00:11:20.871 - 00:11:24.743
+
+0411 Y   hum
+         00:11:23.842 - 00:11:24.341
+         (0.62)
+
+0412 R   et plein de chevaliers et puis 5 ou 6 points de victoire je sais plus
+         00:11:25.364 - 00:11:28.250
+         (0.72)
+
+0413 Y   ok
+         00:11:28.974 - 00:11:29.389
+         (0.70)
+
+0414 Y   euh tout au début on n'a pas de ressource en main ?
+         00:11:30.089 - 00:11:33.985
+         (0.88)
+
+0415 R   ah il y a un truc que (xxx) vous dire c'est qu'il y a aussi une autre manière de gagner des points avec cette deuxième carte la carte route la plus longue
+         00:11:34.860 - 00:11:39.557
+
+0416 Y   ouais ?
+         00:11:37.466 - 00:11:37.949
+         (0.11)
+
+0417 Y   hum hum
+         00:11:39.663 - 00:11:40.260
+
+0418 R   à partir du moment où on a 5 euh petites routes qui sont euh continues
+         00:11:40.193 - 00:11:44.964
+         (0.75)
+
+0419 R   on obtient cette carte-là
+         00:11:45.718 - 00:11:47.294
+         (0.15)
+
+0420 R   donc il faut qu'elle soit
+         00:11:47.446 - 00:11:48.590
+
+0421 Y   et du coup il faut dépasser celui qui a la plus grande route
+         00:11:47.598 - 00:11:51.000
+
+0422 R   ça soit pareil si quelqu'un d'autre fait 5 eh ben il prend pas la carte s'il fait 6 c'est bon
+         00:11:49.545 - 00:11:52.605
+         (0.11)
+
+0423 Y   ok
+         00:11:52.715 - 00:11:53.173
+         (0.31)
+
+0424 R   euh il faut que mes routes soient euh pas interrompues par quelqu'un si quelqu'un arrive ici hop et construit une ville
+         00:11:53.484 - 00:11:59.360
+         (0.58)
+
+0425 R   fin une colonie ou ce que vous voulez
+         00:11:59.941 - 00:12:01.419
+
+0426 Y   ok et ça sert à quoi au fait les routes ?
+         00:11:59.991 - 00:12:01.928
+         (0.76)
+
+0427 R   à se déplacer
+         00:12:02.692 - 00:12:03.427
+         (0.45)
+
+0428 W   hum
+         00:12:03.877 - 00:12:04.082
+         (0.34)
+
+0429 R   tu peux pas en fait si tu veux pour gagner tu te rends bien compte qu'il va falloir construire pas mal de colonies ou de villes
+         00:12:04.421 - 00:12:08.800
+
+0430 Y   ouais ouais
+         00:12:08.396 - 00:12:09.283
+         (0.28)
+
+0431 R   euh au départ tu pars avec juste des colonies donc t'as peu de points et tu peux pas dépasser
+         00:12:09.559 - 00:12:13.489
+
+0432 Y   ah oui étant donné que tu peux pas être adjacent d'accord
+         00:12:10.851 - 00:12:13.393
+         (0.11)
+
+0433 R   donc t'es obligé de te déplacer quelque part pour (xxx)
+         00:12:13.603 - 00:12:16.063
+
+0434 Y   t'es obligé de faire au moins 2 routes pour pouvoir reconstruire une autre truc d'acc
+         00:12:15.052 - 00:12:18.293
+
+0435 R   voilà
+         00:12:17.804 - 00:12:18.368
+         (1.74)
+
+0436 R   donc tout au début du jeu là je crois que j'ai donné l'essentiel de des règles t'es d'accord ?
+         00:12:20.110 - 00:12:24.320
+
+0437 W   ouais il reste juste euh là sur les points maritimes
+         00:12:23.905 - 00:12:26.913
+
+0438 R   ah oui les ports
+         00:12:25.895 - 00:12:26.693
+
+0439 Y   hum ?
+         00:12:26.893 - 00:12:27.531
+
+0440 W   si t'occupes une colonie ou une ville (xxx) par exemple
+         00:12:26.988 - 00:12:30.427
+         (0.11)
+
+0441 W   (xxx) pour la banque ce sera pas 4 contre 1 ce sera 3 contre 1
+         00:12:30.533 - 00:12:33.595
+         (0.13)
+
+0442 R   (xxx)
+         00:12:33.723 - 00:12:34.469
+
+0443 W   et ici c'est 2 contre 1 pour 1 pour 1 caillou par exemple
+         00:12:33.787 - 00:12:37.425
+         (0.06)
+
+0444 W   et par exemple pour le blé (xxx)
+         00:12:37.482 - 00:12:39.723
+
+0445 Y   d'accord donc euh les mieux c'est les ceux-là parce que c'est les plus polyvalents quoi
+         00:12:38.287 - 00:12:42.310
+         (0.35)
+
+0446 W   c'est ça après voilà
+         00:12:42.657 - 00:12:44.272
+
+0447 B   tout dépend ce que t'as
+         00:12:42.814 - 00:12:44.148
+
+0448 Y   ça dépend ce que tu veux mais
+         00:12:43.617 - 00:12:44.883
+
+0449 R   ça dépend ça dépend honnêtement
+         00:12:44.281 - 00:12:46.002
+
+0450 W   après là c'est c'est par exemple si t'es si t'es là si t'es et là par exemple celui-là c'est bien parce que tu vas pouvoir plus de chance d'avoir des cailloux
+         00:12:44.927 - 00:12:52.248
+
+0451 Y   ouais d'accord
+         00:12:48.758 - 00:12:49.721
+
+0452 R   celui-là est très bien tu vois le 8 il tombe beaucoup
+         00:12:51.939 - 00:12:53.589
+         (0.24)
+
+0453 R   plus le chiffre est gros plus il tombe fin (xxx)
+         00:12:53.825 - 00:12:56.889
+
+0454 W   voilà
+         00:12:53.899 - 00:12:54.454
+
+0455 Y   hum pas forcément
+         00:12:55.261 - 00:12:56.727
+         (0.12)
+
+0456 Y   ouais voilà c'est ça
+         00:12:57.007 - 00:12:57.882
+
+0457 W   hum
+         00:12:57.585 - 00:12:57.744
+         (0.17)
+
+0458 R   hum donc du coup a priori ça une ressource qui va beaucoup tomber c'est une ressource de blé et là on a un port de blé
+         00:12:58.050 - 00:13:03.384
+         (0.13)
+
+0459 Y   ok
+         00:13:03.511 - 00:13:03.961
+         (0.03)
+
+0460 R   donc ça c'est une position (xxx)
+         00:13:03.989 - 00:13:05.381
+
+0461 Y   et euh là et là c'est aussi un port de blé du coup ?
+         00:13:04.670 - 00:13:08.195
+
+0462 R   non alors les ports ils sont
+         00:13:07.824 - 00:13:10.092
+
+0463 Y   non ?
+         00:13:08.388 - 00:13:08.818
+         (0.14)
+
+0464 R   on les voit pas là où il y a les petites berges
+         00:13:10.237 - 00:13:11.402
+
+0465 Y   ok
+         00:13:11.415 - 00:13:11.904
+         (0.02)
+
+0466 R   c'est que on peut faire partir des bateaux que là où (xxx)
+         00:13:11.927 - 00:13:14.278
+         (1.01)
+
+0467 R   des quais
+         00:13:15.285 - 00:13:15.789
+
+0468 Y   donc euh donc c'est pas là mais là oui
+         00:13:15.562 - 00:13:18.674
+         (0.11)
+
+0469 R   là oui
+         00:13:18.787 - 00:13:19.311
+
+0470 Y   ok
+         00:13:19.311 - 00:13:19.718
+         (0.16)
+
+0471 R   là ou là en fait
+         00:13:19.882 - 00:13:20.731
+
+0472 Y   ouais
+         00:13:20.739 - 00:13:20.862
+         (0.13)
+
+0473 R   et du coup tu peux pas avoir 2 personnes dessus (xxx)
+         00:13:20.996 - 00:13:23.868
+
+0474 Y   d'acc ouais d'accord je (xxx)
+         00:13:23.307 - 00:13:24.926
+         (0.06)
+
+0475 B   et du coup si on est à un endroit comme ici on récolte que la ressource qui est là c'est-à-dire une ressource c'est ça ?
+         00:13:24.987 - 00:13:29.566
+
+0476 R   si tu te mets là t'as qu'une ressource ouais
+         00:13:29.392 - 00:13:30.711
+
+0477 B   ouais ok
+         00:13:30.382 - 00:13:31.122
+         (0.14)
+
+0478 R   donc là c'est plus intéressant tu vois
+         00:13:31.267 - 00:13:32.498
+
+0479 B   ouais
+         00:13:32.272 - 00:13:32.681
+         (1.49)
+
+0480 R   mais il peut y avoir des raisons pour lesquelles t'aies envie d'avoir le port
+         00:13:34.171 - 00:13:36.927
+         (0.17)
+
+0481 R   et comme il y a quelqu'un trop près tu peux pas venir te
+         00:13:37.092 - 00:13:39.474
+         (0.66)
+
+0482 Y   c'est qui qui a mis de la musique ?
+         00:13:40.135 - 00:13:41.934
+         (0.50)
+
+0483 Y   je crois que c'est juste exprès pour te t'emmerder
+         00:13:42.435 - 00:13:44.886
+
+0484 O   non mais il y a pas de problème c'est bien directionnel (xxx) ouais c'est pour ça que j'ai mis les écouteurs pour vérifier
+         00:13:44.428 - 00:13:49.518
+
+0485 W   (xxx)
+         00:13:44.680 - 00:13:45.195
+
+0486 Y   ok
+         00:13:46.569 - 00:13:47.020
+
+0487 R   d'accord [rire]
+         00:13:46.817 - 00:13:48.009
+
+0488 W   ok
+         00:13:48.938 - 00:13:49.505
+         (1.00)
+
+0489 R   hum bon ben voilà
+         00:13:50.520 - 00:13:52.217
+         (0.11)
+
+0490 R   donc tout au début du jeu pour que ce soit à peu près équitable à l'endroit où on se place
+         00:13:52.329 - 00:13:55.927
+
+0491 Y   ok
+         00:13:52.669 - 00:13:53.229
+         (0.27)
+
+0492 W   il y a pas une dernière règle avec le nombre de cartes en main ?
+         00:13:56.193 - 00:13:58.988
+         (0.89)
+
+0493 R   ah oui pas le droit d'avoir plus de 8 cartes
+         00:13:59.881 - 00:14:01.416
+         (0.36)
+
+0494 W   je sais ouais c'est ça ?
+         00:14:01.778 - 00:14:02.857
+
+0495 R   ouais pouvez vérifier mais effectivement
+         00:14:02.857 - 00:14:04.973
+
+0496 W   je la trouve pas
+         00:14:04.980 - 00:14:05.926
+
+0497 Y   ah c'est con
+         00:14:05.206 - 00:14:05.845
+         (0.66)
+
+0498 R   hum ben en fait (xxx) tu dois construire quoi
+         00:14:06.589 - 00:14:09.310
+
+0499 W   (xxx)
+         00:14:07.618 - 00:14:08.414
+         (0.17)
+
+0500 Y   ouais mais
+         00:14:09.475 - 00:14:10.857
+
+0501 R   à partir du moment où t'as plus de 8 cartes tu dois en jeter
+         00:14:09.882 - 00:14:12.667
+         (1.15)
+
+0502 R   et ce dès que tu en
+         00:14:13.817 - 00:14:16.021
+         (0.45)
+
+0503 R   comment dire ? dès le dès le tour de de récolte quoi
+         00:14:16.475 - 00:14:18.915
+         (0.25)
+
+0504 R   t'attends pas euh une heure pour (xxx) tes cartes
+         00:14:19.161 - 00:14:21.670
+
+0505 Y   donc en gros si par exemple lors de la phase de récolte j'ai 5 cartes en main lors de la phase de récolte j'en récupère 4 ce qui est énorme
+         00:14:21.670 - 00:14:27.397
+         (0.31)
+
+0506 Y   euh je (0.2s) suis obligée d'en balancer une
+         00:14:27.704 - 00:14:29.477
+
+0507 R   bah
+         00:14:28.423 - 00:14:28.839
+         (0.35)
+
+0508 R   oui mais tu sais récupérer 4 cartes faut (xxx)
+         00:14:29.828 - 00:14:31.825
+
+0509 Y   immédiatement
+         00:14:29.984 - 00:14:30.639
+
+0510 Y   je sais mais bon mettons que j'en avais (interrup-)
+         00:14:31.143 - 00:14:33.250
+
+0511 W   (xxx)
+         00:14:31.354 - 00:14:32.366
+
+0512 R   (xxx) alors 2 villes sur 2 numéros (xxx)
+         00:14:32.675 - 00:14:35.213
+
+0513 Y   mettons mettons mettons que j'en avais 7
+         00:14:33.600 - 00:14:36.182
+
+0514 B   (xxx) des échanges super intéressants
+         00:14:34.931 - 00:14:37.602
+         (0.05)
+
+0515 Y   mettons que j'en avais 7 et que y euh j'en ai 2 qui tombent je suis obligée d'en jeter 1 immédiatement ou je peux l'utiliser pour construire un truc ?
+         00:14:37.655 - 00:14:43.251
+
+0516 R   ah ben non non non
+         00:14:42.570 - 00:14:43.477
+
+0517 W   ah oui mais euh
+         00:14:43.236 - 00:14:44.083
+
+0518 B   (xxx) tour
+         00:14:43.549 - 00:14:44.922
+
+0519 R   non justement c'est ça que je veux dire
+         00:14:43.625 - 00:14:44.784
+         (0.07)
+
+0520 W   en fait c'est pas c'est pas tout le temps en fait c'est que quand le voleur est actif
+         00:14:44.994 - 00:14:48.614
+
+0521 R   tu tu dois pas dire ouais je (xxx)
+         00:14:45.080 - 00:14:46.671
+
+0522 Y   ok ok
+         00:14:46.671 - 00:14:47.543
+         (0.05)
+
+0523 W   en fait quand que quand il est euh activé
+         00:14:48.669 - 00:14:51.404
+         (0.24)
+
+0524 R   quoi ?
+         00:14:51.644 - 00:14:51.917
+         (0.17)
+
+0525 W   c'est que quand il est activé
+         00:14:52.083 - 00:14:53.192
+
+0526 R   ah t'as raison
+         00:14:53.192 - 00:14:54.251
+
+0527 W   (xxx) voilà
+         00:14:53.308 - 00:14:54.295
+         (0.09)
+
+0528 R   c'est au moment où le 7 tombe
+         00:14:54.390 - 00:14:55.967
+
+0529 W   c'est ça c'est (0.3s) voilà c'est c'est ça
+         00:14:54.660 - 00:14:56.426
+
+0530 R   au moment où le 7 est lancé
+         00:14:56.426 - 00:14:57.540
+
+0531 W   hum
+         00:14:57.540 - 00:14:57.744
+         (0.10)
+
+0532 Y   ouais ?
+         00:14:57.846 - 00:14:58.227
+         (0.33)
+
+0533 W   tous les joueurs regardent co(interrup-) leurs voilà
+         00:14:58.553 - 00:15:00.646
+
+0534 R   tous les gens qui ont plus de 8 cartes euh doivent jeter le trop
+         00:14:58.788 - 00:15:01.681
+
+0535 W   la moitié la moitié de leurs cartes
+         00:15:01.420 - 00:15:03.265
+         (0.62)
+
+0536 R   mouais
+         00:15:03.889 - 00:15:04.207
+         (0.27)
+
+0537 Y   plus de 8 cartes il faut que tu te défausses de de la moitié ?
+         00:15:04.479 - 00:15:07.008
+
+0538 W   voilà
+         00:15:04.497 - 00:15:04.958
+
+0539 R   la moitié
+         00:15:06.011 - 00:15:06.613
+
+0540 B   (xxx) avoir plein
+         00:15:06.242 - 00:15:07.668
+
+0541 R   et 8 cartes inclus ou pas ?
+         00:15:07.136 - 00:15:08.250
+         (0.09)
+
+0542 W   de quoi ?
+         00:15:08.342 - 00:15:08.865
+
+0543 R   8 c'est bon ou pas ?
+         00:15:08.812 - 00:15:09.746
+
+0544 Y   hum hum
+         00:15:09.162 - 00:15:09.731
+         (0.40)
+
+0545 W   euh non (0.4s) c'est c'est plus de 7 (xxx)
+         00:15:10.142 - 00:15:12.219
+
+0546 R   non non 8 c'est pas bon
+         00:15:10.579 - 00:15:11.625
+
+0547 R   plus en fait en gros quand le 7 est lancé plus de 7
+         00:15:11.810 - 00:15:13.723
+         (0.31)
+
+0548 W   oui
+         00:15:14.028 - 00:15:14.366
+         (0.16)
+
+0549 Y   ok
+         00:15:14.523 - 00:15:14.909
+
+0550 W   c'est ça
+         00:15:14.580 - 00:15:15.013
+
+0551 R   et tu lances la moitié arrondie à ce qui t'arrange si c'est 9 tu lances tu jettes 4
+         00:15:15.023 - 00:15:18.713
+         (0.72)
+
+0552 W   ouais euh ouais c'est ça
+         00:15:19.434 - 00:15:20.983
+
+0553 R   ouais j'ai ça en tête
+         00:15:19.789 - 00:15:20.849
+         (1.00)
+
+0554 W   voilà
+         00:15:21.978 - 00:15:22.438
+
+0555 R   ok
+         00:15:21.982 - 00:15:22.404
+         (0.07)
+
+0556 Y   wah ça va être très compliqué tout ça
+         00:15:22.506 - 00:15:24.223
+
+0557 R   ça va être très juste j'étais (xxx) jouer ouais t'as raison
+         00:15:22.530 - 00:15:26.411
+
+0558 W   voilà je j'étais plus sûr
+         00:15:23.748 - 00:15:25.231
+         (0.99)
+
+0559 R   hum voilà donc on va lancer les dés pour savoir euh qui va commencer à s'installer
+         00:15:27.399 - 00:15:31.430
+         (0.14)
+
+0560 Y   hum hum
+         00:15:31.569 - 00:15:32.319
+
+0561 W   ah
+         00:15:32.058 - 00:15:32.478
+         (0.41)
+
+0562 Y   et c'est comment (xxx) qu'on s'installe c'est un tour comme ça un tour comme ça ?
+         00:15:32.886 - 00:15:36.645
+
+0563 R   (xxx) le plus grand chiffre comment je je t'explique de suite
+         00:15:32.923 - 00:15:36.189
+
+0564 O   [dés]
+         00:15:36.189 - 00:15:37.309
+         (0.54)
+
+0565 R   donc moi j'ai fait un 7
+         00:15:37.844 - 00:15:38.799
+         (1.03)
+
+0566 R   donc celui qui va faire le plus grand chiffre va commencer
+         00:15:39.834 - 00:15:43.195
+
+0567 B   7
+         00:15:41.625 - 00:15:42.267
+         (0.15)
+
+0568 R   ensuite ça va être le suivant qui installera une colonie le suivant et cetera
+         00:15:43.343 - 00:15:46.929
+
+0569 Y   ça va devenir des voleurs hein 6
+         00:15:43.562 - 00:15:45.544
+
+0570 B   6
+         00:15:44.911 - 00:15:45.556
+         (0.08)
+
+0571 R   et en fait le quatrième va installer ses 2 colonies et ses 2 (xxx) d'un coup
+         00:15:47.011 - 00:15:49.640
+
+0572 W   pardon
+         00:15:47.286 - 00:15:47.815
+
+0573 Y   ouais ok c'est (xxx)
+         00:15:48.526 - 00:15:51.026
+
+0574 O   [dés]
+         00:15:49.111 - 00:15:49.932
+
+0575 R   (xxx)
+         00:15:50.372 - 00:15:51.368
+
+0576 W   6
+         00:15:50.939 - 00:15:51.432
+         (0.55)
+
+0577 Y   eh bah toi aussi
+         00:15:51.980 - 00:15:52.661
+
+0578 R   donc c'est entre nous 2 ?
+         00:15:52.083 - 00:15:53.005
+
+0579 B   ouais
+         00:15:52.834 - 00:15:53.358
+         (0.36)
+
+0580 R   ben vas-y
+         00:15:53.715 - 00:15:54.363
+
+0581 W   oui
+         00:15:53.722 - 00:15:54.160
+         (1.82)
+
+0582 O   [dés]
+         00:15:56.183 - 00:15:57.121
+         (1.04)
+
+0583 B   9
+         00:15:58.166 - 00:15:58.831
+         (0.13)
+
+0584 R   pas mal
+         00:15:58.959 - 00:15:59.565
+         (0.67)
+
+0585 O   [dés]
+         00:16:00.232 - 00:16:00.982
+         (0.63)
+
+0586 B   7
+         00:16:01.608 - 00:16:02.184
+
+0587 R   à toi
+         00:16:01.828 - 00:16:02.563
+         (0.21)
+
+0588 W   ok 13 14
+         00:16:02.776 - 00:16:04.776
+
+0589 R   donc tu dois poser une colonie une route
+         00:16:03.426 - 00:16:05.473
+         (0.10)
+
+0590 R   la route doit être adjacente à ta colonie ça va tu vois ?
+         00:16:05.574 - 00:16:07.909
+         (0.28)
+
+0591 W   oui oui je vois attends
+         00:16:08.191 - 00:16:09.206
+         (2.75)
+
+0592 R   alors les endroits bien hein donc il faut il il faut 2 choses
+         00:16:11.954 - 00:16:14.396
+
+0593 B   (xxx) touche
+         00:16:14.086 - 00:16:14.952
+
+0594 R   faut avoir à la fois un peu des ressources variées si quelqu'un fait que que du blé ben il va avoir du mal à construire des routes par exemple
+         00:16:14.499 - 00:16:19.662
+
+0595 W   hum
+         00:16:19.616 - 00:16:20.048
+         (0.51)
+
+0596 R   et puis des numéros pas trop trop nuls
+         00:16:20.560 - 00:16:22.060
+         (0.07)
+
+0597 R   euh se mettre juste sur un 2 et sur l'eau c'est pas génial
+         00:16:22.129 - 00:16:25.076
+         (0.15)
+
+0598 Y   hum
+         00:16:25.226 - 00:16:25.897
+         (0.20)
+
+0599 R   voilà la la pire le pire endroit c'est là par exemple
+         00:16:26.098 - 00:16:28.321
+
+0600 B   euh
+         00:16:26.275 - 00:16:26.977
+         (1.26)
+
+0601 B   ouais il y a même pas de port
+         00:16:29.582 - 00:16:31.011
+         (0.11)
+
+0602 R   voilà il y a pas de port et
+         00:16:31.119 - 00:16:32.467
+
+0603 B   euh en tout je vais placer combien ?
+         00:16:31.812 - 00:16:33.435
+         (0.37)
+
+0604 R   à la fin t'en auras placé 2 2 colonies
+         00:16:33.804 - 00:16:35.961
+
+0605 B   2 colonies et 2 routes du coup ?
+         00:16:35.961 - 00:16:37.812
+
+0606 R   ouais
+         00:16:37.472 - 00:16:37.884
+
+0607 B   ok
+         00:16:37.850 - 00:16:38.241
+
+0608 R   à chaque fois que tu poses une colonie une route (xxx)
+         00:16:38.126 - 00:16:40.095
+         (2.44)
+
+0609 B   je je place une route aussi là ?
+         00:16:42.538 - 00:16:43.829
+
+0610 R   là tu places une route euh là là quoi
+         00:16:43.746 - 00:16:45.777
+
+0611 Y   ah oui pardon
+         00:16:44.746 - 00:16:45.381
+
+0612 W   [toux]
+         00:16:45.322 - 00:16:45.773
+         (10.80)
+
+0613 B   et donc tout à l'heure je placerai une route avant de placer la colonie ?
+         00:16:56.572 - 00:16:58.756
+         (1.52)
+
+0614 R   tout à l'heure tu pourras te mettre ailleurs
+         00:17:00.275 - 00:17:01.807
+         (0.09)
+
+0615 R   donc le tout au début c'est le seul moment où t'as le droit de pas être adjacent
+         00:17:01.902 - 00:17:04.487
+
+0616 B   ah ok d'accord
+         00:17:03.794 - 00:17:04.666
+
+0617 R   tu peux te mettre là-bas
+         00:17:04.583 - 00:17:05.365
+
+0618 B   même même sur celle-là je (xxx) ok
+         00:17:04.769 - 00:17:06.506
+
+0619 W   hum
+         00:17:05.076 - 00:17:06.192
+
+0620 R   ouais voilà tu pourras te mettre où tu veux
+         00:17:05.672 - 00:17:07.165
+         (0.30)
+
+0621 R   tant que t'as ta place et là ça va être ça ton problème c'est que nous on va choisir les bons endroits et à la fin t'auras (xxx)
+         00:17:07.463 - 00:17:12.492
+
+0622 B   tch tch tch tch tch
+         00:17:08.582 - 00:17:10.146
+
+0623 B   hum bien sûr bien sûr
+         00:17:10.223 - 00:17:11.261
+
+0624 W   je reviens euh 2 secondes je
+         00:17:11.671 - 00:17:13.351
+
+0625 R   vas-y
+         00:17:13.144 - 00:17:13.802
+
+0626 O   [micro]
+         00:17:13.298 - 00:17:15.384
+         (1.72)
+
+0627 Y   je sais pas moi
+         00:17:17.103 - 00:17:18.278
+         (6.85)
+
+0628 R   donc tout au début on a aussi euh le droit d'avoir(interrup-) en fait on commence avec les cartes qu'on a autour de nous donc toi tu vas avoir 1 blé 1 bois 1 mouton
+         00:17:25.124 - 00:17:31.928
+
+0629 B   ah
+         00:17:29.775 - 00:17:30.404
+         (0.94)
+
+0630 B   mince
+         00:17:32.864 - 00:17:33.680
+         (2.92)
+
+0631 R   t'as des bonnes cartes (xxx)
+         00:17:36.596 - 00:17:37.911
+
+0632 Y   du coup je vais me mettre là
+         00:17:36.597 - 00:17:38.159
+         (0.24)
+
+0633 B   quoi ?
+         00:17:38.402 - 00:17:38.770
+         (0.04)
+
+0634 R   c'est bien
+         00:17:38.813 - 00:17:39.593
+         (0.88)
+
+0635 Y   et puis
+         00:17:40.477 - 00:17:41.970
+         (0.82)
+
+0636 Y   je vais aller
+         00:17:42.791 - 00:17:44.477
+
+0637 B   fais une route pour que les voleurs ils puissent venir
+         00:17:43.149 - 00:17:44.838
+
+0638 Y   euh bien sûr
+         00:17:44.818 - 00:17:46.203
+         (2.55)
+
+0639 Y   et puis je vais aller euh par euh par je sais pas
+         00:17:48.754 - 00:17:52.731
+         (0.11)
+
+0640 Y   par-là
+         00:17:52.842 - 00:17:53.483
+         (1.41)
+
+0641 Y   merci
+         00:17:54.894 - 00:17:55.737
+         (12.85)
+
+0642 Y   c'est des nouveaux ?
+         00:18:08.582 - 00:18:09.754
+         (3.22)
+
+0643 Y   je crois pas les avoir déjà vus
+         00:18:12.976 - 00:18:14.280
+         (2.11)
+
+0644 W   des cartes par terre et même qu'elles sont à toi
+         00:18:16.389 - 00:18:18.755
+
+0645 B   je me souviens pas
+         00:18:16.425 - 00:18:17.574
+
+0646 Y   bon (xxx)
+         00:18:18.037 - 00:18:19.383
+
+0647 R   début septembre il y a pas mal de nouveaux
+         00:18:18.547 - 00:18:20.548
+
+0648 Y   ouais oui c'est génial
+         00:18:20.526 - 00:18:22.100
+
+0649 W   ah oui c'était
+         00:18:21.525 - 00:18:22.662
+
+0650 R   (xxx)
+         00:18:21.661 - 00:18:22.598
+         (0.03)
+
+0651 Y   oui c'est bon
+         00:18:22.687 - 00:18:23.468
+
+0652 B   c'est à toi du coup
+         00:18:22.957 - 00:18:23.787
+         (0.21)
+
+0653 W   c'est à moi
+         00:18:23.995 - 00:18:24.727
+         (0.93)
+
+0654 W   et elle s'est mis exactement là où j'allais me mettre c'est génial
+         00:18:25.652 - 00:18:27.978
+
+0655 Y   ben il s'est mis exactement où je voulais me mettre donc euh
+         00:18:27.872 - 00:18:30.468
+
+0656 R   moi j'ai pas encore réfléchi donc j'aurai pas cette désillusion
+         00:18:30.135 - 00:18:32.937
+         (0.63)
+
+0657 B   oh tu pourras le savoir après
+         00:18:33.565 - 00:18:35.066
+         (0.70)
+
+0658 R   de quoi ?
+         00:18:35.764 - 00:18:36.251
+         (0.26)
+
+0659 B   ben une fois qu'il se sera mis ah ben oui en fait c'est là que j'allais me mettre [rires]
+         00:18:36.514 - 00:18:40.782
+
+0660 W   [toux]
+         00:18:37.247 - 00:18:37.739
+
+0661 R   beh ouais (xxx)
+         00:18:38.335 - 00:18:39.359
+
+0662 R   j'ai bien repéré des trucs bien tu vois je vais arrêter de regarder comme ça
+         00:18:40.239 - 00:18:42.903
+         (2.10)
+
+0663 R   c'est très frustrant pour (xxx) tu perds moralement dès le début de la partie tu vois t'as pas encore mis tes pierres voilà ben voilà
+         00:18:44.998 - 00:18:50.369
+
+0664 W   hum
+         00:18:45.122 - 00:18:45.868
+         (0.10)
+
+0665 R   hein ?
+         00:18:50.474 - 00:18:50.934
+
+0666 Y   [rire]
+         00:18:50.712 - 00:18:51.575
+         (0.95)
+
+0667 W   ah oui
+         00:18:52.526 - 00:18:53.377
+         (5.80)
+
+0668 R   bon
+         00:18:59.176 - 00:18:59.622
+         (5.82)
+
+0669 B   ah il y a 5 ressources ah ça me tente
+         00:19:05.440 - 00:19:07.635
+         (0.23)
+
+0670 Y   hum
+         00:19:07.868 - 00:19:08.376
+         (1.58)
+
+0671 R   ha
+         00:19:09.957 - 00:19:10.695
+         (1.88)
+
+0672 Y   de toute façon tu pouvais pas t'y mettre ah si tu pouvais pardon
+         00:19:12.579 - 00:19:15.081
+
+0673 R   et donc là je réfléchis (xxx) route
+         00:19:14.913 - 00:19:17.005
+
+0674 W   [toux]
+         00:19:15.667 - 00:19:16.096
+         (1.22)
+
+0675 Y   on peut mettre autant de routes qu'on veut sur la même arête ou une fois que euh il y a une route tu peux plus passer ?
+         00:19:18.225 - 00:19:22.239
+
+0676 O   [jetons]
+         00:19:20.023 - 00:19:20.988
+
+0677 R   ah non une fois qu'il y a une route tu peux plus
+         00:19:21.297 - 00:19:22.891
+
+0678 Y   ok
+         00:19:22.675 - 00:19:22.986
+         (2.41)
+
+0679 B   à mon avis faut qu'il y ait au moins un d'écart entre 2
+         00:19:25.394 - 00:19:28.394
+
+0680 Y   c'est quand même vachement communautaire ton truc [rire]
+         00:19:25.961 - 00:19:29.387
+         (0.11)
+
+0681 B   ouais non (xxx)
+         00:19:29.500 - 00:19:30.851
+
+0682 Y   il y a que des gens à moi qui passent sur mes routes
+         00:19:30.004 - 00:19:32.427
+         (17.52)
+
+0683 B   mouais le désert c'est un peu pourri quand même
+         00:19:49.951 - 00:19:52.021
+
+0684 R   ben oui t'as pas trop envie d'y aller hein
+         00:19:51.632 - 00:19:53.265
+         (0.64)
+
+0685 B   ouais mais bon
+         00:19:53.908 - 00:19:55.008
+         (0.47)
+
+0686 B   quand même un peu
+         00:19:55.473 - 00:19:56.656
+         (4.55)
+
+0687 W   c'est à moi de placer c'est ça ?
+         00:20:01.205 - 00:20:02.543
+
+0688 R   ouais du coup c'est à toi
+         00:20:01.687 - 00:20:02.814
+
+0689 Y   oui c'est ça
+         00:20:01.917 - 00:20:02.884
+         (0.26)
+
+0690 R   (xxx) pas de donner tes cartes faut le faire tout de suite
+         00:20:03.146 - 00:20:05.685
+
+0691 W   hum
+         00:20:03.317 - 00:20:04.016
+         (0.26)
+
+0692 R   tu récupères au début du jeu les cartes que (0.5s)
+         00:20:05.948 - 00:20:08.163
+
+0693 W   ah d'accord je me souvenais plus hum
+         00:20:07.793 - 00:20:10.111
+         (2.16)
+
+0694 R   c'est comme s'il y avait une première récolte de chaque quoi
+         00:20:12.267 - 00:20:14.300
+         (15.82)
+
+0695 O   [jeton]
+         00:20:30.121 - 00:20:30.713
+         (4.17)
+
+0696 W   une deuxième route
+         00:20:34.879 - 00:20:36.265
+         (1.62)
+
+0697 W   je suis obligé de mettre la deuxième route accolée à la deuxième colonie ?
+         00:20:37.888 - 00:20:41.185
+         (0.34)
+
+0698 R   oui
+         00:20:41.528 - 00:20:41.988
+
+0699 W   oui ok
+         00:20:41.982 - 00:20:43.039
+         (2.75)
+
+0700 O   [jetons]
+         00:20:45.791 - 00:20:48.995
+         (0.50)
+
+0701 W   merci
+         00:20:49.495 - 00:20:50.358
+         (11.01)
+
+0702 B   euh faut que JAUNE en remette un
+         00:21:01.366 - 00:21:03.672
+
+0703 Y   eh bah oui je sais
+         00:21:02.404 - 00:21:04.163
+         (0.05)
+
+0704 W   hum
+         00:21:04.209 - 00:21:04.699
+         (1.46)
+
+0705 Y   je sais je sais
+         00:21:06.158 - 00:21:07.867
+         (0.31)
+
+0706 Y   j'ai le droit de mettre là hein c'est bon ?
+         00:21:08.176 - 00:21:10.067
+
+0707 B   ouais
+         00:21:10.067 - 00:21:10.511
+
+0708 Y   (xxx)
+         00:21:10.422 - 00:21:11.475
+
+0709 R   moui ça m'embête mais bon
+         00:21:10.422 - 00:21:11.772
+
+0710 B   [rire]
+         00:21:11.614 - 00:21:12.739
+
+0711 R   on va dire non
+         00:21:12.750 - 00:21:13.522
+         (1.09)
+
+0712 Y   bah t'as tout placé là c'est bon
+         00:21:14.609 - 00:21:16.118
+         (1.49)
+
+0713 R   oui mais a priori tu vois j'ai plus envie d'aller par-là que par-là
+         00:21:17.604 - 00:21:20.340
+         (0.14)
+
+0714 R   comme le montre ma route
+         00:21:20.477 - 00:21:21.800
+         (0.38)
+
+0715 B   bah
+         00:21:22.185 - 00:21:22.734
+         (0.90)
+
+0716 B   je comprends pas
+         00:21:23.637 - 00:21:24.431
+
+0717 Y   ben je me dis euh il me manque quoi ? il me manque euh du pré et du caillou donc j'hésite entre là et là quoi
+         00:21:24.006 - 00:21:30.378
+
+0718 W   [toux]
+         00:21:24.175 - 00:21:24.516
+
+0719 B   [rire]
+         00:21:24.971 - 00:21:26.049
+         (0.04)
+
+0720 O   [bruit]
+         00:21:30.422 - 00:21:30.774
+         (1.00)
+
+0721 Y   mais
+         00:21:31.776 - 00:21:32.732
+         (0.04)
+
+0722 B   après euh tu peux échanger pas mal aussi
+         00:21:32.776 - 00:21:35.390
+
+0723 Y   est-ce que 3 ressources euh
+         00:21:33.004 - 00:21:35.594
+         (1.27)
+
+0724 Y   est-ce que 3 ressources ça vaut mieux que 2 ressources et un port et est-ce que 4 5 2 c'est mieux que 8 3 ?
+         00:21:36.862 - 00:21:43.284
+
+0725 R   2 c'est quand même pas génial hein
+         00:21:43.269 - 00:21:44.676
+
+0726 Y   ouais je sais
+         00:21:44.539 - 00:21:45.203
+
+0727 R   (xxx) en terme de
+         00:21:45.203 - 00:21:46.509
+         (0.25)
+
+0728 Y   ouais mais 3 c'est pas beaucoup mieux
+         00:21:46.764 - 00:21:48.382
+
+0729 R   2 ça arrive (xxx) globalement ça tombe 1 fois dans la dans la partie
+         00:21:48.043 - 00:21:51.863
+         (0.45)
+
+0730 Y   mais 3 c'est pas beaucoup mieux
+         00:21:52.311 - 00:21:53.754
+         (0.40)
+
+0731 R   3 ? non mais par contre
+         00:21:54.151 - 00:21:55.336
+         (0.09)
+
+0732 R   ah moi je comparais le 2 avec le port en fait
+         00:21:55.425 - 00:21:57.358
+
+0733 Y   ah
+         00:21:57.358 - 00:21:57.736
+         (0.66)
+
+0734 Y   ouais ok
+         00:21:58.395 - 00:21:59.392
+         (0.60)
+
+0735 Y   moi je comparais le 3 avec le 4 [rire]
+         00:21:59.995 - 00:22:02.176
+         (0.12)
+
+0736 R   bah le 4 est mieux que 3 mais pas tant que ça
+         00:22:02.300 - 00:22:03.980
+
+0737 Y   ouais
+         00:22:03.509 - 00:22:04.052
+
+0738 R   le 2 c'est quand même bien bien nul hein t'as 1 seule chance de le faire sur tous tes lancers de dés
+         00:22:04.068 - 00:22:07.257
+
+0739 Y   oui j'ai bien compris que tu voulais pas que je m'y mette [rires]
+         00:22:06.905 - 00:22:09.686
+
+0740 B   [rires]
+         00:22:08.728 - 00:22:11.461
+         (0.98)
+
+0741 R   (xxx) en famille ma mère est la spécialiste de se mettre sur les 2 et sur les 12 et de pleurer tout le temps ça tombe jamais
+         00:22:12.445 - 00:22:17.254
+         (1.15)
+
+0742 Y   d'acc
+         00:22:18.402 - 00:22:18.951
+         (2.26)
+
+0743 Y   c'est qui là-bas ? c'est BLEU voilà je veux pas être à côté de BLEU
+         00:22:21.215 - 00:22:23.960
+         (0.74)
+
+0744 Y   [rire]
+         00:22:24.697 - 00:22:25.829
+         (1.35)
+
+0745 R   voilà (xxx) dans la négociation
+         00:22:27.179 - 00:22:29.470
+         (0.36)
+
+0746 Y   [rire]
+         00:22:29.831 - 00:22:31.039
+         (1.73)
+
+0747 W   je suis très très mal placé sur (xxx)
+         00:22:32.771 - 00:22:35.137
+
+0748 Y   ben
+         00:22:32.939 - 00:22:33.652
+
+0749 Y   comme le disait NOM il y a pas si longtemps il faut jamais jouer avec BLEU
+         00:22:34.324 - 00:22:37.561
+         (0.17)
+
+0750 Y   la dernière fois que j'ai joué avec lui il m'a quand même tuée
+         00:22:37.729 - 00:22:39.964
+         (1.17)
+
+0751 Y   il a fait exploser le vaisseau dans lequel on était
+         00:22:41.134 - 00:22:43.493
+         (0.65)
+
+0752 R   ah il s'est suicidé en plus ?
+         00:22:44.142 - 00:22:45.384
+         (0.09)
+
+0753 Y   non lui il a pris les vaisseaux ce les les les navettes de secours
+         00:22:45.474 - 00:22:49.822
+
+0754 R   non ?
+         00:22:45.843 - 00:22:46.357
+         (2.88)
+
+0755 Y   bon allez
+         00:22:52.701 - 00:22:53.499
+         (0.20)
+
+0756 Y   voilà
+         00:22:53.701 - 00:22:54.179
+
+0757 B   non (0.8s)
+         00:22:53.735 - 00:22:54.987
+         (0.66)
+
+0758 B   faut que tu mettes ta route
+         00:22:55.643 - 00:22:56.726
+         (0.03)
+
+0759 Y   je sais
+         00:22:56.752 - 00:22:57.257
+
+0760 B   et il est vraiment bien celui-là hein parce qu'il est adjacent à 2 avec un port à 3
+         00:22:57.153 - 00:23:00.570
+         (0.29)
+
+0761 Y   non je sais je sais qu'il est pas mal hein
+         00:23:00.861 - 00:23:02.933
+
+0762 B   il est il était vraiment mieux que les autres je pense
+         00:23:01.708 - 00:23:04.205
+         (0.25)
+
+0763 Y   je sais pas
+         00:23:04.457 - 00:23:05.237
+         (0.89)
+
+0764 Y   ben disons que après je suis un peu coincée quoi
+         00:23:06.129 - 00:23:07.951
+         (0.47)
+
+0765 B   ben c'est une ressource double avec un 8 qui est vraiment bien et un port à 3
+         00:23:08.419 - 00:23:11.478
+
+0766 Y   oui mais je veux dire à partir de là euh je sais pas trop comment je vais repartir quoi
+         00:23:11.242 - 00:23:14.677
+
+0767 R   tu peux aller chercher du blé qui est à 6 ou du bois qu'il y a là
+         00:23:14.056 - 00:23:16.988
+
+0768 Y   ouais
+         00:23:16.740 - 00:23:17.468
+         (1.42)
+
+0769 R   ou te dire que de toute manière tu t'en moques tu feras rien de cette colonie
+         00:23:18.890 - 00:23:21.602
+
+0770 Y   <i> je vais voir
+         00:23:21.575 - 00:23:22.454
+
+0771 W   [toux]
+         00:23:21.831 - 00:23:22.006
+         (2.07)
+
+0772 Y   toi BLEU
+         00:23:24.521 - 00:23:25.289
+         (0.22)
+
+0773 B   mouais
+         00:23:25.512 - 00:23:26.160
+         (0.19)
+
+0774 R   bon là par contre petit conseil
+         00:23:26.345 - 00:23:28.036
+         (0.02)
+
+0775 Y   hum ?
+         00:23:28.056 - 00:23:28.495
+         (0.03)
+
+0776 R   euh c'est pas très malin parce que t'as pas le droit de construire de colonie ici à cause d'elle
+         00:23:28.522 - 00:23:31.992
+         (0.19)
+
+0777 B   oui
+         00:23:32.185 - 00:23:32.490
+
+0778 Y   mouais ?
+         00:23:32.296 - 00:23:32.703
+
+0779 R   et tu pourras pas en construire là non plus à cause d'elle
+         00:23:32.314 - 00:23:34.250
+
+0780 B   donc mets pas ta route ici
+         00:23:34.187 - 00:23:35.191
+
+0781 W   hum
+         00:23:35.092 - 00:23:35.407
+
+0782 R   donc
+         00:23:35.402 - 00:23:35.702
+         (0.06)
+
+0783 Y   euh et on a le droit de les mettre comme ça ?
+         00:23:35.762 - 00:23:38.574
+
+0784 R   ben je sais pas trop mais ça dépend où t'as envie d'aller
+         00:23:36.007 - 00:23:38.172
+         (0.20)
+
+0785 R   là tu peux ouais sur les sur la mer très bien
+         00:23:38.772 - 00:23:40.869
+
+0786 Y   ok ok j'avais oublié ça
+         00:23:39.446 - 00:23:41.313
+
+0787 B   bon euh et maintenant j'ai plus de port à 3 c'est
+         00:23:41.210 - 00:23:43.785
+
+0788 R   les bords de mer c'est
+         00:23:41.464 - 00:23:42.439
+
+0789 Y   ouais mais c'est super euh c'est super long ça
+         00:23:42.439 - 00:23:44.644
+         (0.59)
+
+0790 Y   mais bon on finira bien par arriver
+         00:23:45.232 - 00:23:47.218
+         (1.15)
+
+0791 Y   peut-être
+         00:23:48.364 - 00:23:49.071
+         (3.03)
+
+0792 O   [musique]
+         00:23:52.105 - 00:24:00.657
+
+0793 R   c'est la musique pour les mettre dans l'ambiance (xxx)
+         00:23:57.594 - 00:24:00.653
+
+0794 Y   mouais c'est c'est assez halloween
+         00:23:59.871 - 00:24:02.587
+
+0795 B   ah celui-là il est il est bien aussi
+         00:24:00.352 - 00:24:02.551
+         (0.12)
+
+0796 O   [musique]
+         00:24:02.710 - 00:24:08.815
+
+0797 Y   halloweenesque
+         00:24:03.842 - 00:24:05.080
+
+0798 W   ah oui c'est la musique d'Unlock c'est ça ?
+         00:24:04.526 - 00:24:07.534
+         (3.11)
+
+0799 W   je me suis très mal placé (xxx)
+         00:24:11.929 - 00:24:15.073
+
+0800 B   elle a pris tous les bons coins
+         00:24:12.088 - 00:24:13.338
+
+0801 Y   c'est pas grave tu vas gagner quand même
+         00:24:14.711 - 00:24:16.176
+
+0802 R   comment ?
+         00:24:16.088 - 00:24:16.602
+
+0803 W   la deuxième je suis très mal placé
+         00:24:16.293 - 00:24:18.307
+         (1.82)
+
+0804 R   je t'ai donné tes cartes ou pas ? non ?
+         00:24:20.123 - 00:24:21.536
+         (0.39)
+
+0805 Y   ah euh pour le deuxième aussi il faut ? euh bah du coup ouais
+         00:24:21.922 - 00:24:24.705
+
+0806 R   ah non bah oui pour tout
+         00:24:23.266 - 00:24:24.692
+         (0.53)
+
+0807 Y   ok merci j'en ai 1 de chaque c'est cool
+         00:24:25.231 - 00:24:27.808
+         (4.11)
+
+0808 B   4 ça arrive pas très souvent
+         00:24:31.915 - 00:24:33.622
+         (1.04)
+
+0809 Y   3 ça arrive pas très souvent non plus
+         00:24:34.659 - 00:24:36.826
+         (4.41)
+
+0810 Y   en fait déjà où est-ce que je peux encore faire des colonies ? c'est ça la question
+         00:24:41.241 - 00:24:44.870
+         (0.22)
+
+0811 B   ce serait bien (xxx)
+         00:24:45.089 - 00:24:46.793
+
+0812 Y   (xxx)
+         00:24:45.227 - 00:24:46.670
+         (2.53)
+
+0813 Y   mais tu peux pas
+         00:24:49.327 - 00:24:50.293
+         (3.11)
+
+0814 B   9 c'est beaucoup trop 12 c'est beaucoup trop
+         00:24:53.405 - 00:24:55.666
+         (1.33)
+
+0815 B   ben bon
+         00:24:57.000 - 00:24:57.896
+         (1.98)
+
+0816 B   bon celle-là c'est pas mal
+         00:24:59.880 - 00:25:01.055
+         (0.82)
+
+0817 Y   ah la sale bête
+         00:25:01.875 - 00:25:03.406
+         (0.75)
+
+0818 B   euh je veux pas aller là parce que là on peut pas s'y mettre
+         00:25:04.160 - 00:25:06.796
+         (0.22)
+
+0819 R   il y a ton bâton
+         00:25:07.020 - 00:25:08.238
+         (0.26)
+
+0820 B   quoi ?
+         00:25:08.503 - 00:25:08.903
+         (0.30)
+
+0821 Y   oui
+         00:25:09.206 - 00:25:09.810
+
+0822 B   bah elle m'a pris ma place euh voilà
+         00:25:09.658 - 00:25:12.187
+         (0.29)
+
+0823 Y   tu m'as pris ma place aussi hein
+         00:25:12.478 - 00:25:14.005
+         (0.20)
+
+0824 R   oui t'as pris la place de tout le monde
+         00:25:14.206 - 00:25:15.655
+         (1.14)
+
+0825 R   c'est bon ?
+         00:25:16.792 - 00:25:17.325
+         (0.20)
+
+0826 Y   ouais
+         00:25:17.521 - 00:25:17.983
+         (0.12)
+
+0827 B   hop
+         00:25:18.105 - 00:25:18.758
+         (0.09)
+
+0828 R   alors on peut commencer le jeu donc tu lances les dés vu que c'est toi (xxx)
+         00:25:18.847 - 00:25:22.637
+
+0829 Y   du coup c'est toi qui commences franchement de quoi tu te plains ?
+         00:25:22.477 - 00:25:24.965
+
+0830 O   [dés]
+         00:25:23.027 - 00:25:23.707
+
+0831 R   alors t'as un 9
+         00:25:24.866 - 00:25:26.337
+
+0832 Y   9
+         00:25:25.803 - 00:25:26.305
+         (0.46)
+
+0833 Y   (xxx) plus
+         00:25:26.796 - 00:25:27.589
+         (0.10)
+
+0834 R   donc qui a du 9 ?
+         00:25:27.685 - 00:25:28.395
+         (0.15)
+
+0835 Y   moi
+         00:25:28.542 - 00:25:29.075
+
+0836 R   manifestez-vous
+         00:25:28.826 - 00:25:29.679
+         (0.90)
+
+0837 Y   j'ai du bois <pf>
+         00:25:30.578 - 00:25:31.939
+
+0838 R   alors idéalement
+         00:25:30.728 - 00:25:31.828
+         (0.13)
+
+0839 R   je vais plutôt distribuer pour éviter non mais vas-y vas-y c'est juste que après quand il y aura plein plein de ressources ça va être compliqué à gérer
+         00:25:32.072 - 00:25:37.363
+
+0840 Y   ah pardon ouais d'accord
+         00:25:33.223 - 00:25:34.754
+
+0841 Y   ouais t'as raison
+         00:25:36.294 - 00:25:37.171
+
+0842 Y   j'ai 1 bois à 9
+         00:25:37.318 - 00:25:38.532
+
+0843 R   il y a 1 mouton ici ?
+         00:25:37.825 - 00:25:38.876
+         (0.84)
+
+0844 B   ben c'est pas moi c'est toi
+         00:25:39.713 - 00:25:41.297
+
+0845 R   euh (xxx) voilà
+         00:25:39.974 - 00:25:41.870
+         (1.01)
+
+0846 R   et (0.5s)
+         00:25:42.883 - 00:25:43.794
+
+0847 B   euh moi qu'est-ce que j'ai ?
+         00:25:43.134 - 00:25:44.584
+
+0848 R   toi t'as rien
+         00:25:44.113 - 00:25:44.965
+         (0.26)
+
+0849 B   j'ai 6 3 8 et 5 ok
+         00:25:45.222 - 00:25:49.502
+
+0850 R   moi j'ai mes 2 trucs en 9 c'est bien ça
+         00:25:49.040 - 00:25:50.785
+         (0.21)
+
+0851 B   du coup là on peut échanger des trucs c'est ça ?
+         00:25:50.999 - 00:25:53.037
+
+0852 Y   hum
+         00:25:51.129 - 00:25:51.698
+
+0853 R   là tu peux on peut échanger avec toi
+         00:25:52.469 - 00:25:54.117
+
+0854 Y   ou construire
+         00:25:54.117 - 00:25:55.019
+
+0855 R   toi tu peux dire ce que tu veux faire
+         00:25:54.310 - 00:25:55.882
+         (0.25)
+
+0856 R   t'as le droit de décider qu'au début tu veux pas échanger
+         00:25:56.135 - 00:25:58.303
+         (8.26)
+
+0857 O   [discussion en français]
+         00:26:06.561 - 00:26:08.916
+         (0.44)
+
+0858 B   alors qu'est-ce que je veux ?
+         00:26:09.353 - 00:26:11.083
+         (0.09)
+
+0859 R   je vois que t'as pas de bois tu veux du bois ?
+         00:26:11.170 - 00:26:12.722
+         (0.22)
+
+0860 B   non j'ai du bois
+         00:26:12.940 - 00:26:14.118
+         (0.10)
+
+0861 R   ah oui pardon
+         00:26:14.222 - 00:26:15.525
+         (1.31)
+
+0862 B   [rires]
+         00:26:16.831 - 00:26:18.981
+         (0.79)
+
+0863 B   euh non mais par contre je veux bien euh
+         00:26:19.770 - 00:26:22.443
+         (1.08)
+
+0864 B   échanger de la de la brique
+         00:26:23.526 - 00:26:25.540
+         (0.62)
+
+0865 B   si quelqu'un ?
+         00:26:26.165 - 00:26:27.017
+         (2.13)
+
+0866 Y   moi je veux pas t'échanger de la brique
+         00:26:29.152 - 00:26:31.022
+         (0.60)
+
+0867 R   moi non plus
+         00:26:31.626 - 00:26:32.348
+         (0.07)
+
+0868 O   [discussion en français]
+         00:26:32.414 - 00:26:35.001
+
+0869 B   1 brique contre 1 blé ?
+         00:26:35.001 - 00:26:36.164
+         (1.15)
+
+0870 R   non ça a pas l'air de personne a l'air de vouloir faire ça
+         00:26:37.312 - 00:26:40.363
+
+0871 B   non personne ne veut ? bon ben (xxx)
+         00:26:39.338 - 00:26:41.866
+
+0872 R   au début c'est un peu normal hein de (xxx)
+         00:26:40.975 - 00:26:43.099
+         (0.09)
+
+0873 B   allez
+         00:26:43.187 - 00:26:43.550
+         (1.27)
+
+0874 O   [dés]
+         00:26:44.823 - 00:26:46.082
+
+0875 Y   euh (1s) 6
+         00:26:44.919 - 00:26:46.736
+
+0876 B   ouais
+         00:26:46.736 - 00:26:47.621
+         (0.35)
+
+0877 R   alors il y en a là
+         00:26:47.976 - 00:26:48.924
+         (0.21)
+
+0878 R   donc les jaunes
+         00:26:49.132 - 00:26:50.223
+         (0.10)
+
+0879 B   moi je veux 2 blés
+         00:26:50.327 - 00:26:51.220
+         (0.06)
+
+0880 W   [toux]
+         00:26:51.278 - 00:26:51.700
+         (0.24)
+
+0881 R   pourquoi 2 ?
+         00:26:51.941 - 00:26:52.569
+         (0.06)
+
+0882 Y   parce qu'il y a un 6 là aussi
+         00:26:52.629 - 00:26:54.144
+
+0883 B   on fait joueur par joueur ou case par case je sais pas
+         00:26:53.152 - 00:26:55.589
+
+0884 R   pardon
+         00:26:54.134 - 00:26:54.695
+
+0885 R   faut d'abord (xxx) cascade euh
+         00:26:55.118 - 00:26:57.119
+
+0886 B   euh oui très bien (xxx) case par case
+         00:26:55.929 - 00:26:58.160
+
+0887 Y   euh pourquoi moi j'ai 1 blé aussi ?
+         00:26:56.920 - 00:26:58.403
+         (0.05)
+
+0888 R   t'es pas rouge ?
+         00:26:58.453 - 00:26:58.826
+         (0.23)
+
+0889 Y   non
+         00:26:59.058 - 00:26:59.444
+         (0.33)
+
+0890 R   ah alors (xxx) couleur
+         00:26:59.775 - 00:27:01.176
+         (1.01)
+
+0891 B   et il y en a un là
+         00:27:02.185 - 00:27:03.373
+         (0.07)
+
+0892 Y   non ça c'est 9
+         00:27:03.439 - 00:27:04.522
+
+0893 R   non c'est un 9
+         00:27:03.707 - 00:27:04.541
+
+0894 B   ah c'est 9 pardon eh bah du coup un deuxième là
+         00:27:03.938 - 00:27:06.178
+
+0895 R   et eux en 8 non elle en a 2 normalement
+         00:27:05.256 - 00:27:07.520
+         (1.28)
+
+0896 B   euh (1s) non
+         00:27:08.797 - 00:27:10.782
+         (0.39)
+
+0897 R   ah bon ?
+         00:27:11.173 - 00:27:11.784
+         (0.52)
+
+0898 B   ben j'ai mes 5 cartes 3 et 2 plus un
+         00:27:12.304 - 00:27:14.782
+         (0.99)
+
+0899 B   toi t'as pris 1 pour moi et pour thomas
+         00:27:15.773 - 00:27:17.773
+
+0900 R   je crois que j'en ai pris (xxx) bon attends
+         00:27:16.551 - 00:27:19.217
+
+0901 Y   [rire]
+         00:27:17.973 - 00:27:18.959
+         (0.44)
+
+0902 R   tu dois toujours en avoir 1 non non c'est bon c'est bon oui t'as raison
+         00:27:19.657 - 00:27:22.367
+
+0903 Y   c'est malin
+         00:27:19.884 - 00:27:20.550
+
+0904 B   c'est facile de vérifier
+         00:27:20.164 - 00:27:21.247
+         (0.49)
+
+0905 Y   euh ok alors maintenant du coup il faut construire
+         00:27:22.857 - 00:27:26.488
+         (0.19)
+
+0906 Y   bon personne voulait échanger de la brique tout à l'heure j'imagine personne veut échanger de la brique maintenant ?
+         00:27:26.677 - 00:27:30.479
+
+0907 W   non mais je pense que la la la brique euh ça va être la dèche
+         00:27:29.682 - 00:27:33.388
+
+0908 R   eh elle est rare voilà
+         00:27:31.881 - 00:27:33.883
+         (0.22)
+
+0909 Y   on est d'accord
+         00:27:34.106 - 00:27:35.006
+
+0910 B   mais vraiment
+         00:27:34.523 - 00:27:35.212
+
+0911 R   BLANC et BLEU en ont pas
+         00:27:34.976 - 00:27:36.119
+         (0.24)
+
+0912 R   et nous on est sur des petits chiffres
+         00:27:36.356 - 00:27:38.642
+
+0913 B   mouais
+         00:27:36.404 - 00:27:36.818
+
+0914 B   ouais
+         00:27:38.523 - 00:27:38.931
+         (0.09)
+
+0915 Y   ah moi je suis sur un gros
+         00:27:39.023 - 00:27:40.440
+
+0916 R   donc c'est le genre de denrée qui va être rare
+         00:27:39.166 - 00:27:40.753
+
+0917 B   de base c'est soit 4 10 ou 11
+         00:27:40.733 - 00:27:42.798
+         (0.79)
+
+0918 Y   ben pour le minerais pour le minerais c'est 3 4 12 alors c'est pas mieux hein
+         00:27:43.584 - 00:27:47.706
+
+0919 R   ouais déjà de base c'est pas terrible
+         00:27:43.678 - 00:27:45.452
+
+0920 W   de base c'est (xxx)
+         00:27:44.393 - 00:27:45.515
+
+0921 B   et si tu veux du blé je peux te l'échanger contre des moutons
+         00:27:46.289 - 00:27:48.524
+
+0922 R   ouais ça va pas être terrible
+         00:27:46.405 - 00:27:47.988
+         (0.20)
+
+0923 Y   pardon ?
+         00:27:48.728 - 00:27:49.172
+         (0.28)
+
+0924 B   si tu veux du blé je peux te l'échanger contre des moutons
+         00:27:49.450 - 00:27:51.266
+
+0925 Y   oui mais j'ai pas besoin de blé je veux de l'argile
+         00:27:51.266 - 00:27:53.266
+         (0.51)
+
+0926 B   bon (xxx)
+         00:27:53.772 - 00:27:54.952
+
+0927 Y   hum (0.8s) je vais utiliser euh l'argile que j'ai et le bois que j'ai pour aller
+         00:27:54.140 - 00:28:00.182
+         (0.46)
+
+0928 Y   je réfléchis pour aller faire une route bien sûr mais après la question c'est par où
+         00:28:00.642 - 00:28:04.454
+
+0929 R   pour faire une route
+         00:28:00.791 - 00:28:01.678
+         (0.35)
+
+0930 R   tu peux lancer les dés (xxx)
+         00:28:04.809 - 00:28:06.631
+         (0.04)
+
+0931 O   [table]
+         00:28:06.672 - 00:28:07.310
+         (2.43)
+
+0932 R   ça devrait pas changer son (xxx)
+         00:28:09.740 - 00:28:11.224
+
+0933 O   [dés]
+         00:28:10.404 - 00:28:11.642
+         (0.31)
+
+0934 Y   je vais par-là
+         00:28:11.951 - 00:28:13.073
+
+0935 R   (xxx)
+         00:28:12.070 - 00:28:13.049
+
+0936 W   5
+         00:28:12.630 - 00:28:13.172
+         (0.36)
+
+0937 R   5 qui a du 5 ?
+         00:28:13.535 - 00:28:14.631
+         (0.39)
+
+0938 B   alors euh il y en a un là
+         00:28:15.024 - 00:28:16.469
+
+0939 W   moi
+         00:28:15.861 - 00:28:16.516
+         (0.17)
+
+0940 B   donc ça fait du bois pour rouge et jaune
+         00:28:16.682 - 00:28:19.367
+
+0941 W   pour moi
+         00:28:18.047 - 00:28:18.654
+         (0.57)
+
+0942 R   hop et c'est tout
+         00:28:19.937 - 00:28:21.255
+         (0.64)
+
+0943 B   c'est tout
+         00:28:21.892 - 00:28:22.845
+         (2.92)
+
+0944 R   t'as envie de faire des échanges ?
+         00:28:25.762 - 00:28:26.869
+         (1.74)
+
+0945 W   hum non
+         00:28:28.612 - 00:28:29.896
+
+0946 B   tu veux du blé ?
+         00:28:28.968 - 00:28:29.947
+         (0.17)
+
+0947 Y   hum
+         00:28:30.116 - 00:28:30.575
+         (0.12)
+
+0948 R   est-ce que t'as un minerais à vendre ?
+         00:28:30.692 - 00:28:31.781
+
+0949 W   blé ça va
+         00:28:31.619 - 00:28:32.690
+         (0.82)
+
+0950 R   ou pas ?
+         00:28:33.512 - 00:28:34.178
+         (1.40)
+
+0951 R   (xxx)
+         00:28:35.576 - 00:28:36.876
+
+0952 W   mouais
+         00:28:36.850 - 00:28:37.362
+         (1.36)
+
+0953 W   euh c'est contre contre quoi je l'échange ça va être de l'argile donc euh
+         00:28:38.721 - 00:28:43.113
+
+0954 B   [rire]
+         00:28:43.113 - 00:28:44.283
+
+0955 R   ben non alors
+         00:28:43.129 - 00:28:44.260
+         (0.19)
+
+0956 W   ah d'accord
+         00:28:44.472 - 00:28:45.485
+
+0957 Y   hum
+         00:28:44.535 - 00:28:45.107
+
+0958 R   voilà
+         00:28:45.485 - 00:28:46.049
+         (0.38)
+
+0959 B   bon
+         00:28:46.432 - 00:28:46.876
+         (4.33)
+
+0960 B   il y a moins d'argile que le reste il y a un peu moins d'argile que le reste
+         00:28:51.202 - 00:28:54.869
+         (0.36)
+
+0961 W   mouais (xxx)
+         00:28:55.232 - 00:28:56.916
+
+0962 B   ah non il y a juste plus de blé que le reste
+         00:28:55.327 - 00:28:58.114
+         (0.27)
+
+0963 Y   hum plus de blé et plus de(interrupt-) en fait il y a autant d'argile que de minerais donc ça va pas beaucoup
+         00:28:58.380 - 00:29:03.371
+
+0964 B   autant de blé et de mouton
+         00:28:59.437 - 00:29:00.675
+
+0965 B   hum
+         00:29:03.166 - 00:29:03.595
+         (0.59)
+
+0966 Y   surtout avec des chiffres pénibles quoi
+         00:29:04.189 - 00:29:06.416
+         (0.94)
+
+0967 Y   nombres pardon
+         00:29:07.352 - 00:29:08.476
+         (1.47)
+
+0968 Y   du coup ? ça va ?
+         00:29:09.947 - 00:29:11.250
+         (0.18)
+
+0969 W   je vais faire un développement
+         00:29:11.430 - 00:29:12.875
+         (7.88)
+
+0970 O   [dés]
+         00:29:20.759 - 00:29:21.733
+         (1.83)
+
+0971 R   5 encore
+         00:29:23.559 - 00:29:24.309
+         (0.50)
+
+0972 Y   <pf>
+         00:29:24.805 - 00:29:25.510
+
+0973 R   du bois pour les jaunes et du bois pour les rouges
+         00:29:25.459 - 00:29:28.662
+
+0974 Y   oh
+         00:29:26.323 - 00:29:27.088
+         (4.09)
+
+0975 R   hum (0.5s)
+         00:29:32.751 - 00:29:34.042
+         (1.06)
+
+0976 R   quelqu'un me vendrait-il du minerais ?
+         00:29:35.102 - 00:29:36.999
+         (1.60)
+
+0977 R   ou de la brique ?
+         00:29:38.600 - 00:29:39.492
+         (1.23)
+
+0978 R   ou 2 bois ?
+         00:29:40.718 - 00:29:42.078
+
+0979 Y   faudrait que j'en aie
+         00:29:41.072 - 00:29:41.934
+         (0.96)
+
+0980 B   moi j'ai 2 bois
+         00:29:43.043 - 00:29:44.316
+         (1.61)
+
+0981 B   si t'as des moutons à la rigueur
+         00:29:45.924 - 00:29:47.314
+
+0982 R   2 bois contre 1 mouton ?
+         00:29:47.314 - 00:29:48.357
+         (0.88)
+
+0983 B   c'est beaucoup quand même
+         00:29:49.235 - 00:29:50.264
+         (3.08)
+
+0984 B   1 bois contre 1 mouton
+         00:29:53.343 - 00:29:54.699
+         (1.16)
+
+0985 R   non
+         00:29:55.864 - 00:29:56.335
+         (0.61)
+
+0986 B   t'as 2 moutons
+         00:29:56.943 - 00:29:57.846
+         (1.05)
+
+0987 R   ah non
+         00:29:58.897 - 00:29:59.363
+         (0.46)
+
+0988 B   donc non
+         00:29:59.824 - 00:30:00.411
+
+0989 R   mais si jamais ça tombe on peut faire l'échange en plusieurs fois si tu veux
+         00:30:00.251 - 00:30:03.143
+
+0990 B   allez
+         00:30:02.820 - 00:30:03.291
+         (1.35)
+
+0991 R   euh du coup
+         00:30:04.637 - 00:30:05.661
+         (0.03)
+
+0992 B   à la rigueur je peux même faire 1 bois 1 (0.3s) minerais contre 2 moutons
+         00:30:05.688 - 00:30:09.484
+
+0993 R   1 carte
+         00:30:07.603 - 00:30:08.986
+         (0.68)
+
+0994 R   (xxx)
+         00:30:10.161 - 00:30:10.855
+         (1.08)
+
+0995 R   et et pardon
+         00:30:11.935 - 00:30:13.647
+         (0.21)
+
+0996 R   et une route
+         00:30:13.861 - 00:30:14.915
+         (1.86)
+
+0997 R   et tu peux lancer
+         00:30:16.774 - 00:30:18.007
+         (0.34)
+
+0998 B   ok
+         00:30:18.352 - 00:30:18.926
+         (0.36)
+
+0999 O   [dés]
+         00:30:19.287 - 00:30:22.067
+         (0.60)
+
+1000 B   7
+         00:30:22.669 - 00:30:23.497
+         (2.38)
+
+1001 W   eh ben
+         00:30:25.876 - 00:30:26.430
+
+1002 R   alors du coup tu prends un voleur
+         00:30:26.359 - 00:30:27.970
+         (1.36)
+
+1003 B   alors qui a de l'argile ?
+         00:30:29.333 - 00:30:30.821
+         (0.52)
+
+1004 B   [rires]
+         00:30:31.345 - 00:30:33.294
+         (0.59)
+
+1005 W   les cartes progrès elles comptent dans la main ?
+         00:30:33.886 - 00:30:36.386
+         (0.19)
+
+1006 W   ou c'est que les cartes ressource ? hein c'est ça
+         00:30:36.574 - 00:30:38.296
+
+1007 R   non non non non non il faut la laisser sur le plateau on peut pas te la piquer tu vois
+         00:30:36.685 - 00:30:40.129
+         (0.09)
+
+1008 W   non non non non c'est plus pour le le compte de de de cartes dans la main par rapport au (xxx)
+         00:30:40.214 - 00:30:44.316
+
+1009 R   (xxx) point de victoire
+         00:30:40.242 - 00:30:41.760
+
+1010 R   non non ah oui alors là c'est une bonne question tous ceux qui ont plus 8 ils sont censés euh 8 cartes ou plus vous jetez la moitié de vos cartes
+         00:30:42.705 - 00:30:48.313
+
+1011 B   du coup
+         00:30:43.628 - 00:30:44.291
+
+1012 B   je
+         00:30:44.721 - 00:30:45.350
+
+1013 W   sauf euh celui qui l'a je pense
+         00:30:47.498 - 00:30:49.388
+         (0.17)
+
+1014 W   de quoi ?
+         00:30:49.563 - 00:30:50.095
+
+1015 B   sauf celui qui l'a ?
+         00:30:50.055 - 00:30:50.930
+
+1016 W   sauf celui qui l'a qui l'a qui l'a lancé je pense
+         00:30:50.868 - 00:30:54.329
+
+1017 B   ouf
+         00:30:53.377 - 00:30:53.937
+
+1018 R   ah bon ? t'es sûr ?
+         00:30:53.629 - 00:30:55.296
+
+1019 W   euh
+         00:30:54.555 - 00:30:54.964
+         (1.03)
+
+1020 O   [papier]
+         00:30:56.327 - 00:30:57.126
+         (0.09)
+
+1021 B   euh juste je veux bien un rappel de comment marche le voleur
+         00:30:57.213 - 00:30:59.426
+
+1022 W   tous les joueurs non
+         00:30:58.639 - 00:30:59.702
+         (0.08)
+
+1023 R   donc tout le monde
+         00:30:59.784 - 00:31:00.483
+
+1024 B   ah merde
+         00:31:00.483 - 00:31:01.209
+
+1025 R   tu peux commencer par euh jeter la moitié de tes cartes
+         00:31:00.618 - 00:31:03.093
+         (1.67)
+
+1026 R   tu vois si m'avais si tu m'avais donné tes 2 bois
+         00:31:04.762 - 00:31:06.747
+         (0.39)
+
+1027 B   ben oui j'aurais dû hein
+         00:31:07.140 - 00:31:08.275
+         (2.04)
+
+1028 B   euh donc je peux jeter j'en ai 9 j'en jette 4
+         00:31:10.312 - 00:31:13.702
+         (0.05)
+
+1029 R   4
+         00:31:13.750 - 00:31:14.154
+         (10.66)
+
+1030 R   alors ensuite tu prends le voleur
+         00:31:24.817 - 00:31:28.515
+         (0.10)
+
+1031 B   ouais (xxx) produira pas
+         00:31:28.611 - 00:31:31.102
+
+1032 R   du coup ça bloquera le numéro jusqu'à ce que quelqu'un rebouge le voleur
+         00:31:28.899 - 00:31:32.049
+         (0.14)
+
+1033 B   et je vole 1 carte c'est ça
+         00:31:32.186 - 00:31:34.321
+
+1034 R   et tu voles 1 carte à une des personnes qui est autour
+         00:31:33.618 - 00:31:36.064
+
+1035 W   [toux]
+         00:31:35.047 - 00:31:35.321
+         (1.25)
+
+1036 R   si tu te mets sur un endroit où il y a 2 couleurs tu peux choisir la personne à laquelle tu voles
+         00:31:37.310 - 00:31:40.782
+         (1.89)
+
+1037 B   ok
+         00:31:42.672 - 00:31:43.334
+
+1038 R   et c'est les colonies ou les villes que tu voles c'est pas les routes
+         00:31:43.275 - 00:31:45.649
+
+1039 B   ouais ouais ouais j'imagine
+         00:31:45.637 - 00:31:47.068
+
+1040 R   ben si tu te mets là par exemple tu voles rien
+         00:31:46.137 - 00:31:48.207
+         (11.67)
+
+1041 B   on va se mettre là
+         00:31:59.873 - 00:32:00.847
+         (2.54)
+
+1042 B   et je vais te voler 1 carte
+         00:32:03.384 - 00:32:04.642
+
+1043 W   roh mais tu tu veux vraiment la pénurie totale hein
+         00:32:03.555 - 00:32:07.085
+
+1044 R   ben non
+         00:32:04.517 - 00:32:05.396
+
+1045 R   je veux bien que tu le voles mais tu peux pas
+         00:32:05.913 - 00:32:07.517
+
+1046 W   c'est c'est que elle
+         00:32:07.353 - 00:32:08.344
+
+1047 R   là c'est moi
+         00:32:07.672 - 00:32:08.372
+
+1048 B   ah pardon
+         00:32:07.931 - 00:32:08.706
+         (0.05)
+
+1049 R   oui
+         00:32:08.758 - 00:32:09.120
+
+1050 B   ben je vais te voler 1 carte alors [rire]
+         00:32:08.904 - 00:32:11.149
+
+1051 W   c'est tu veux vraiment (xxx)
+         00:32:10.425 - 00:32:12.602
+
+1052 R   mais j'ai pas de brique j'ai pas de brique
+         00:32:10.757 - 00:32:12.533
+
+1053 B   1 mouton ? 1 mouton
+         00:32:11.222 - 00:32:13.137
+         (0.72)
+
+1054 R   bon
+         00:32:13.861 - 00:32:14.409
+
+1055 W   mais euh
+         00:32:14.310 - 00:32:14.862
+         (2.98)
+
+1056 B   dommage
+         00:32:17.843 - 00:32:18.489
+         (1.71)
+
+1057 B   c'est bien aussi
+         00:32:20.195 - 00:32:20.917
+         (0.30)
+
+1058 W   tu veux vraiment la pénurie <pron="pinurie">  pénurie totale toi
+         00:32:21.213 - 00:32:23.787
+
+1059 B   ok est-ce que quelqu'un veut m'échanger des trucs ?
+         00:32:22.960 - 00:32:24.979
+
+1060 Y   j'avoue
+         00:32:24.172 - 00:32:25.017
+         (0.03)
+
+1061 R   moi non du coup tu vois
+         00:32:25.042 - 00:32:26.609
+
+1062 W   [toux]
+         00:32:25.971 - 00:32:26.323
+         (0.34)
+
+1063 B   j'échange 2 bois contre 1 mouton
+         00:32:26.948 - 00:32:28.275
+
+1064 R   pas trop envie là
+         00:32:27.034 - 00:32:27.982
+
+1065 R   non c'est bon
+         00:32:28.120 - 00:32:28.827
+         (0.09)
+
+1066 B   [rire] t'es sûre ?
+         00:32:28.913 - 00:32:30.657
+         (1.03)
+
+1067 B   bon ben voilà
+         00:32:31.689 - 00:32:32.448
+         (3.98)
+
+1068 Y   euh (0.9s) alors 10
+         00:32:36.426 - 00:32:39.176
+
+1069 O   [dés]
+         00:32:37.213 - 00:32:37.653
+
+1070 B   10
+         00:32:38.627 - 00:32:39.178
+         (0.35)
+
+1071 Y   oh ben de l'argile
+         00:32:39.533 - 00:32:40.438
+         (0.96)
+
+1072 R   et puis 1 bois ici c'est pour moi
+         00:32:41.401 - 00:32:43.414
+         (1.35)
+
+1073 B   rah merci
+         00:32:44.765 - 00:32:45.745
+         (2.60)
+
+1074 Y   euh (0.5s) du coup
+         00:32:48.342 - 00:32:50.143
+
+1075 B   en vrai il aurait mieux fait de le mettre là-bas mais bon
+         00:32:49.265 - 00:32:51.410
+         (1.05)
+
+1076 B   10 ou 11 c'est peut-être pareil ?
+         00:32:52.457 - 00:32:54.212
+         (0.30)
+
+1077 R   non
+         00:32:54.511 - 00:32:54.811
+         (0.13)
+
+1078 B   non
+         00:32:54.944 - 00:32:55.316
+         (0.51)
+
+1079 B   le 11 il (xxx)
+         00:32:55.829 - 00:32:56.847
+
+1080 R   plus le numéro est proche du 7 et plus (xxx)
+         00:32:56.103 - 00:32:58.287
+
+1081 Y   bon vu qu'il y a des voleurs dans le coin euh c'est un peu chiant en plus toi tu m'as bloquée
+         00:32:57.348 - 00:33:02.583
+
+1082 B   il y a pas d'égalité ?
+         00:33:00.681 - 00:33:01.754
+
+1083 R   si ben par exemple 6 et 8 c'est pareil
+         00:33:02.315 - 00:33:03.718
+
+1084 B   ouais ouais les symétriques mais euh
+         00:33:03.718 - 00:33:05.392
+
+1085 R   ouais voilà
+         00:33:04.622 - 00:33:05.141
+         (0.67)
+
+1086 Y   t'es méchante
+         00:33:06.059 - 00:33:07.353
+         (0.94)
+
+1087 Y   comment je vais faire ?
+         00:33:08.288 - 00:33:09.192
+         (1.48)
+
+1088 Y   eh ben euh je vais refaire une route mais de l'autre côté hein du coup
+         00:33:10.672 - 00:33:14.533
+         (2.07)
+
+1089 B   c'est combien c'est à partir de 5 ?
+         00:33:16.603 - 00:33:17.834
+         (0.33)
+
+1090 R   oui
+         00:33:18.161 - 00:33:18.468
+
+1091 Y   oui
+         00:33:18.468 - 00:33:18.795
+         (3.88)
+
+1092 O   [dés]
+         00:33:22.670 - 00:33:24.826
+         (0.49)
+
+1093 W   9
+         00:33:25.319 - 00:33:26.172
+         (1.50)
+
+1094 R   alors
+         00:33:27.670 - 00:33:28.496
+         (0.66)
+
+1095 R   du bois moi j'en ai un aussi et il y en a un là
+         00:33:29.152 - 00:33:32.195
+
+1096 Y   pour moi
+         00:33:29.207 - 00:33:29.953
+         (0.19)
+
+1097 O   [éternuement]
+         00:33:32.390 - 00:33:32.999
+         (0.05)
+
+1098 R   c'est tout ?
+         00:33:33.048 - 00:33:33.616
+         (0.14)
+
+1099 Y   je crois
+         00:33:33.755 - 00:33:34.513
+         (0.18)
+
+1100 O   [discussion en français]
+         00:33:34.691 - 00:33:39.153
+         (10.00)
+
+1101 R   t'as envie de faire des échanges ?
+         00:33:49.153 - 00:33:50.134
+         (3.03)
+
+1102 W   non non non non c'est
+         00:33:53.166 - 00:33:56.326
+         (0.33)
+
+1103 W   j'ai de l'argile qui est intéressant mais
+         00:33:56.659 - 00:33:58.792
+         (2.63)
+
+1104 R   tu fais pas tu construis pas tu
+         00:34:01.419 - 00:34:02.725
+
+1105 W   non rien à faire
+         00:34:02.725 - 00:34:03.725
+
+1106 O   [dés]
+         00:34:03.733 - 00:34:04.773
+         (0.90)
+
+1107 R   9 encore
+         00:34:05.675 - 00:34:06.434
+         (1.33)
+
+1108 R   tiens
+         00:34:07.763 - 00:34:08.086
+         (0.24)
+
+1109 Y   merci [rire]
+         00:34:08.328 - 00:34:09.152
+
+1110 R   on va faire une forêt
+         00:34:08.951 - 00:34:09.806
+         (0.10)
+
+1111 Y   ouais j'avoue
+         00:34:09.902 - 00:34:10.979
+
+1112 W   le mieux c'est quand il y a 3 2 d'affilée qui sortent
+         00:34:10.979 - 00:34:14.483
+         (0.21)
+
+1113 Y   [rire]
+         00:34:14.693 - 00:34:15.351
+
+1114 W   c'est sympa
+         00:34:15.303 - 00:34:16.036
+         (2.94)
+
+1115 Y   et surtout que le bois ça sert un peu pas trop quoi
+         00:34:18.980 - 00:34:21.322
+
+1116 R   est-ce que tu me vendrais 1 de tes bois ?
+         00:34:21.037 - 00:34:22.342
+         (0.63)
+
+1117 Y   euh ça dépend contre quoi ?
+         00:34:22.976 - 00:34:24.305
+
+1118 R   je sais pas 1 mouton ?
+         00:34:24.305 - 00:34:25.339
+         (1.29)
+
+1119 Y   hum
+         00:34:26.632 - 00:34:27.822
+         (1.47)
+
+1120 W   (xxx) moi ça me va
+         00:34:29.290 - 00:34:30.338
+         (0.28)
+
+1121 B   moi aussi
+         00:34:30.623 - 00:34:31.195
+
+1122 R   ah ben oui t'as raison je sais pas pourquoi je demande euh
+         00:34:31.195 - 00:34:32.953
+
+1123 W   [toux]
+         00:34:32.565 - 00:34:32.807
+
+1124 Y   ouais [rire] c'est (xxx)
+         00:34:32.807 - 00:34:34.292
+
+1125 R   [rire]
+         00:34:33.580 - 00:34:34.346
+         (0.39)
+
+1126 R   juste je savais que t'en avais mais
+         00:34:34.737 - 00:34:35.856
+         (0.41)
+
+1127 R   bon ben alors du coup je vends 1 mouton
+         00:34:36.269 - 00:34:38.055
+         (0.51)
+
+1128 R   en l'échange d'un bois et d'autre chose
+         00:34:38.566 - 00:34:40.230
+         (1.05)
+
+1129 B   ah ouais ? du coup les prix montent ?
+         00:34:41.278 - 00:34:42.635
+
+1130 Y   contre
+         00:34:42.031 - 00:34:42.477
+         (0.03)
+
+1131 R   ben tu sais c'est le principe de l'offre et la demande
+         00:34:42.663 - 00:34:44.577
+
+1132 Y   c'est ça
+         00:34:42.975 - 00:34:43.635
+
+1133 B   ouais
+         00:34:44.041 - 00:34:44.756
+
+1134 W   eh oui
+         00:34:44.498 - 00:34:44.993
+
+1135 B   moi je te fais 1 bois et 1 minerais
+         00:34:44.938 - 00:34:47.076
+         (0.80)
+
+1136 Y   moi je te fais que dalle
+         00:34:47.880 - 00:34:48.835
+
+1137 R   ça me va
+         00:34:47.962 - 00:34:48.519
+         (0.09)
+
+1138 R   donc je te donne 1 mouton et tu me donnes 1 bois 1 minerais
+         00:34:48.929 - 00:34:50.699
+
+1139 B   ouais hop
+         00:34:50.396 - 00:34:51.638
+         (2.43)
+
+1140 R   est-ce que c'était bien ? je ne sais pas
+         00:34:54.069 - 00:34:55.637
+         (0.41)
+
+1141 B   ben ce sera pas bien quand le voleur va tomber quoi
+         00:34:56.045 - 00:34:58.253
+         (0.42)
+
+1142 R   non non mais je vais jouer avant que le voleur arrive (xxx) JAUNE tu vends pas ta pierre ?
+         00:34:58.674 - 00:35:02.409
+
+1143 B   ah mince
+         00:35:00.727 - 00:35:01.677
+         (0.28)
+
+1144 Y   pardon ?
+         00:35:02.688 - 00:35:03.141
+         (0.04)
+
+1145 R   tu tu tu tu vends pas ton argile ?
+         00:35:03.185 - 00:35:05.462
+
+1146 Y   faudrait que je
+         00:35:04.337 - 00:35:05.073
+         (0.05)
+
+1147 Y   mais j'en ai plus là
+         00:35:05.514 - 00:35:06.647
+
+1148 B   elle va faire elle va faire une cité
+         00:35:05.600 - 00:35:07.327
+
+1149 R   comment ça t'en as plus ?
+         00:35:06.739 - 00:35:07.894
+
+1150 B   (xxx)
+         00:35:07.771 - 00:35:08.562
+
+1151 R   ah tu l'as joué directement ?
+         00:35:08.000 - 00:35:09.300
+
+1152 Y   ben je viens de construire une route eh bah oui
+         00:35:08.030 - 00:35:10.053
+
+1153 W   [toux]
+         00:35:09.900 - 00:35:10.614
+
+1154 R   c'est vrai c'est vrai alors du coup je vais échanger à la banque pour avoir 1 pierre
+         00:35:10.160 - 00:35:14.356
+         (0.02)
+
+1155 Y   d'accord
+         00:35:14.379 - 00:35:15.145
+
+1156 R   que j'utilise tout de suite dans une colonie
+         00:35:14.598 - 00:35:17.285
+         (2.41)
+
+1157 Y   logique
+         00:35:19.694 - 00:35:20.612
+
+1158 B   il y aura une belle colonie en plus
+         00:35:20.544 - 00:35:21.963
+
+1159 W   (xxx)
+         00:35:21.141 - 00:35:21.741
+
+1160 Y   ben ouais
+         00:35:21.963 - 00:35:22.789
+         (0.03)
+
+1161 R   sur un 2 oh oui
+         00:35:22.814 - 00:35:24.112
+         (0.18)
+
+1162 B   ouais bah
+         00:35:24.295 - 00:35:25.840
+
+1163 Y   ouais mais sur une ressource rare
+         00:35:24.393 - 00:35:26.728
+
+1164 B   il y a un 5 et un 4 aussi
+         00:35:26.492 - 00:35:27.924
+         (0.29)
+
+1165 B   hop (xxx)
+         00:35:28.212 - 00:35:29.588
+
+1166 R   une ressource rare ?
+         00:35:28.659 - 00:35:29.682
+
+1167 O   [dés]
+         00:35:28.857 - 00:35:29.780
+         (0.09)
+
+1168 Y   bah la pierre euh je sais pas si t'as fait combien
+         00:35:29.875 - 00:35:33.569
+
+1169 R   le bois ?
+         00:35:30.310 - 00:35:30.999
+
+1170 B   10
+         00:35:31.000 - 00:35:31.612
+
+1171 R   je suis pas sur la pierre là
+         00:35:32.451 - 00:35:33.608
+         (0.04)
+
+1172 Y   ben t'es sur la pierre t'étais déjà sur la pierre
+         00:35:33.643 - 00:35:36.495
+
+1173 B   alors il y a 1 bois ici
+         00:35:34.942 - 00:35:36.777
+
+1174 R   ah
+         00:35:35.188 - 00:35:35.644
+         (0.89)
+
+1175 W   et du coup euh (xxx)
+         00:35:37.670 - 00:35:39.597
+
+1176 R   hum
+         00:35:38.116 - 00:35:39.078
+
+1177 Y   et 1 d'argile
+         00:35:38.146 - 00:35:39.142
+
+1178 B   et 1 argile
+         00:35:38.697 - 00:35:40.082
+         (0.06)
+
+1179 R   ok
+         00:35:40.140 - 00:35:40.614
+         (0.11)
+
+1180 Y   ça c'est cool
+         00:35:40.720 - 00:35:41.758
+         (0.92)
+
+1181 R   il y a quand même des chiffres qui tombent plus que d'autres
+         00:35:42.678 - 00:35:44.428
+
+1182 Y   ouais
+         00:35:44.369 - 00:35:44.773
+
+1183 B   ouais bah c'est le principe hein
+         00:35:44.595 - 00:35:46.395
+         (0.36)
+
+1184 W   je me demande s'il les a pipés ces dés quoi
+         00:35:46.757 - 00:35:48.572
+         (1.59)
+
+1185 B   j'ai été discret
+         00:35:50.161 - 00:35:50.944
+         (0.27)
+
+1186 Y   hum
+         00:35:51.218 - 00:35:51.694
+         (1.32)
+
+1187 B   hop et je vais prendre euh
+         00:35:53.015 - 00:35:56.154
+
+1188 R   un port de 1 mouton tu veux quoi ?
+         00:35:55.758 - 00:35:57.554
+
+1189 B   tch tchk 1 argile
+         00:35:56.952 - 00:35:58.476
+         (0.40)
+
+1190 B   évidemment
+         00:35:58.879 - 00:35:59.646
+
+1191 Y   pourquoi 2 moutons ça fait 1 argile ? ah parce que lui il peut faire des échanges
+         00:35:59.291 - 00:36:03.737
+
+1192 R   fin pour lui (xxx)
+         00:36:00.809 - 00:36:02.237
+
+1193 R   il a un petit privilège avec les moutons
+         00:36:02.547 - 00:36:04.055
+
+1194 Y   d'acc j'avais pas vu
+         00:36:04.055 - 00:36:05.547
+
+1195 B   je vais faire une route
+         00:36:04.551 - 00:36:06.852
+         (0.62)
+
+1196 B   alors et euh ce sera bon et je réfléchis où je vais le poser
+         00:36:07.471 - 00:36:10.828
+
+1197 O   [rires]
+         00:36:09.127 - 00:36:11.889
+
+1198 R   vas-y (xxx)
+         00:36:10.828 - 00:36:12.372
+         (0.18)
+
+1199 O   [micro]
+         00:36:12.556 - 00:36:13.833
+
+1200 B   ça ne change pas grand-chose
+         00:36:12.860 - 00:36:15.234
+
+1201 Y   je peux lancer
+         00:36:12.908 - 00:36:14.198
+
+1202 O   [dés]
+         00:36:13.870 - 00:36:15.043
+
+1203 Y   très bien euh j'ai fait 8
+         00:36:14.573 - 00:36:16.618
+         (0.92)
+
+1204 B   (xxx) mettre là
+         00:36:17.538 - 00:36:18.537
+
+1205 R   alors il y a 1 mouton
+         00:36:18.109 - 00:36:20.131
+
+1206 Y   donc du coup j'ai du blé et 1 mouton
+         00:36:18.433 - 00:36:21.071
+
+1207 B   oh ouais 1 mouton
+         00:36:20.364 - 00:36:21.536
+
+1208 R   1 mouton
+         00:36:21.239 - 00:36:22.143
+         (0.50)
+
+1209 R   et l'autre 8 il est
+         00:36:22.640 - 00:36:23.652
+
+1210 Y   une j'ai du blé oui
+         00:36:23.428 - 00:36:24.595
+         (0.93)
+
+1211 Y   merci
+         00:36:25.524 - 00:36:26.494
+         (0.53)
+
+1212 B   ça (xxx) fait (xxx) voleur hein
+         00:36:27.020 - 00:36:28.501
+
+1213 R   pas mal le (xxx) pour toi
+         00:36:27.102 - 00:36:28.297
+         (0.35)
+
+1214 Y   oui
+         00:36:28.850 - 00:36:29.677
+         (0.85)
+
+1215 O   [bruit]
+         00:36:30.527 - 00:36:31.365
+
+1216 Y   euh c'est donc à moi
+         00:36:31.269 - 00:36:32.457
+         (0.60)
+
+1217 W   hum
+         00:36:33.060 - 00:36:33.343
+         (0.05)
+
+1218 Y   qu'est-ce que je vais faire moi ? hein c'est ça la question
+         00:36:33.389 - 00:36:35.839
+         (4.88)
+
+1219 Y   ben (1s)
+         00:36:40.720 - 00:36:42.162
+         (1.07)
+
+1220 Y   on est d'accord la banque c'est 3 ressources la même ?
+         00:36:43.227 - 00:36:45.221
+         (0.07)
+
+1221 R   4
+         00:36:45.289 - 00:36:45.666
+         (0.83)
+
+1222 R   sauf si t'as un non pour toi (xxx)
+         00:36:46.496 - 00:36:49.079
+
+1223 B   ben elle a un (xxx)
+         00:36:47.255 - 00:36:48.355
+
+1224 Y   je pour moi c'est 3 ouais ok ouais c'est 4 et pour moi c'est 3
+         00:36:47.279 - 00:36:50.633
+         (0.21)
+
+1225 Y   j'avais compté la réduc
+         00:36:50.840 - 00:36:52.975
+         (1.14)
+
+1226 Y   euh (0.8s) je reconstruis encore une route
+         00:36:54.120 - 00:36:57.429
+         (3.38)
+
+1227 B   roh elle va prendre le monopole sur le
+         00:37:00.812 - 00:37:02.978
+         (0.94)
+
+1228 Y   bah on m'a bloquée là-bas
+         00:37:03.916 - 00:37:05.085
+         (0.37)
+
+1229 B   non non non mais tu vas avoir le
+         00:37:05.458 - 00:37:06.882
+         (0.29)
+
+1230 R   en même temps (xxx) c'est la seule à avoir de de la pierre elle peut pas fin tu vois du coup c'est la seule à faire des routes
+         00:37:07.174 - 00:37:12.124
+
+1231 Y   ben ouais (xxx)
+         00:37:09.983 - 00:37:11.458
+
+1232 Y   oui mais elle se dirige encore vers la pierre c'est ça que je veux dire
+         00:37:11.753 - 00:37:14.312
+
+1233 R   ah oui
+         00:37:14.090 - 00:37:14.929
+         (0.30)
+
+1234 Y   bah j'aurais bien j'aurais préféré me diriger vers le caillou que l'argile mais vu que je suis bloquée
+         00:37:15.225 - 00:37:20.440
+
+1235 R   elle a compris
+         00:37:15.676 - 00:37:16.624
+
+1236 B   hum
+         00:37:17.673 - 00:37:18.300
+         (1.42)
+
+1237 Y   je vais tous vous faire raquer
+         00:37:21.860 - 00:37:23.237
+         (2.02)
+
+1238 B   tu vas te prendre des voleurs
+         00:37:25.255 - 00:37:26.627
+         (0.34)
+
+1239 Y   ouais
+         00:37:26.964 - 00:37:27.410
+         (1.92)
+
+1240 Y   j'ai pas l'intention de garder mon argile en main hein [rire]
+         00:37:29.335 - 00:37:32.177
+
+1241 B   oui ben oui
+         00:37:31.697 - 00:37:32.762
+         (2.62)
+
+1242 B   t'as fini ?
+         00:37:35.383 - 00:37:35.973
+
+1243 R   c'est bon ou pas ?
+         00:37:35.420 - 00:37:36.121
+
+1244 Y   euh oui pardon euh j'ai fini ah quoi que attends je peux peut-être faire ça en même temps ?
+         00:37:36.120 - 00:37:40.018
+
+1245 R   d'accord
+         00:37:36.805 - 00:37:37.489
+
+1246 W   hum
+         00:37:37.188 - 00:37:37.650
+         (0.52)
+
+1247 R   t'as un minerais qui est retourné ah non c'est une carte euh spéciale ?
+         00:37:40.535 - 00:37:43.740
+
+1248 W   [toux]
+         00:37:40.641 - 00:37:41.054
+
+1249 Y   où ça ?
+         00:37:42.987 - 00:37:43.493
+         (0.86)
+
+1250 Y   (xxx) carte spéciale non c'est juste c'est la même carte mais dans le dans l'autre sens hum
+         00:37:44.595 - 00:37:50.739
+
+1251 R   ah oui d'accord ouais ok
+         00:37:44.603 - 00:37:46.042
+
+1252 B   non elle est juste à l'envers
+         00:37:46.203 - 00:37:47.507
+
+1253 R   ah ok
+         00:37:46.869 - 00:37:48.159
+         (2.87)
+
+1254 Y   on a dit c'est 1 mouton 1 minerais et 1 euh bidule euh caillou pour euh 1 développement ? ouais mais non
+         00:37:53.613 - 00:38:01.326
+         (0.35)
+
+1255 B   ah tiens si j'ai 2 cités à côté de la même cases je récu(interrup-) euh 2 colonies à côté de la même case je récupère 2 fois la même ressource ?
+         00:38:01.677 - 00:38:07.719
+
+1256 Y   ça marche pas
+         00:38:02.501 - 00:38:03.425
+
+1257 W   hum hum
+         00:38:03.381 - 00:38:03.971
+         (0.61)
+
+1258 R   là par exemple moi j'ai 2 (xxx)
+         00:38:08.331 - 00:38:10.216
+
+1259 O   [dés]
+         00:38:09.205 - 00:38:09.997
+         (0.20)
+
+1260 B   ouais
+         00:38:10.415 - 00:38:10.920
+         (0.84)
+
+1261 W   10
+         00:38:11.756 - 00:38:12.252
+
+1262 R   10 encore
+         00:38:11.756 - 00:38:12.850
+         (2.32)
+
+1263 Y   merci
+         00:38:15.173 - 00:38:15.945
+         (4.14)
+
+1264 B   c'est pas du jeu
+         00:38:20.087 - 00:38:20.826
+         (1.54)
+
+1265 R   pourquoi tu fais rien (xxx) ?
+         00:38:22.368 - 00:38:23.832
+
+1266 W   bah en fait ça ça fait un tour j'ai rien eu
+         00:38:23.629 - 00:38:26.009
+         (0.21)
+
+1267 R   ah oui oui donc t'attends (xxx)
+         00:38:26.218 - 00:38:28.152
+
+1268 W   donc je suis dans exactement dans le même état que tout à l'heure
+         00:38:26.758 - 00:38:28.931
+
+1269 R   ben ouais faut arrêter de faire 10 aussi
+         00:38:28.315 - 00:38:30.032
+         (0.46)
+
+1270 W   oui j'avoue (xxx)
+         00:38:30.494 - 00:38:32.195
+
+1271 Y   [rire]
+         00:38:30.650 - 00:38:31.238
+
+1272 R   [rire] je joue ou pas ?
+         00:38:31.150 - 00:38:32.447
+
+1273 W   oui vas-y vas-y
+         00:38:32.258 - 00:38:33.520
+         (1.14)
+
+1274 O   [dés]
+         00:38:34.660 - 00:38:35.507
+         (0.86)
+
+1275 R   6 enfin
+         00:38:36.369 - 00:38:37.309
+
+1276 W   c'est déjà un petit peu mieux
+         00:38:36.759 - 00:38:38.352
+
+1277 B   ouais
+         00:38:37.411 - 00:38:38.274
+
+1278 Y   6
+         00:38:38.180 - 00:38:39.226
+
+1279 R   ici le jaune
+         00:38:38.501 - 00:38:40.398
+         (0.34)
+
+1280 R   là du rouge
+         00:38:40.736 - 00:38:42.436
+
+1281 Y   ah du blé
+         00:38:40.817 - 00:38:41.729
+
+1282 B   il m'en faut un deuxième ici
+         00:38:41.870 - 00:38:43.937
+
+1283 R   et encore un jaune
+         00:38:43.440 - 00:38:44.835
+         (0.40)
+
+1284 R   et le blanc
+         00:38:45.231 - 00:38:45.978
+
+1285 B   allez 2 6 sur le
+         00:38:45.717 - 00:38:47.394
+         (0.29)
+
+1286 R   sur le blanc
+         00:38:47.684 - 00:38:48.334
+         (0.05)
+
+1287 B   ouais
+         00:38:48.381 - 00:38:48.743
+         (0.32)
+
+1288 Y   ah ouais
+         00:38:49.068 - 00:38:49.613
+         (0.38)
+
+1289 B   ah
+         00:38:49.996 - 00:38:50.483
+         (0.06)
+
+1290 Y   ouais c'est pas top
+         00:38:50.547 - 00:38:51.471
+         (1.08)
+
+1291 B   je me demande s'il fait exprès
+         00:38:52.547 - 00:38:53.933
+         (0.15)
+
+1292 R   moi je fais une carte développement
+         00:38:54.084 - 00:38:55.070
+         (0.39)
+
+1293 Y   ok
+         00:38:55.457 - 00:38:56.026
+         (6.58)
+
+1294 O   [dés]
+         00:39:02.609 - 00:39:05.968
+         (0.11)
+
+1295 B   10
+         00:39:06.081 - 00:39:06.837
+         (0.72)
+
+1296 R   allez
+         00:39:07.557 - 00:39:08.169
+         (2.73)
+
+1297 B   ouais comme tu dis allez
+         00:39:10.899 - 00:39:12.683
+
+1298 W   [rire] non mais c'est surtout pour elle quoi elle en a 70 d'argile quoi
+         00:39:12.320 - 00:39:15.788
+
+1299 Y   bah
+         00:39:13.915 - 00:39:14.609
+
+1300 Y   bah oui
+         00:39:15.336 - 00:39:16.258
+         (1.65)
+
+1301 Y   c'est pas ma faute hein
+         00:39:17.909 - 00:39:18.900
+
+1302 B   si
+         00:39:18.900 - 00:39:19.252
+
+1303 Y   c'est même pas moi qui les ai faits les 10
+         00:39:19.261 - 00:39:21.267
+         (0.55)
+
+1304 B   t'en as fait un non ?
+         00:39:21.819 - 00:39:22.625
+
+1305 W   [toux]
+         00:39:22.536 - 00:39:22.864
+         (0.28)
+
+1306 Y   je crois pas je crois que c'est que tous vous qui les avait faits
+         00:39:23.147 - 00:39:26.069
+
+1307 B   euh moi j'ai moi j'ai fini
+         00:39:23.896 - 00:39:26.307
+
+1308 R   non (xxx) pour elle
+         00:39:24.458 - 00:39:25.972
+
+1309 R   vas-y
+         00:39:26.236 - 00:39:26.745
+
+1310 Y   ok
+         00:39:26.431 - 00:39:26.975
+         (1.56)
+
+1311 O   [dés]
+         00:39:28.537 - 00:39:29.210
+         (0.65)
+
+1312 B   7 bien fait
+         00:39:29.860 - 00:39:31.036
+         (0.17)
+
+1313 Y   bah non c'est très bien
+         00:39:31.207 - 00:39:32.192
+
+1314 B   bah compte tes cartes
+         00:39:32.192 - 00:39:33.230
+
+1315 R   t'en as combien de cartes ?
+         00:39:32.503 - 00:39:33.612
+         (1.23)
+
+1316 Y   eh ah merde j'en ai 8 ah ça fait chier
+         00:39:34.845 - 00:39:37.170
+
+1317 R   ah voilà
+         00:39:36.053 - 00:39:36.884
+         (0.07)
+
+1318 B   voilà bien fait
+         00:39:37.243 - 00:39:38.740
+         (0.13)
+
+1319 Y   ah je pensais pas que ça continuait très bien
+         00:39:38.866 - 00:39:41.080
+
+1320 R   t'en as pas trop ?
+         00:39:39.795 - 00:39:40.549
+
+1321 W   7
+         00:39:40.476 - 00:39:40.975
+         (0.93)
+
+1322 R   pile poil
+         00:39:42.013 - 00:39:42.551
+
+1323 B   [rire] c'est l'avantage de rien avoir eu
+         00:39:42.065 - 00:39:44.221
+
+1324 R   et enlève le voleur de là là t'as pas le droit de la remettre au même endroit que là où il était (xxx)
+         00:39:44.222 - 00:39:47.481
+
+1325 W   mais c'est ça mais c'est ça
+         00:39:44.602 - 00:39:45.608
+
+1326 Y   ok
+         00:39:47.259 - 00:39:47.859
+
+1327 W   ouais
+         00:39:47.352 - 00:39:47.786
+         (0.21)
+
+1328 R   bah oui attends euh ça va
+         00:39:48.066 - 00:39:49.629
+
+1329 Y   euh alors attends il faut que je garde
+         00:39:49.393 - 00:39:52.633
+
+1330 B   je sais pas
+         00:39:49.721 - 00:39:50.522
+
+1331 R   depuis le début de la partie tu (xxx)
+         00:39:50.495 - 00:39:52.337
+
+1332 R   t'imagines si tu le laisses (xxx)
+         00:39:52.594 - 00:39:54.172
+
+1333 Y   ça ben ceci dit euh ça fait moins ça fait moins d'argile en jeu les amis
+         00:39:53.250 - 00:39:57.477
+
+1334 B   bah ouais c'est pas si colonisé il y a pas eu un seul 11
+         00:39:53.890 - 00:39:56.336
+
+1335 W   moi je te dirais de le mettre plus sur le sur le 10 (xxx)
+         00:39:56.240 - 00:39:59.256
+
+1336 B   [rires]
+         00:39:57.083 - 00:39:59.295
+
+1337 R   (xxx)
+         00:39:57.088 - 00:39:59.303
+         (0.50)
+
+1338 Y   sans blague
+         00:39:59.798 - 00:40:00.325
+
+1339 W   continuez il a plein d'énergie
+         00:40:00.161 - 00:40:01.721
+
+1340 Y   euh (1s)
+         00:40:00.800 - 00:40:02.372
+         (1.58)
+
+1341 Y   ceci dit euh vous ressortez 1 argile du jeu les amis
+         00:40:03.954 - 00:40:06.477
+         (0.44)
+
+1342 Y   (xxx)
+         00:40:06.917 - 00:40:07.740
+
+1343 B   ben de toute façon comme tu les gardes pour toi euh
+         00:40:07.022 - 00:40:08.850
+
+1344 R   bah c'est clair comme tu les vends pas beaucoup euh
+         00:40:07.806 - 00:40:10.414
+         (0.90)
+
+1345 Y   vous avez encore rien proposé d'alléchant hein
+         00:40:11.316 - 00:40:13.102
+
+1346 B   bah toi non plus [rire]
+         00:40:12.980 - 00:40:14.634
+         (1.57)
+
+1347 Y   euh(1s) tch tch tch
+         00:40:16.206 - 00:40:19.324
+
+1348 B   il me semblait que t'étais la plus riche alors forcément
+         00:40:16.855 - 00:40:19.030
+         (0.06)
+
+1349 Y   ah bon ?
+         00:40:19.387 - 00:40:19.928
+         (0.47)
+
+1350 B   ben c'est la seule qui est t'es la seule à avoir jeté des cartes et t'es la seule à avoir de l'argile donc euh t'es clairement la plus riche
+         00:40:20.395 - 00:40:25.020
+         (0.06)
+
+1351 W   hum
+         00:40:25.080 - 00:40:25.480
+         (0.49)
+
+1352 Y   euh où est-ce que je le mets ?
+         00:40:25.969 - 00:40:28.353
+
+1353 R   (xxx) parti
+         00:40:27.572 - 00:40:28.567
+         (0.16)
+
+1354 Y   est-ce qu'on a le droit de jeter préventivement des cartes ?
+         00:40:28.727 - 00:40:30.949
+
+1355 R   non
+         00:40:30.810 - 00:40:31.247
+         (0.06)
+
+1356 Y   d'accord
+         00:40:31.310 - 00:40:31.900
+         (0.16)
+
+1357 B   ben tu peux les échanger
+         00:40:32.057 - 00:40:33.195
+         (0.27)
+
+1358 B   un échange contre rien à quelqu'un
+         00:40:33.461 - 00:40:34.906
+
+1359 Y   hum
+         00:40:34.357 - 00:40:34.948
+
+1360 R   oui ou un échange euh 2 contre 1 par exemple
+         00:40:34.714 - 00:40:36.816
+         (0.29)
+
+1361 W   hum
+         00:40:37.110 - 00:40:37.568
+
+1362 Y   ça
+         00:40:37.292 - 00:40:38.191
+
+1363 B   2 contre 0 ?
+         00:40:37.827 - 00:40:38.878
+
+1364 R   tu peux diminuer ton nombre de cartes en échange hein
+         00:40:38.064 - 00:40:40.280
+
+1365 Y   d'accord d'accord
+         00:40:39.366 - 00:40:40.267
+
+1366 B   2 contre 0 tu peux ?
+         00:40:40.042 - 00:40:41.037
+
+1367 Y   je savais pas
+         00:40:41.022 - 00:40:41.912
+         (0.82)
+
+1368 R   en fait techniquement je pense que tout est autorisé en terme d'échange
+         00:40:42.732 - 00:40:45.144
+         (1.30)
+
+1369 R   t'as le droit de dire je te donne 1 mouton maintenant et dans 2 tours si j'ai de la pierre je t'en donne tu vois fin tu m'en donnes
+         00:40:46.447 - 00:40:51.100
+
+1370 B   hum ok
+         00:40:50.997 - 00:40:51.990
+         (0.57)
+
+1371 W   le seul truc à pas faire c'est donner 5 cartes pour 1 ressource
+         00:40:52.561 - 00:40:55.622
+         (1.03)
+
+1372 B   oui c'est c'est pas ça ça a pas l'air très malin
+         00:40:56.651 - 00:40:59.101
+
+1373 W   juste pas faire ça quoi
+         00:40:57.068 - 00:40:58.104
+         (0.94)
+
+1374 Y   je sais pas quoi en faire (xxx)
+         00:41:00.041 - 00:41:01.293
+
+1375 B   oh bah si si elles sont pas identiques ?
+         00:41:01.113 - 00:41:02.927
+         (0.64)
+
+1376 B   ah bah non oui non mais si t'en donnes 5 tu peux en donner 3 et 2 par exemple
+         00:41:03.567 - 00:41:07.098
+
+1377 W   oui si elles sont pas identiques
+         00:41:05.031 - 00:41:06.594
+         (0.65)
+
+1378 B   et que t'as pas de port
+         00:41:07.749 - 00:41:08.687
+
+1379 Y   euh bah je vais là voilà
+         00:41:08.674 - 00:41:11.176
+
+1380 W   ouais ouais là
+         00:41:08.722 - 00:41:10.083
+
+1381 B   roh
+         00:41:10.856 - 00:41:11.559
+         (0.26)
+
+1382 Y   et euh je fonde une colonie ici
+         00:41:11.824 - 00:41:14.585
+
+1383 B   ouais mais faut que tu voles à quelqu'un d'abord
+         00:41:14.585 - 00:41:16.189
+         (0.09)
+
+1384 Y   ah bah je peux voler après non ?
+         00:41:16.282 - 00:41:18.168
+
+1385 R   c'est marrant (xxx) mouton (xxx) laine (xxx)
+         00:41:16.815 - 00:41:19.876
+
+1386 B   ouais faut que tu voles maintenant
+         00:41:19.349 - 00:41:20.688
+
+1387 Y   faut que je vole avant ? c'est pareil
+         00:41:20.584 - 00:41:22.012
+         (0.31)
+
+1388 Y   euh ouais ouais il faut que je vole à faut que je vole c'est qui qui avait placé le voleur ?
+         00:41:22.327 - 00:41:26.640
+
+1389 B   non non mais faut que tu voles maintenant quoi
+         00:41:22.407 - 00:41:23.801
+
+1390 R   (xxx) encore une colonie ?
+         00:41:25.651 - 00:41:26.662
+
+1391 B   ouais
+         00:41:26.505 - 00:41:27.044
+
+1392 Y   ouais
+         00:41:26.674 - 00:41:27.168
+         (0.68)
+
+1393 Y   euh c'est qui qui avait placé le voleur la dernière fois c'est BLEU hein ?
+         00:41:27.846 - 00:41:30.845
+
+1394 R   c'est BLEU
+         00:41:29.036 - 00:41:29.778
+
+1395 B   c'est moi mais moi j'ai rien de bien donc euh si tu veux me prendre un truc
+         00:41:30.000 - 00:41:34.156
+
+1396 W   hum
+         00:41:30.932 - 00:41:31.370
+
+1397 R   bah moi j'ai rien de bien non plus
+         00:41:32.571 - 00:41:34.068
+
+1398 Y   bah moi j'ai rien du tout [rire] alors
+         00:41:32.965 - 00:41:35.217
+
+1399 B   bah si tu veux du blé voilà quoi (xxx)
+         00:41:34.723 - 00:41:38.585
+
+1400 W   il y y a que toi qui as le truc (xxx)
+         00:41:36.286 - 00:41:38.669
+         (0.41)
+
+1401 Y   euh (0.9s)
+         00:41:39.078 - 00:41:40.312
+
+1402 R   ah non il a raison à partir du moment où elle a plus rien n'importe quoi l'intéresse
+         00:41:39.078 - 00:41:41.852
+
+1403 B   (xxx)
+         00:41:39.127 - 00:41:39.708
+
+1404 Y   oui voilà c'est ça
+         00:41:41.225 - 00:41:42.322
+
+1405 W   oui
+         00:41:42.097 - 00:41:42.532
+         (0.05)
+
+1406 Y   et comme c'est toi
+         00:41:42.578 - 00:41:43.336
+
+1407 B   ouais mais ouais mais pas les trucs euh à côté elle est déjà elle a déjà 2 colonies à côté du 8 blé
+         00:41:42.679 - 00:41:47.726
+
+1408 Y   ah ceci dit ceci dit
+         00:41:45.186 - 00:41:47.059
+
+1409 Y   ceci dit tu l'as pas mis chez moi le voleur
+         00:41:47.412 - 00:41:49.670
+         (0.75)
+
+1410 B   bah non
+         00:41:50.416 - 00:41:51.012
+         (0.27)
+
+1411 Y   ouais
+         00:41:51.283 - 00:41:51.688
+
+1412 R   oh il a quand même déjà volé moi je me suis déjà fait voler 1 fois
+         00:41:51.322 - 00:41:53.879
+         (0.11)
+
+1413 Y   c'est vrai allez donne-moi ta main
+         00:41:53.993 - 00:41:55.663
+         (0.04)
+
+1414 Y   fin
+         00:41:55.704 - 00:41:56.100
+         (0.87)
+
+1415 B   tu veux avoir du blé ça va te servir à rien t'aurais dû piocher ailleurs
+         00:41:56.971 - 00:41:59.714
+         (0.29)
+
+1416 R   [rire]
+         00:42:00.007 - 00:42:01.047
+         (0.81)
+
+1417 Y   j'aurai du blé qu'est-ce que tu veux de toute façon j'ai rien
+         00:42:01.861 - 00:42:04.140
+
+1418 B   t'as déjà 2 à côté d'un 8 de blé
+         00:42:03.238 - 00:42:05.266
+
+1419 R   tu joues du coup ?
+         00:42:04.566 - 00:42:05.667
+
+1420 Y   eh oui mais de toute façon j'ai rien d'autre
+         00:42:05.360 - 00:42:06.903
+
+1421 O   [dés]
+         00:42:05.619 - 00:42:06.339
+         (0.13)
+
+1422 W   6
+         00:42:07.033 - 00:42:07.770
+         (0.21)
+
+1423 W   ça c'est un peu mieux
+         00:42:07.979 - 00:42:08.936
+
+1424 Y   6
+         00:42:07.997 - 00:42:08.629
+
+1425 R   est-ce que c'est pas à l'endroit où tu viens de mettre ?
+         00:42:08.562 - 00:42:10.305
+         (0.34)
+
+1426 Y   de quoi donc ?
+         00:42:10.642 - 00:42:11.306
+
+1427 W   (xxx)
+         00:42:11.259 - 00:42:11.703
+
+1428 B   si
+         00:42:11.651 - 00:42:12.096
+
+1429 R   il(interrup-) t'es au dessus de quoi là ?
+         00:42:11.735 - 00:42:13.196
+
+1430 B   si si c'est un 6
+         00:42:13.077 - 00:42:14.501
+
+1431 Y   si
+         00:42:13.752 - 00:42:14.341
+
+1432 W   si
+         00:42:14.027 - 00:42:14.589
+
+1433 R   ah
+         00:42:14.448 - 00:42:15.154
+         (2.81)
+
+1434 B   blé ouais [rire]
+         00:42:17.965 - 00:42:19.082
+
+1435 R   est-ce que tu veux du bois ?
+         00:42:19.082 - 00:42:20.127
+         (0.87)
+
+1436 B   est-ce que tu veux du blé ?
+         00:42:20.993 - 00:42:21.923
+
+1437 W   (xxx) du bois non du blé non plus
+         00:42:20.993 - 00:42:23.717
+
+1438 R   bon ben alors je ne peux pas échanger avec toi
+         00:42:23.581 - 00:42:25.642
+
+1439 B   mince alors
+         00:42:24.562 - 00:42:25.602
+
+1440 W   euh
+         00:42:25.219 - 00:42:26.020
+         (2.33)
+
+1441 W   quelqu'un a 1 1 mouton ?
+         00:42:28.349 - 00:42:30.598
+
+1442 Y   est-ce que tu veux 1 blé ? mais c'est c'est le meilleur du monde quand même
+         00:42:29.594 - 00:42:33.003
+
+1443 B   (xxx)
+         00:42:31.127 - 00:42:32.196
+
+1444 W   non ça va ça va
+         00:42:32.725 - 00:42:34.353
+
+1445 O   [rires]
+         00:42:34.221 - 00:42:36.121
+
+1446 W   mais quelqu'un a 1 mouton ?
+         00:42:34.509 - 00:42:36.019
+         (1.06)
+
+1447 B   ouais mais t'as intérêt à avoir ce quelque chose de sacrément intéressant hein
+         00:42:37.179 - 00:42:39.899
+
+1448 Y   euh non
+         00:42:37.268 - 00:42:37.928
+         (0.40)
+
+1449 W   contre 2 bois
+         00:42:40.294 - 00:42:41.203
+         (2.63)
+
+1450 B   je suis déjà adjacent à du bois
+         00:42:43.833 - 00:42:45.607
+         (0.58)
+
+1451 B   contre 1 argile je suis ok
+         00:42:46.186 - 00:42:47.655
+
+1452 W   mais
+         00:42:47.621 - 00:42:48.453
+         (0.71)
+
+1453 W   j'en ai pas
+         00:42:49.161 - 00:42:50.231
+
+1454 Y   [rire]
+         00:42:50.231 - 00:42:51.102
+
+1455 B   ouais eh ouais
+         00:42:50.284 - 00:42:51.372
+
+1456 W   [rire] j'en ai pas
+         00:42:50.768 - 00:42:52.593
+         (1.15)
+
+1457 B   euh <pf>
+         00:42:53.747 - 00:42:55.151
+         (0.65)
+
+1458 B   contre 2 bois ?
+         00:42:55.802 - 00:42:56.970
+         (0.36)
+
+1459 W   mouais
+         00:42:57.328 - 00:42:57.844
+         (1.65)
+
+1460 O   [rires]
+         00:42:59.497 - 00:43:00.651
+
+1461 B   (xxx) allez-y hop
+         00:42:59.711 - 00:43:01.484
+         (2.13)
+
+1462 B   merci
+         00:43:03.618 - 00:43:04.471
+         (8.12)
+
+1463 B   roh (xxx) trop de cartes quoi <pf>
+         00:43:12.595 - 00:43:14.292
+         (2.08)
+
+1464 Y   ah l'avantage c'est que je risque pas de me faire voler
+         00:43:16.370 - 00:43:18.443
+         (1.56)
+
+1465 W   on va tenter et puis on (xxx)
+         00:43:20.007 - 00:43:21.904
+         (0.26)
+
+1466 R   ah oui déjà ?
+         00:43:22.168 - 00:43:22.862
+         (0.34)
+
+1467 W   euh ouais on va dire ça
+         00:43:23.201 - 00:43:24.884
+
+1468 B   t'as fait quoi ?
+         00:43:24.664 - 00:43:25.517
+
+1469 O   [dés]
+         00:43:24.998 - 00:43:25.654
+
+1470 R   (xxx) du coup il garde ses cartes
+         00:43:25.345 - 00:43:27.169
+
+1471 Y   il a gardé ses cartes
+         00:43:25.569 - 00:43:27.192
+
+1472 W   oh putain ça va ça va non je suis à 7 hein c'est ça va
+         00:43:26.859 - 00:43:30.571
+
+1473 R   bon voilà (xxx)
+         00:43:27.575 - 00:43:29.009
+
+1474 Y   c'est quoi ?
+         00:43:28.082 - 00:43:28.754
+         (0.64)
+
+1475 W   ça va
+         00:43:31.210 - 00:43:31.713
+
+1476 R   alors
+         00:43:31.493 - 00:43:32.141
+         (1.04)
+
+1477 B   t'as du blé ?
+         00:43:33.179 - 00:43:33.967
+
+1478 R   qui a quoi d'intéressant ?
+         00:43:33.195 - 00:43:34.306
+         (0.26)
+
+1479 B   tu as du blé ?
+         00:43:34.567 - 00:43:35.333
+
+1480 Y   [rires] tu veux du blé ?
+         00:43:34.648 - 00:43:38.125
+
+1481 W   [rire] (xxx)
+         00:43:36.479 - 00:43:39.080
+
+1482 R   (xxx) pas en fait
+         00:43:37.566 - 00:43:38.979
+
+1483 Y   [toux]
+         00:43:38.563 - 00:43:39.859
+
+1484 R   (xxx)
+         00:43:39.127 - 00:43:39.806
+
+1485 B   après je sais pas si ce qui est le plus intéressant c'est euh
+         00:43:39.352 - 00:43:42.245
+
+1486 W   en vrai il y a moyen de (xxx) quand même
+         00:43:39.712 - 00:43:43.185
+
+1487 Y   [toux]
+         00:43:40.854 - 00:43:42.103
+
+1488 Y   pardon
+         00:43:43.023 - 00:43:43.593
+
+1489 B   de voler la carte ou de bloquer les ressources
+         00:43:43.325 - 00:43:45.954
+         (0.99)
+
+1490 Y   ben de toute façon là euh personne n'a intérêt à bloquer les ressources
+         00:43:46.947 - 00:43:50.331
+         (0.72)
+
+1491 Y   celles qu'on a en abondance ben
+         00:43:51.053 - 00:43:52.980
+
+1492 W   ah si là tu bloques le 10 hein (xxx)
+         00:43:51.345 - 00:43:53.592
+         (1.31)
+
+1493 B   ouais ça se défend
+         00:43:54.900 - 00:43:56.060
+
+1494 Y   voilà et celles que (0.4s) vous pouvez me détester bloquez l'argile mais
+         00:43:55.571 - 00:44:00.349
+
+1495 R   je veux bien ta carte du coup
+         00:44:00.349 - 00:44:01.504
+         (0.07)
+
+1496 W   hum
+         00:44:01.570 - 00:44:02.118
+
+1497 Y   tiens
+         00:44:01.674 - 00:44:02.146
+         (0.22)
+
+1498 B   du blé
+         00:44:02.361 - 00:44:03.013
+         (0.27)
+
+1499 W   ah
+         00:44:03.284 - 00:44:03.584
+         (0.34)
+
+1500 Y   et alors que je t'ai pas volée moi eh bah bravo
+         00:44:03.919 - 00:44:05.989
+
+1501 R   ouais c'est vrai mais faut bien que je vole quelqu'un (xxx)
+         00:44:05.989 - 00:44:08.562
+
+1502 Y   franchement c'est bien vrai
+         00:44:06.579 - 00:44:07.612
+
+1503 B   [rires]
+         00:44:07.686 - 00:44:09.781
+
+1504 R   mais comme t'es en tête euh je me dis bon
+         00:44:09.452 - 00:44:11.171
+         (0.29)
+
+1505 Y   <pf>
+         00:44:11.457 - 00:44:11.827
+
+1506 R   et comme (xxx) tout à l'heure
+         00:44:11.778 - 00:44:13.479
+         (0.32)
+
+1507 Y   je suis peut-être en tête mais j'ai aucune carte
+         00:44:13.802 - 00:44:15.510
+         (1.27)
+
+1508 B   ouais en attendant il y en a il y en a une qui a 3 colonies hein
+         00:44:16.777 - 00:44:19.389
+
+1509 R   ouais mais quand même [rire]
+         00:44:17.270 - 00:44:18.687
+
+1510 W   hein
+         00:44:18.760 - 00:44:19.156
+         (0.68)
+
+1511 R   alors
+         00:44:20.070 - 00:44:20.601
+
+1512 B   mais c'est pas toi
+         00:44:20.268 - 00:44:21.237
+         (0.60)
+
+1513 R   oui mais je vais pas m'auto-voler
+         00:44:21.832 - 00:44:23.121
+         (0.58)
+
+1514 B   tu pourrais
+         00:44:23.699 - 00:44:24.342
+
+1515 R   (xxx) du coup je fais rien
+         00:44:24.145 - 00:44:25.843
+
+1516 W   [toux]
+         00:44:24.777 - 00:44:25.093
+         (0.04)
+
+1517 B   pour des raisons d'équité et de et d'équilibre du jeu tu pourrais t'auto-voler
+         00:44:25.882 - 00:44:29.692
+
+1518 R   (xxx)
+         00:44:29.639 - 00:44:31.243
+
+1519 B   et en plus l'avantage de t'auto-voler c'est que tu perds pas la carte
+         00:44:30.858 - 00:44:33.691
+         (1.69)
+
+1520 O   [dés]
+         00:44:35.382 - 00:44:36.140
+         (0.69)
+
+1521 B   5
+         00:44:36.834 - 00:44:37.344
+         (0.77)
+
+1522 W   ah c'est bien ça
+         00:44:38.110 - 00:44:39.093
+         (1.09)
+
+1523 R   1 mouton
+         00:44:40.183 - 00:44:41.434
+
+1524 W   et 1 bois
+         00:44:41.434 - 00:44:42.140
+
+1525 B   et 1 bois ouais
+         00:44:42.114 - 00:44:43.649
+
+1526 R   1 bois ici et 1 bois (xxx)
+         00:44:42.236 - 00:44:44.511
+         (10.02)
+
+1527 Y   et c'est tout ?
+         00:44:54.532 - 00:44:55.225
+         (0.55)
+
+1528 R   ben oui
+         00:44:55.777 - 00:44:56.430
+         (0.62)
+
+1529 Y   mais je sais pas peut-être qu'il (0.4s) peut construire ou échanger je sais pas quoi
+         00:44:57.047 - 00:45:00.740
+
+1530 R   fin c'est (xxx)
+         00:44:57.059 - 00:44:58.325
+         (0.65)
+
+1531 R   est-ce que tu veux du bois ?
+         00:45:01.391 - 00:45:02.369
+         (0.55)
+
+1532 Y   [rire] je pense pas
+         00:45:02.920 - 00:45:04.461
+
+1533 B   non mais je veux bien 1 mouton
+         00:45:03.758 - 00:45:05.275
+         (0.50)
+
+1534 R   non
+         00:45:05.770 - 00:45:06.209
+         (0.50)
+
+1535 B   quelqu'un a 1 mouton ?
+         00:45:06.707 - 00:45:07.673
+         (0.35)
+
+1536 Y   comme tu le vois euh je suis riche à foison
+         00:45:08.026 - 00:45:10.107
+
+1537 W   [rire] celui que tu m'as vendu
+         00:45:08.418 - 00:45:10.682
+
+1538 R   mais normalement tu devrais en avoir toi (xxx)
+         00:45:10.317 - 00:45:12.597
+
+1539 B   contre 2 bois [rires]
+         00:45:11.659 - 00:45:15.453
+
+1540 W   [rires] non du coup
+         00:45:12.635 - 00:45:17.181
+         (0.37)
+
+1541 B   ou alors euh de l'argile ?
+         00:45:17.551 - 00:45:18.811
+         (0.21)
+
+1542 W   (xxx) si jamais j'en trouve sous un sous un coin de chaise euh peut-être
+         00:45:19.021 - 00:45:23.958
+         (0.13)
+
+1543 B   hum je te propose un truc
+         00:45:24.091 - 00:45:26.286
+
+1544 Y   hum ?
+         00:45:26.286 - 00:45:26.852
+         (1.47)
+
+1545 B   je te file 1 bois maintenant et tu me le rendras plus tard
+         00:45:28.324 - 00:45:30.596
+         (0.95)
+
+1546 W   ah [rire]
+         00:45:31.545 - 00:45:33.042
+
+1547 B   ou alors je te file 2 bois maintenant et tu me rendras 1 plus tard
+         00:45:32.350 - 00:45:35.120
+         (0.25)
+
+1548 Y   allez
+         00:45:35.368 - 00:45:35.872
+
+1549 W   [rire] j'avais jamais vu cette cette cette stratégie du voleur quoi
+         00:45:35.542 - 00:45:41.077
+
+1550 R   moi non plus
+         00:45:37.535 - 00:45:38.313
+
+1551 B   allez
+         00:45:37.611 - 00:45:38.116
+
+1552 B   ben <pf>
+         00:45:38.914 - 00:45:40.172
+
+1553 B   eh je suis à 5 cartes euh j'étais à 7
+         00:45:41.015 - 00:45:43.887
+
+1554 O   [dés]
+         00:45:41.916 - 00:45:42.608
+
+1555 Y   beh 8
+         00:45:43.706 - 00:45:45.421
+
+1556 B   8
+         00:45:44.780 - 00:45:45.417
+         (0.45)
+
+1557 B   oh des moutons ho ho
+         00:45:45.869 - 00:45:48.462
+
+1558 W   ah
+         00:45:45.889 - 00:45:46.389
+
+1559 Y   ouais moi aussi 1 mouton
+         00:45:47.805 - 00:45:49.312
+         (0.37)
+
+1560 R   ah (xxx)
+         00:45:49.679 - 00:45:51.228
+
+1561 Y   ah par contre j'ai pas mon blé sale bête
+         00:45:51.151 - 00:45:53.141
+         (0.62)
+
+1562 B   si tu veux je peux t'en échanger contre des moutons
+         00:45:53.757 - 00:45:55.184
+
+1563 R   non mais laisse-la justement on a (xxx) pas le voir
+         00:45:55.087 - 00:45:57.203
+
+1564 Y   hum
+         00:45:55.476 - 00:45:55.850
+
+1565 B   non non mais c'est comme ça on voit ouais mais sinon on voit pas le numéro
+         00:45:56.175 - 00:45:58.861
+
+1566 R   c'est le but
+         00:45:58.754 - 00:45:59.549
+         (1.10)
+
+1567 B   ah ouais
+         00:46:00.647 - 00:46:01.263
+         (0.10)
+
+1568 Y   [rire]
+         00:46:01.360 - 00:46:02.055
+         (0.27)
+
+1569 R   comme il tombe pas tu vois
+         00:46:02.328 - 00:46:03.648
+         (0.14)
+
+1570 B   ça se défend ça se défend
+         00:46:03.783 - 00:46:05.183
+         (0.05)
+
+1571 Y   euh qu'est-ce que je fais moi ?
+         00:46:05.235 - 00:46:07.342
+         (0.14)
+
+1572 W   [toux]
+         00:46:07.485 - 00:46:07.955
+         (0.68)
+
+1573 Y   boh de toute façon euh c'est pas comme si je pouvais faire grand-chose hein
+         00:46:08.630 - 00:46:11.293
+         (0.93)
+
+1574 Y   next
+         00:46:12.222 - 00:46:12.932
+         (0.15)
+
+1575 W   et là je fais 7
+         00:46:13.081 - 00:46:14.159
+         (0.17)
+
+1576 O   [dés]
+         00:46:14.332 - 00:46:15.186
+         (0.61)
+
+1577 W   9
+         00:46:15.794 - 00:46:16.378
+         (1.43)
+
+1578 Y   euh moi j'ai du bois
+         00:46:17.805 - 00:46:19.213
+
+1579 R   alors 1 bois pour vous 2 1 bois pour moi il est où votre 9 ?
+         00:46:18.692 - 00:46:22.174
+
+1580 O   [micro]
+         00:46:21.312 - 00:46:21.739
+
+1581 B   ben là 1 mouton
+         00:46:22.045 - 00:46:23.567
+         (0.99)
+
+1582 B   (xxx)
+         00:46:24.554 - 00:46:25.370
+
+1583 Y   toi
+         00:46:24.932 - 00:46:25.364
+         (1.07)
+
+1584 Y   eh toi aussi t'es blindée
+         00:46:26.441 - 00:46:27.874
+         (0.28)
+
+1585 R   ben là du coup euh c'est plutôt une bonne récolte
+         00:46:28.155 - 00:46:30.542
+         (0.42)
+
+1586 R   pas très variée mais
+         00:46:30.959 - 00:46:32.229
+         (3.03)
+
+1587 W   il y a personne qui a 1 argile pour 3 blés ?
+         00:46:35.256 - 00:46:37.374
+         (1.58)
+
+1588 Y   il y a pas eu d'argile de produit euh
+         00:46:38.958 - 00:46:41.009
+
+1589 R   mais voilà il y en a pas depuis (xxx)
+         00:46:39.479 - 00:46:41.704
+
+1590 W   ben je sais ben je sais mais je tente
+         00:46:40.127 - 00:46:41.952
+
+1591 Y   depuis des plombes
+         00:46:41.648 - 00:46:42.702
+
+1592 B   ah ? moi je t'échange 3 blés contre 1 argile ouais
+         00:46:41.952 - 00:46:44.810
+         (0.74)
+
+1593 B   j'ai le blé
+         00:46:45.552 - 00:46:46.253
+         (0.08)
+
+1594 W   (xxx) ah non [rire]
+         00:46:46.331 - 00:46:47.637
+
+1595 Y   [rire]
+         00:46:46.556 - 00:46:47.693
+
+1596 B   [rires]
+         00:46:47.002 - 00:46:48.885
+
+1597 W   non mais
+         00:46:48.083 - 00:46:49.014
+         (0.64)
+
+1598 W   [rire] non mais oui mais non
+         00:46:49.652 - 00:46:51.073
+
+1599 Y   les échanges avec euh les ports et tout ça c'est à son tour ? 
+         00:46:50.417 - 00:46:54.090
+
+1600 B   à son à son tour oui
+         00:46:53.334 - 00:46:54.567
+
+1601 W   ah mais attends ouais attends moi aussi je vais faire ça
+         00:46:53.967 - 00:46:56.738
+
+1602 R   ouais
+         00:46:53.974 - 00:46:54.508
+         (1.11)
+
+1603 R   (xxx)
+         00:46:57.845 - 00:46:58.675
+         (0.09)
+
+1604 W   4 blés pour 1 argile
+         00:46:58.764 - 00:47:00.425
+         (0.67)
+
+1605 R   il y a vraiment 4 blés ?
+         00:47:01.094 - 00:47:02.121
+         (0.97)
+
+1606 W   oui [rire]
+         00:47:03.090 - 00:47:04.460
+
+1607 R   non je plaisante
+         00:47:03.270 - 00:47:04.229
+         (0.69)
+
+1608 R   j'ai juste vu un tas de blé arriver tu vois
+         00:47:05.148 - 00:47:07.013
+
+1609 Y   [rire]
+         00:47:06.476 - 00:47:07.267
+         (4.04)
+
+1610 W   et du coup je vais (xxx) fin je vais passer mon tour j'arrête
+         00:47:11.308 - 00:47:15.094
+
+1611 B   ouais du coup t'es moins inquiété par le voleur maintenant que t'as échangé ton tas de blé
+         00:47:14.916 - 00:47:18.554
+
+1612 O   [dés]
+         00:47:17.680 - 00:47:18.675
+
+1613 W   oui
+         00:47:18.476 - 00:47:18.946
+         (0.64)
+
+1614 W   6 ben merci
+         00:47:19.582 - 00:47:21.426
+
+1615 R   6
+         00:47:19.704 - 00:47:20.717
+
+1616 B   oh oui 1 blé parfait
+         00:47:20.410 - 00:47:22.703
+
+1617 R   alors 2 blés pour (xxx) oui
+         00:47:21.947 - 00:47:23.920
+
+1618 W   je je récupère mes blés
+         00:47:22.428 - 00:47:24.707
+
+1619 B   oui
+         00:47:24.011 - 00:47:24.493
+         (0.04)
+
+1620 B   ah non c'est moche
+         00:47:24.743 - 00:47:25.810
+
+1621 R   encore 1 blé chez BLANC et 1 chez moi
+         00:47:24.952 - 00:47:27.567
+         (2.21)
+
+1622 B   euh
+         00:47:29.782 - 00:47:30.554
+         (2.37)
+
+1623 B   je te propose de euh (0.5s)
+         00:47:32.923 - 00:47:34.653
+         (2.43)
+
+1624 Y   c'est moi qui stocke tes ressources c'est ça ?
+         00:47:37.079 - 00:47:39.075
+         (0.23)
+
+1625 B   quelqu'un veut du blé ? [rire]
+         00:47:39.307 - 00:47:40.538
+         (0.56)
+
+1626 Y   ben écoute euh pourquoi pas hein
+         00:47:41.103 - 00:47:42.776
+         (2.60)
+
+1627 B   tu veux du blé contre quoi ?
+         00:47:45.376 - 00:47:46.509
+
+1628 R   moi je veux bien du bois
+         00:47:46.451 - 00:47:47.287
+         (0.34)
+
+1629 B   ouais mais j'ai besoin de bois
+         00:47:47.631 - 00:47:48.979
+
+1630 Y   c'est c'est qui que c'est toi qui joues là ?
+         00:47:48.985 - 00:47:50.942
+
+1631 R   si tu donnes beaucoup de blé
+         00:47:50.826 - 00:47:51.847
+
+1632 R   oui c'est avec moi les échanges
+         00:47:51.859 - 00:47:53.369
+
+1633 Y   ok
+         00:47:52.182 - 00:47:52.713
+
+1634 B   ouais mais je peux pas je peux pas faire d'échange à la banque là maintenant
+         00:47:53.059 - 00:47:55.462
+
+1635 Y   j'ai éventuellement du bois
+         00:47:53.790 - 00:47:55.747
+         (1.66)
+
+1636 R   ça veut dire quoi éventuellement ?
+         00:47:57.405 - 00:47:58.439
+         (0.15)
+
+1637 Y   ça dépend contre quoi
+         00:47:58.586 - 00:47:59.782
+
+1638 R   avec 1 mouton tu veux 1 mouton ou t'as pas de mouton toi ?
+         00:47:59.061 - 00:48:01.020
+
+1639 B   ah moi je veux 1 mouton contre du blé
+         00:48:00.722 - 00:48:02.804
+
+1640 Y   euh j'ai 1 mouton
+         00:48:01.173 - 00:48:02.293
+         (0.36)
+
+1641 R   alors il faut (xxx) tu donnes du blé ?
+         00:48:03.163 - 00:48:05.136
+         (0.08)
+
+1642 B   ouais
+         00:48:05.212 - 00:48:05.562
+
+1643 R   combien ?
+         00:48:05.571 - 00:48:06.187
+         (0.91)
+
+1644 B   moins que 4
+         00:48:07.094 - 00:48:08.019
+         (0.44)
+
+1645 R   3 blés 1 mouton
+         00:48:08.458 - 00:48:09.596
+
+1646 B   ça me va
+         00:48:09.447 - 00:48:10.117
+         (1.40)
+
+1647 R   hop
+         00:48:11.513 - 00:48:11.965
+         (0.57)
+
+1648 R   tu veux encore du mouton ou pas JAUNE ?
+         00:48:12.531 - 00:48:13.955
+         (0.68)
+
+1649 Y   euh non moi il me faut du blé [rire]
+         00:48:14.638 - 00:48:17.956
+         (1.36)
+
+1650 R   euh tu donnes quoi contre ton blé ?
+         00:48:19.312 - 00:48:20.741
+
+1651 Y   ah non il me faut du caillou pardon c'est du caillou qu'il me faut
+         00:48:20.756 - 00:48:23.212
+
+1652 R   [rire] bon là j'ai pas j'ai pas tout hein
+         00:48:22.768 - 00:48:25.132
+
+1653 B   [rire]
+         00:48:23.545 - 00:48:24.486
+
+1654 Y   ouais non je sais bien mais de toute façon du caillou je crois qu'il y en a pas eu un seul de produit depuis le début de la partie
+         00:48:25.008 - 00:48:29.860
+
+1655 W   [toux]
+         00:48:28.963 - 00:48:29.269
+
+1656 B   non
+         00:48:29.742 - 00:48:30.186
+
+1657 R   alors avec 4 blés c'est très cher je peux faire euh une petite pierre qui me permet de faire une petite route
+         00:48:29.818 - 00:48:36.028
+
+1658 W   je
+         00:48:30.828 - 00:48:31.337
+
+1659 B   ouais
+         00:48:32.002 - 00:48:32.540
+         (1.27)
+
+1660 R   voilà
+         00:48:37.302 - 00:48:37.919
+         (1.88)
+
+1661 Y   et tu la mets où ta route ?
+         00:48:39.794 - 00:48:40.891
+         (0.73)
+
+1662 R   hum
+         00:48:41.625 - 00:48:42.370
+         (0.51)
+
+1663 B   tu sais pas encore
+         00:48:42.884 - 00:48:43.666
+         (0.10)
+
+1664 R   si si fin je suis pas sûre
+         00:48:43.769 - 00:48:45.500
+
+1665 O   [dés]
+         00:48:45.385 - 00:48:46.230
+
+1666 R   (xxx)
+         00:48:46.051 - 00:48:47.051
+
+1667 B   5
+         00:48:46.841 - 00:48:47.630
+         (1.74)
+
+1668 R   5
+         00:48:49.370 - 00:48:49.917
+         (0.34)
+
+1669 W   oui
+         00:48:50.258 - 00:48:50.786
+
+1670 R   et là
+         00:48:50.681 - 00:48:51.327
+         (0.11)
+
+1671 R   alors
+         00:48:51.440 - 00:48:52.312
+
+1672 W   (xxx)
+         00:48:51.456 - 00:48:52.615
+
+1673 B   j'aurais 1 bois
+         00:48:51.652 - 00:48:52.649
+         (0.03)
+
+1674 R   du bois chez les rouges et chez les jaunes
+         00:48:52.677 - 00:48:55.121
+         (0.79)
+
+1675 R   et moi j'ai 1 mouton (xxx)
+         00:48:55.906 - 00:48:57.279
+         (4.50)
+
+1676 B   j'ai encore trop de cartes
+         00:49:01.775 - 00:49:02.982
+         (2.34)
+
+1677 B   <pf>
+         00:49:05.326 - 00:49:06.571
+
+1678 W   (xxx)
+         00:49:05.738 - 00:49:07.905
+
+1679 B   bon je vais échanger 2 moutons
+         00:49:07.263 - 00:49:08.848
+         (0.84)
+
+1680 B   contre 1 argile
+         00:49:09.689 - 00:49:10.624
+         (0.08)
+
+1681 R   hum hum
+         00:49:10.707 - 00:49:11.518
+         (2.98)
+
+1682 B   c'est déjà pas mal
+         00:49:14.498 - 00:49:15.655
+         (2.35)
+
+1683 R   tu veux quelque chose ?
+         00:49:18.005 - 00:49:18.905
+         (0.25)
+
+1684 B   ben euh <pf>
+         00:49:19.158 - 00:49:20.636
+
+1685 R   quoi ? non mais en fait euh
+         00:49:19.552 - 00:49:21.497
+
+1686 B   si t'as un mouton ?
+         00:49:20.840 - 00:49:21.922
+         (0.08)
+
+1687 R   tu me le donnes contre quoi ?
+         00:49:22.006 - 00:49:23.601
+         (1.05)
+
+1688 B   du blé ?
+         00:49:24.649 - 00:49:25.338
+         (0.98)
+
+1689 Y   [rire]
+         00:49:26.313 - 00:49:27.442
+
+1690 B   [rire]
+         00:49:26.810 - 00:49:27.413
+         (0.34)
+
+1691 R   [rire]
+         00:49:27.780 - 00:49:28.393
+         (0.33)
+
+1692 W   [toux]
+         00:49:28.720 - 00:49:29.091
+         (0.47)
+
+1693 R   1 mouton contre 1 blé ? c'est pas très cher hein non c'est c'est pas le prix du mouton ça
+         00:49:29.563 - 00:49:33.123
+
+1694 B   non j'ai dit du blé éventuellement contre 2 blés
+         00:49:32.073 - 00:49:34.285
+         (0.72)
+
+1695 R   mais non <pf> en vrai je sais pas quoi en faire hein
+         00:49:35.008 - 00:49:36.918
+
+1696 B   ok
+         00:49:36.297 - 00:49:36.615
+         (0.12)
+
+1697 B   t'as un mouton ?
+         00:49:37.037 - 00:49:37.707
+         (0.80)
+
+1698 Y   ouais
+         00:49:38.510 - 00:49:39.019
+         (2.83)
+
+1699 B   tu veux du blé ?
+         00:49:41.846 - 00:49:42.518
+         (0.31)
+
+1700 Y   je veux du caillou
+         00:49:42.832 - 00:49:43.840
+         (0.10)
+
+1701 B   j'ai pas de caillou mais avec plein de blé tu pourrais avoir du caillou
+         00:49:43.937 - 00:49:46.602
+
+1702 Y   ben
+         00:49:44.900 - 00:49:45.501
+         (0.86)
+
+1703 Y   hum c'est pas faux ça
+         00:49:47.464 - 00:49:49.010
+         (0.57)
+
+1704 Y   je réfléchis
+         00:49:49.579 - 00:49:50.736
+
+1705 B   puis t'es à 3 points alors si je te file 2 blés c'est presque 1 caillou
+         00:49:49.618 - 00:49:52.460
+         (1.59)
+
+1706 Y   ouais mais du blé j'en produis pas
+         00:49:54.050 - 00:49:55.380
+
+1707 R   moi je veux bien te donner 1 mouton pour avoir 2 blés en fait
+         00:49:55.380 - 00:49:57.095
+
+1708 B   ben
+         00:49:55.731 - 00:49:56.355
+
+1709 B   allez
+         00:49:56.911 - 00:49:57.498
+         (1.49)
+
+1710 R   ouh pardon
+         00:49:58.988 - 00:49:59.819
+         (0.37)
+
+1711 B   hop
+         00:50:00.192 - 00:50:00.826
+
+1712 Y   oh pardon
+         00:50:00.192 - 00:50:00.946
+         (1.50)
+
+1713 B   et donc du coup pour 1 de chaque
+         00:50:02.441 - 00:50:04.389
+         (1.00)
+
+1714 B   ça va je me trompe pas ?
+         00:50:05.393 - 00:50:06.547
+         (2.21)
+
+1715 B   je fais ma colonie
+         00:50:08.762 - 00:50:09.931
+         (1.96)
+
+1716 B   il était temps
+         00:50:11.892 - 00:50:12.847
+         (1.04)
+
+1717 R   non t'as fait une ville là
+         00:50:13.884 - 00:50:14.860
+         (0.08)
+
+1718 B   oh pardon c'est pas la bonne
+         00:50:14.940 - 00:50:16.399
+         (0.09)
+
+1719 R   [rire] non c'est vachement mieux
+         00:50:16.490 - 00:50:18.345
+         (2.42)
+
+1720 O   [dés]
+         00:50:20.762 - 00:50:22.528
+         (0.53)
+
+1721 B   8 bah parfait je veux 2 moutons
+         00:50:23.056 - 00:50:25.220
+
+1722 Y   <pf>
+         00:50:23.702 - 00:50:24.535
+         (0.19)
+
+1723 Y   je veux 1 mouton
+         00:50:25.407 - 00:50:26.726
+
+1724 R   eh ben elle est vite rentabilisée dis donc ta
+         00:50:25.515 - 00:50:27.570
+         (0.04)
+
+1725 R   pourquoi tu veux un mouton toi ?
+         00:50:27.605 - 00:50:28.654
+
+1726 B   merci
+         00:50:27.833 - 00:50:28.418
+
+1727 Y   parce que moi(interrup-) moi aussi
+         00:50:28.323 - 00:50:30.369
+
+1728 R   ah ben oui excuse-moi je <pf>
+         00:50:28.774 - 00:50:30.595
+         (0.37)
+
+1729 R   voilà
+         00:50:30.962 - 00:50:31.538
+         (0.61)
+
+1730 R   (xxx)
+         00:50:32.144 - 00:50:33.099
+         (0.87)
+
+1731 Y   pas de souci
+         00:50:33.965 - 00:50:34.938
+         (1.49)
+
+1732 Y   euh et je réfléchis à ce que je fais
+         00:50:36.423 - 00:50:39.477
+
+1733 O   [dés]
+         00:50:36.776 - 00:50:37.607
+
+1734 B   c'était pas encore à toi de jouer du coup
+         00:50:38.882 - 00:50:40.896
+         (0.16)
+
+1735 W   est-ce que je relance ou ?
+         00:50:41.058 - 00:50:42.597
+
+1736 R   (xxx) en fait elle a rien vu et (xxx)
+         00:50:42.024 - 00:50:45.806
+
+1737 B   non tu le
+         00:50:42.100 - 00:50:43.547
+
+1738 W   ouais c'est vrai elle a rien vu là
+         00:50:43.912 - 00:50:45.241
+
+1739 B   (xxx)
+         00:50:43.936 - 00:50:44.783
+
+1740 Y   j'ai rien vu donc euh c'est vrai que c'est pas très grave
+         00:50:44.030 - 00:50:47.012
+
+1741 W   c'est vrai elle a rien vu
+         00:50:45.524 - 00:50:46.312
+
+1742 R   je sais pas c'était un bon chiffre ou pas ?
+         00:50:46.224 - 00:50:47.356
+         (0.05)
+
+1743 W   non [rire]
+         00:50:47.403 - 00:50:48.297
+
+1744 R   si c'est pas mal en fait
+         00:50:48.051 - 00:50:49.257
+
+1745 Y   hum
+         00:50:48.345 - 00:50:49.608
+         (1.26)
+
+1746 B   ah non c'est pas top
+         00:50:50.864 - 00:50:52.058
+         (5.01)
+
+1747 Y   ah oui mais il y a un bois qui est pas à moi quand même
+         00:50:57.064 - 00:50:58.809
+
+1748 B   ouais va falloir que tu me le rendes
+         00:50:58.762 - 00:51:00.189
+         (0.34)
+
+1749 B   c'est pas hyper pressé en vrai
+         00:51:00.533 - 00:51:02.360
+         (1.07)
+
+1750 R   c'est lui qui décide quand (xxx) quand tu la taxes
+         00:51:03.430 - 00:51:06.732
+         (0.13)
+
+1751 W   hum
+         00:51:06.863 - 00:51:07.248
+         (1.34)
+
+1752 B   ouais je te le demanderai pas à mon tour
+         00:51:08.583 - 00:51:10.118
+         (0.38)
+
+1753 Y   ok
+         00:51:10.501 - 00:51:11.121
+
+1754 B   si ça peut te rassurer
+         00:51:10.914 - 00:51:12.111
+
+1755 W   [toux]
+         00:51:11.707 - 00:51:12.553
+         (0.26)
+
+1756 Y   mouais mais il faudrait qu'(xxx) quoi
+         00:51:12.816 - 00:51:14.859
+
+1757 R   fin bon
+         00:51:13.855 - 00:51:14.459
+         (0.49)
+
+1758 Y   euh (0.7s) <pf> <pf> <pf> (0.8s)
+         00:51:15.350 - 00:51:18.515
+         (3.15)
+
+1759 Y   de toute façon là j'ai que c'est ouais j'ai 5 cartes quand même
+         00:51:21.668 - 00:51:24.962
+         (3.67)
+
+1760 Y   je réfléchis
+         00:51:28.628 - 00:51:29.569
+         (8.54)
+
+1761 Y   euh (1s) je te le rends tout de suite
+         00:51:38.107 - 00:51:40.939
+         (0.61)
+
+1762 B   euh ben vas-y rends-le-moi tout de suite
+         00:51:41.545 - 00:51:43.898
+
+1763 Y   tiens et puis vas-y à toi thomas
+         00:51:43.515 - 00:51:45.575
+
+1764 W   ok du coup c'est un c'est un 9
+         00:51:45.414 - 00:51:47.543
+         (0.14)
+
+1765 B   donc tu gagnes 1 bois
+         00:51:47.679 - 00:51:48.779
+         (0.97)
+
+1766 Y   très bien
+         00:51:49.749 - 00:51:50.411
+         (1.60)
+
+1767 R   (xxx)
+         00:51:52.011 - 00:51:53.145
+
+1768 Y   ah je pouvais pas savoir
+         00:51:52.340 - 00:51:53.666
+         (1.86)
+
+1769 W   hum
+         00:51:55.525 - 00:51:56.047
+
+1770 R   (xxx) le 7 ne tombe pas
+         00:51:55.969 - 00:51:57.626
+
+1771 W   bon il est temps d'utiliser la carte progrès
+         00:51:57.493 - 00:51:59.915
+         (0.17)
+
+1772 Y   (xxx) quoi ?
+         00:52:00.085 - 00:52:00.780
+
+1773 W   (xxx) 2 routes
+         00:52:00.780 - 00:52:02.064
+
+1774 Y   gratuitement ah
+         00:52:02.064 - 00:52:02.927
+
+1775 W   oui
+         00:52:02.943 - 00:52:03.104
+         (0.37)
+
+1776 Y   saleté
+         00:52:03.470 - 00:52:04.220
+         (0.65)
+
+1777 B   ah c'est pas mal
+         00:52:04.867 - 00:52:05.767
+
+1778 W   hum
+         00:52:05.103 - 00:52:05.521
+         (0.18)
+
+1779 B   en fait euh c'est pas mal 2 routes
+         00:52:05.949 - 00:52:07.737
+         (0.10)
+
+1780 R   ah ouais
+         00:52:07.833 - 00:52:08.523
+
+1781 W   et du coup
+         00:52:07.964 - 00:52:08.731
+
+1782 Y   ouais
+         00:52:08.262 - 00:52:08.858
+         (0.88)
+
+1783 W   je peux faire une colonie
+         00:52:09.737 - 00:52:10.868
+         (0.05)
+
+1784 R   mais
+         00:52:10.920 - 00:52:11.323
+         (0.60)
+
+1785 W   1 bois 1 argile tac et 1 mouton
+         00:52:11.919 - 00:52:16.576
+         (0.62)
+
+1786 W   et j'ai fait une colonie
+         00:52:17.199 - 00:52:18.383
+         (1.19)
+
+1787 W   voilà
+         00:52:19.570 - 00:52:19.974
+         (0.26)
+
+1788 R   bon
+         00:52:20.234 - 00:52:20.636
+         (0.37)
+
+1789 B   il reste 1 place pour l'argile
+         00:52:21.004 - 00:52:22.355
+         (0.08)
+
+1790 R   ben non
+         00:52:22.432 - 00:52:22.945
+         (0.25)
+
+1791 B   ah non même pas pardon
+         00:52:23.196 - 00:52:24.670
+
+1792 W   hum
+         00:52:23.712 - 00:52:24.094
+
+1793 R   bon bah du coup
+         00:52:24.505 - 00:52:25.620
+         (4.58)
+
+1794 W   et euh (xxx)
+         00:52:30.204 - 00:52:32.333
+
+1795 B   ah et puis là c'est bloqué non mais je suis vraiment bien bloqué hein
+         00:52:30.330 - 00:52:33.144
+
+1796 R   (xxx)
+         00:52:31.305 - 00:52:32.520
+         (1.95)
+
+1797 W   c'est bon pour moi
+         00:52:35.096 - 00:52:35.937
+         (1.09)
+
+1798 O   [dés]
+         00:52:37.023 - 00:52:38.248
+         (0.57)
+
+1799 R   4
+         00:52:38.815 - 00:52:39.370
+         (0.22)
+
+1800 W   c'est bien ça
+         00:52:39.594 - 00:52:40.491
+         (0.42)
+
+1801 B   ah non c'est pas bien
+         00:52:40.911 - 00:52:42.045
+
+1802 W   tout de suite t'es content de toi
+         00:52:41.297 - 00:52:42.610
+
+1803 Y   ah oui tu m'étonnes que t'es content ah 4 ça me fait 1 d'argile
+         00:52:42.610 - 00:52:45.706
+
+1804 R   euh (0.9s) oui
+         00:52:43.104 - 00:52:44.775
+
+1805 O   [discussions]
+         00:52:45.037 - 00:52:52.930
+
+1806 R   toi t'as 1 argile (xxx)
+         00:52:45.088 - 00:52:48.115
+
+1807 B   je suis pas en super euh super position là
+         00:52:49.335 - 00:52:52.333
+         (3.30)
+
+1808 B   oh quoi que
+         00:52:56.225 - 00:52:57.146
+         (0.54)
+
+1809 W   [toux]
+         00:52:57.683 - 00:52:58.131
+
+1810 R   trop de cartes
+         00:52:57.683 - 00:52:58.719
+         (0.08)
+
+1811 B   quoi ?
+         00:52:58.796 - 00:52:59.385
+
+1812 R   je dis j'ai trop de cartes (xxx)
+         00:52:59.393 - 00:53:01.163
+         (2.68)
+
+1813 R   tu ne vends pas ton minéral ?
+         00:53:03.839 - 00:53:05.116
+         (2.51)
+
+1814 W   euh non
+         00:53:07.621 - 00:53:08.609
+         (0.39)
+
+1815 R   même contre vraiment un tarif très élevé ?
+         00:53:08.996 - 00:53:10.863
+         (0.42)
+
+1816 W   c'est-à-dire ?
+         00:53:11.287 - 00:53:11.990
+         (0.52)
+
+1817 R   je sais pas euh (1s) 3 cartes ?
+         00:53:12.508 - 00:53:15.191
+         (1.02)
+
+1818 W   eh mais quoi ? (xxx)
+         00:53:16.207 - 00:53:18.526
+
+1819 R   tu veux quoi ?
+         00:53:17.972 - 00:53:18.937
+         (0.76)
+
+1820 W   t'as un argile ?
+         00:53:19.701 - 00:53:20.519
+         (0.24)
+
+1821 R   oui
+         00:53:20.763 - 00:53:21.330
+
+1822 B   [rire]
+         00:53:20.798 - 00:53:21.645
+
+1823 W   1 argile et 1 mouton
+         00:53:21.562 - 00:53:22.663
+         (0.60)
+
+1824 R   1 mouton 1 bois
+         00:53:23.260 - 00:53:24.230
+         (1.90)
+
+1825 B   ouais c'est pas hyper (xxx)
+         00:53:26.129 - 00:53:27.876
+
+1826 R   c'est bah si c'est quand même
+         00:53:26.997 - 00:53:29.242
+         (1.61)
+
+1827 W   de toute façon je sais que tu veux euh ce que tu veux en faire
+         00:53:30.854 - 00:53:33.457
+         (0.19)
+
+1828 B   (xxx)
+         00:53:33.652 - 00:53:34.473
+
+1829 R   tu peux dire que tu veux pas hein mais
+         00:53:33.847 - 00:53:35.577
+         (0.10)
+
+1830 Y   [rires]
+         00:53:35.677 - 00:53:36.645
+
+1831 R   t'as besoin de moutons
+         00:53:36.348 - 00:53:37.169
+         (0.79)
+
+1832 R   plus que un minerais tout seul tu vas rien en faire
+         00:53:37.958 - 00:53:40.203
+         (1.42)
+
+1833 Y   ouais mais bon faut bien commencer par un
+         00:53:41.620 - 00:53:43.739
+         (1.50)
+
+1834 W   euh non non non plus tard peut-être
+         00:53:45.242 - 00:53:48.165
+
+1835 R   non ?
+         00:53:46.652 - 00:53:47.076
+
+1836 R   alors j'achète un minerais avec mes 4 bois
+         00:53:48.093 - 00:53:50.184
+         (1.55)
+
+1837 R   <pf> c'est cher et du coup ça me permet de construire ma première ville
+         00:53:51.738 - 00:53:54.888
+         (0.23)
+
+1838 Y   (xxx)
+         00:53:55.117 - 00:53:56.577
+
+1839 W   forcément
+         00:53:56.399 - 00:53:57.033
+         (2.20)
+
+1840 R   (xxx)
+         00:53:59.230 - 00:54:00.645
+         (1.35)
+
+1841 O   [dés]
+         00:54:01.993 - 00:54:02.666
+
+1842 R   ah non non non me dis pas le chiffre
+         00:54:02.395 - 00:54:03.670
+         (0.11)
+
+1843 B   non je te dis pas le chiffre
+         00:54:03.783 - 00:54:04.921
+
+1844 R   ben si jamais fin tu vois
+         00:54:04.404 - 00:54:05.852
+
+1845 B   hum hum
+         00:54:05.638 - 00:54:06.136
+         (4.33)
+
+1846 R   on va la mettre (xxx)
+         00:54:10.464 - 00:54:13.293
+         (0.80)
+
+1847 B   6
+         00:54:14.096 - 00:54:14.949
+         (0.55)
+
+1848 R   ah ben voilà
+         00:54:15.496 - 00:54:16.146
+         (1.15)
+
+1849 R   hop 1 blé 2 blés 1 blé à droite et 2 blés pour (xxx)
+         00:54:17.294 - 00:54:22.347
+
+1850 B   2
+         00:54:17.898 - 00:54:18.209
+         (1.10)
+
+1851 W   je trouve que le 11 il tombe pas assez souvent quand même
+         00:54:23.451 - 00:54:26.068
+
+1852 R   d'accord avec toi
+         00:54:25.568 - 00:54:26.512
+         (1.48)
+
+1853 Y   tu fais quelque chose BLEU ?
+         00:54:27.996 - 00:54:28.958
+         (0.98)
+
+1854 B   quelqu'un veut du blé ? [rire]
+         00:54:29.934 - 00:54:31.528
+         (0.15)
+
+1855 R   non
+         00:54:31.677 - 00:54:32.243
+         (0.12)
+
+1856 Y   euh je réfléchis attends peut-être
+         00:54:32.358 - 00:54:34.632
+         (0.87)
+
+1857 W   ah (xxx) je pensais que le blé il est tombé sur les 2 6 (xxx)
+         00:54:35.499 - 00:54:39.011
+
+1858 Y   ouais
+         00:54:38.564 - 00:54:39.443
+         (0.07)
+
+1859 B   ouais c'est pas fou hein
+         00:54:39.515 - 00:54:40.694
+
+1860 W   ouais
+         00:54:40.694 - 00:54:41.186
+         (0.46)
+
+1861 B   et un 8
+         00:54:41.647 - 00:54:42.506
+         (3.31)
+
+1862 B   du coup euh c'est vraiment rentable d'aller mettre un port sur le blé mais
+         00:54:45.820 - 00:54:48.798
+         (1.09)
+
+1863 Y   oui mais je peux pas
+         00:54:49.890 - 00:54:50.995
+
+1864 B   il y y a que JAUNE qui peut
+         00:54:50.293 - 00:54:51.717
+         (0.07)
+
+1865 Y   ben non je peux pas
+         00:54:51.791 - 00:54:53.080
+         (1.50)
+
+1866 Y   ah ah oui comme ça
+         00:54:54.579 - 00:54:56.434
+         (0.57)
+
+1867 B   après c'est (xxx) (interrup-)
+         00:54:57.002 - 00:54:58.428
+
+1868 Y   mais moi j'en produis pas
+         00:54:57.371 - 00:54:58.486
+         (0.17)
+
+1869 B   bah si tu produis 8 ce qui est pas mal
+         00:54:58.658 - 00:55:00.989
+
+1870 Y   [rire] oui heu
+         00:55:00.287 - 00:55:01.673
+         (0.13)
+
+1871 B   non mais pas pour le moment mais je veux dire
+         00:55:01.804 - 00:55:03.653
+         (0.36)
+
+1872 B   euh <pf> <pf> <pf>
+         00:55:04.011 - 00:55:05.468
+
+1873 Y   oh pardon
+         00:55:04.928 - 00:55:05.774
+         (0.91)
+
+1874 Y   je sais pas dans qui j'ai tapé
+         00:55:06.686 - 00:55:08.125
+         (0.61)
+
+1875 R   hum c'était moi mais c'est pas grave
+         00:55:08.732 - 00:55:10.128
+         (0.11)
+
+1876 Y   [rire]
+         00:55:10.238 - 00:55:10.821
+
+1877 R   c'était pas trop fort
+         00:55:10.656 - 00:55:11.768
+         (0.30)
+
+1878 Y   non je ouais j'ai dit tapé mais voilà
+         00:55:12.072 - 00:55:15.043
+
+1879 B   bon c'est bon
+         00:55:12.864 - 00:55:13.978
+         (0.69)
+
+1880 Y   euh (1s) non c'est bon t'as dit
+         00:55:15.729 - 00:55:18.251
+
+1881 B   sauf si quelqu'un a des propositions intéressantes à faire
+         00:55:17.799 - 00:55:20.347
+
+1882 O   [dés]
+         00:55:20.109 - 00:55:20.814
+         (0.46)
+
+1883 B   10
+         00:55:21.275 - 00:55:21.918
+         (0.11)
+
+1884 Y   10
+         00:55:22.025 - 00:55:22.742
+         (1.42)
+
+1885 Y   ah
+         00:55:24.162 - 00:55:24.460
+         (0.81)
+
+1886 Y   c'est très bien ça
+         00:55:25.269 - 00:55:26.253
+
+1887 B   je veux bien 1 bois
+         00:55:25.428 - 00:55:26.285
+
+1888 R   qui d'autre ? 1 bois là (xxx)
+         00:55:26.027 - 00:55:29.000
+         (1.38)
+
+1889 W   hum t'as 2 bois
+         00:55:30.381 - 00:55:31.357
+         (0.39)
+
+1890 R   ah ben oui
+         00:55:31.743 - 00:55:32.765
+         (0.92)
+
+1891 B   (xxx) plus souvent alors
+         00:55:33.687 - 00:55:35.090
+         (3.05)
+
+1892 Y   bon les amis c'est bombance
+         00:55:38.142 - 00:55:39.745
+         (0.55)
+
+1893 B   est-ce que tu veux faire des échanges ?
+         00:55:40.296 - 00:55:41.855
+
+1894 Y   ouais disons qu'il me faut du du minerais et je crois que plus personne n'en a beaucoup
+         00:55:41.855 - 00:55:45.015
+
+1895 R   euh pas beaucoup tombé depuis le début du jeu
+         00:55:44.704 - 00:55:46.542
+         (0.07)
+
+1896 R   (xxx) tombé qu'une fois non ?
+         00:55:46.610 - 00:55:47.831
+
+1897 B   (xxx) ? non ?
+         00:55:46.688 - 00:55:47.643
+
+1898 Y   ouais
+         00:55:46.734 - 00:55:47.268
+         (0.07)
+
+1899 Y   ouais
+         00:55:47.901 - 00:55:48.444
+
+1900 W   hum
+         00:55:48.366 - 00:55:48.689
+
+1901 Y   et c'était au tour d'avant et tu les as utilisés pour faire une euh une ville
+         00:55:48.702 - 00:55:52.664
+
+1902 B   et c'était le 4
+         00:55:49.693 - 00:55:50.654
+
+1903 R   ben oui
+         00:55:51.499 - 00:55:52.166
+         (1.32)
+
+1904 Y   du coup euh c'est problématique comme dirait l'autre
+         00:55:53.979 - 00:55:56.667
+         (2.67)
+
+1905 B   t'as besoin de quoi et t'as quoi en trop ?
+         00:55:59.334 - 00:56:01.040
+         (1.31)
+
+1906 W   après(interrup-)
+         00:56:02.348 - 00:56:03.038
+
+1907 Y   j'ai éventuellement 1 argile
+         00:56:02.479 - 00:56:04.140
+         (0.08)
+
+1908 W   après contre 1 argile et 1 mouton euh ça (xxx)
+         00:56:04.220 - 00:56:07.233
+
+1909 B   ouais ?
+         00:56:04.875 - 00:56:05.365
+
+1910 Y   j'ai (1.5s)
+         00:56:06.096 - 00:56:08.024
+         (0.43)
+
+1911 Y   éventuellement du mouton
+         00:56:08.456 - 00:56:10.128
+
+1912 B   moi ça m'intéresse 1 mouton
+         00:56:10.128 - 00:56:11.534
+         (0.93)
+
+1913 B   contre éventuellement du bois ou du blé
+         00:56:12.463 - 00:56:14.777
+         (0.28)
+
+1914 Y   ouais mais ni l'un ni l'autre ne m'intéresse
+         00:56:15.052 - 00:56:17.357
+         (0.19)
+
+1915 O   voilà
+         00:56:17.551 - 00:56:18.016
+         (0.20)
+
+1916 Y   bon
+         00:56:18.214 - 00:56:18.639
+
+1917 R   tu veux pas faire d'échange ?
+         00:56:18.608 - 00:56:19.596
+         (0.31)
+
+1918 Y   euh bah pas contre du bois ou du blé [rire]
+         00:56:19.910 - 00:56:23.272
+         (0.14)
+
+1919 B   si c'est 1 argile contre 1 minerais euh bon
+         00:56:23.407 - 00:56:25.688
+
+1920 R   qu'est-ce que tu cherches ? si tu cherches juste du minerais il y en a pas
+         00:56:24.922 - 00:56:27.367
+
+1921 Y   je cherche du minerais ouais et donc il y en a pas et donc c'est ça règle le problème
+         00:56:26.081 - 00:56:30.186
+
+1922 R   voilà
+         00:56:27.650 - 00:56:28.137
+
+1923 W   si il y en a du minerais
+         00:56:29.078 - 00:56:30.272
+         (1.32)
+
+1924 W   si il y en a du minerais hein
+         00:56:31.591 - 00:56:32.789
+         (0.14)
+
+1925 R   thomas il en a un
+         00:56:32.930 - 00:56:33.909
+
+1926 Y   ouais ?
+         00:56:33.162 - 00:56:33.567
+         (0.09)
+
+1927 R   mais il veut pas le vendre
+         00:56:33.997 - 00:56:34.803
+         (0.26)
+
+1928 R   il veut le vendre contre de l'argile
+         00:56:35.061 - 00:56:36.121
+         (2.02)
+
+1929 W   1 argile et 1 mouton ça se discute hein
+         00:56:38.142 - 00:56:39.990
+
+1930 Y   hum
+         00:56:38.181 - 00:56:39.066
+         (0.19)
+
+1931 Y   ah 1 argile et 1 mouton ?
+         00:56:40.176 - 00:56:41.127
+
+1932 W   ah oui
+         00:56:40.963 - 00:56:41.499
+         (0.05)
+
+1933 Y   non ça se discute pas
+         00:56:41.546 - 00:56:42.846
+
+1934 W   [rire]
+         00:56:42.208 - 00:56:42.986
+         (1.11)
+
+1935 W   si si ça se discute mais c'est bon du coup
+         00:56:44.099 - 00:56:46.260
+
+1936 Y   euh ben tu peux vouloir le discuter tout seul oui mais je le discuterai pas
+         00:56:45.715 - 00:56:50.233
+
+1937 W   [rire]
+         00:56:48.246 - 00:56:49.086
+         (0.63)
+
+1938 B   eh vous le discutiez là je crois
+         00:56:50.859 - 00:56:52.297
+         (0.80)
+
+1939 Y   euh (0.6s) ouais c'est pas faux
+         00:56:53.100 - 00:56:55.439
+
+1940 R   (xxx) tout seul hein
+         00:56:54.245 - 00:56:55.486
+
+1941 W   après après quand est-ce que tu en auras ?
+         00:56:54.260 - 00:56:57.042
+
+1942 R   ça va pas aller très loin
+         00:56:55.777 - 00:56:56.898
+
+1943 Y   de quoi donc ?
+         00:56:56.999 - 00:56:57.623
+         (0.03)
+
+1944 W   ben du minerais
+         00:56:57.649 - 00:56:58.439
+
+1945 Y   du minerais ?
+         00:56:58.320 - 00:56:59.059
+         (0.28)
+
+1946 W   est-ce que
+         00:56:59.337 - 00:56:59.896
+
+1947 Y   ben je vais aller faire des ports pour aller l'échanger mon minerais
+         00:56:59.507 - 00:57:02.021
+         (0.18)
+
+1948 W   han
+         00:57:02.200 - 00:57:03.035
+
+1949 B   après euh
+         00:57:02.243 - 00:57:03.310
+
+1950 Y   [rire]
+         00:57:03.164 - 00:57:04.154
+         (0.48)
+
+1951 W   eh ouais
+         00:57:04.633 - 00:57:05.691
+         (0.73)
+
+1952 Y   euh alors du coup qu'est-ce que je fais ?
+         00:57:06.425 - 00:57:08.888
+         (0.28)
+
+1953 B   après si t'as le minerais t'es à l'abri du t'es pas à l'abri du voleur quoi
+         00:57:09.168 - 00:57:12.194
+         (0.68)
+
+1954 Y   c'est pas faux
+         00:57:12.870 - 00:57:13.805
+         (1.88)
+
+1955 Y   alors
+         00:57:15.682 - 00:57:16.597
+         (3.95)
+
+1956 Y   c'est loin quand même
+         00:57:20.552 - 00:57:22.218
+         (8.05)
+
+1957 Y   c'est pas mal loin
+         00:57:30.263 - 00:57:31.814
+         (0.63)
+
+1958 Y   ceci dit si jamais je fais une ville là ça fait 2 argiles si jamais ça tombe ?
+         00:57:32.441 - 00:57:37.220
+         (0.11)
+
+1959 R   hum hum
+         00:57:37.332 - 00:57:37.984
+         (2.18)
+
+1960 Y   (xxx)
+         00:57:40.167 - 00:57:41.012
+
+1961 R   une colonie mais oui
+         00:57:40.212 - 00:57:41.564
+
+1962 W   comme déjà tu es censée toucher 2 voies
+         00:57:40.226 - 00:57:42.499
+
+1963 Y   ouais une colonie
+         00:57:41.226 - 00:57:42.509
+         (0.88)
+
+1964 R   t'auras un port de contre un minerais très utile
+         00:57:43.387 - 00:57:45.772
+
+1965 B   hum
+         00:57:45.060 - 00:57:45.432
+
+1966 Y   ouais très utile ouais mais bon
+         00:57:45.432 - 00:57:47.347
+
+1967 B   tu ferais mieux de la faire là hein
+         00:57:47.353 - 00:57:48.529
+         (0.87)
+
+1968 Y   ben ouais mais d'un autre côté euh
+         00:57:49.400 - 00:57:51.276
+
+1969 R   non elle peut pas
+         00:57:50.409 - 00:57:51.422
+         (0.30)
+
+1970 Y   si euh en faisant ça et ça
+         00:57:51.718 - 00:57:53.585
+
+1971 B   si si
+         00:57:51.968 - 00:57:52.656
+
+1972 W   [toux]
+         00:57:52.291 - 00:57:52.806
+         (0.41)
+
+1973 Y   mais si je me (xxx)
+         00:57:53.997 - 00:57:55.515
+
+1974 R   oui mais t'auras pas de d'argile en plus
+         00:57:54.368 - 00:57:56.192
+
+1975 Y   ah non j'aurai pas d'argile en plus c'est bien ça le problème
+         00:57:56.192 - 00:57:58.382
+         (3.86)
+
+1976 Y   hum
+         00:58:02.245 - 00:58:03.209
+         (1.99)
+
+1977 Y   tiens j'ai une question
+         00:58:05.201 - 00:58:06.201
+         (0.26)
+
+1978 B   ouais ?
+         00:58:06.466 - 00:58:06.942
+
+1979 Y   si jamais je me mets là j'ai encore le droit de faire une ville là ?
+         00:58:06.823 - 00:58:09.897
+
+1980 R   non
+         00:58:09.719 - 00:58:10.136
+
+1981 B   non il y a déjà pas le droit de faire une ville là
+         00:58:09.764 - 00:58:11.635
+
+1982 Y   ah oui parce que je suis à côté
+         00:58:11.635 - 00:58:13.385
+         (0.92)
+
+1983 Y   ah
+         00:58:14.308 - 00:58:15.029
+         (4.56)
+
+1984 Y   bon je vais faire une première route
+         00:58:19.590 - 00:58:21.651
+         (0.98)
+
+1985 Y   en fait la question c'est est-ce que je fais 1 ou 2 routes ?
+         00:58:22.632 - 00:58:24.691
+         (1.74)
+
+1986 Y   telle est la question
+         00:58:26.426 - 00:58:27.632
+
+1987 R   est-ce qu'on peut on peut lancer les dés le temps que tu (0.4s) décides ou pas ?
+         00:58:27.473 - 00:58:30.735
+
+1988 Y   euh ouais vous pouvez lancer les dés si vous voulez eh
+         00:58:29.152 - 00:58:32.554
+
+1989 B   mais non là si tu fais 1 ou 2 routes il faut que tu dépenses maintenant parce que ah non t'as moins de 7 cartes ?
+         00:58:32.554 - 00:58:35.834
+
+1990 Y   j'ai moins de 7 cartes
+         00:58:35.834 - 00:58:36.974
+
+1991 B   c'est bon vas-y alors
+         00:58:36.436 - 00:58:37.315
+
+1992 R   oui mais ça (xxx)
+         00:58:36.897 - 00:58:38.205
+
+1993 O   [dés]
+         00:58:37.806 - 00:58:39.410
+         (0.32)
+
+1994 R   4 oui
+         00:58:39.726 - 00:58:40.786
+
+1995 Y   c'est sûr que je vais en faire une
+         00:58:40.655 - 00:58:42.623
+
+1996 B   oh non
+         00:58:40.786 - 00:58:41.719
+
+1997 W   (xxx) c'est bien
+         00:58:41.595 - 00:58:42.604
+
+1998 R   c'est bien ça
+         00:58:42.592 - 00:58:43.250
+
+1999 Y   mais la question où est-ce que je vais la faire ?
+         00:58:42.707 - 00:58:45.618
+
+2000 W   hum
+         00:58:43.090 - 00:58:43.609
+
+2001 R   donc gagne 1 argile
+         00:58:44.623 - 00:58:46.291
+
+2002 Y   euh ouais mais hop pour le moment je le mets là parce que je veux pas le mélanger avec ça
+         00:58:45.785 - 00:58:49.889
+
+2003 W   hum
+         00:58:46.340 - 00:58:46.678
+
+2004 W   [toux]
+         00:58:48.266 - 00:58:48.668
+
+2005 B   et toi tu gagnes 2 minerais
+         00:58:49.538 - 00:58:51.193
+
+2006 R   hum hum
+         00:58:51.056 - 00:58:51.639
+         (0.13)
+
+2007 Y   et
+         00:58:51.773 - 00:58:52.790
+
+2008 R   presque une demi ville
+         00:58:51.802 - 00:58:53.049
+
+2009 B   oh c'est bon t'as gagné
+         00:58:52.793 - 00:58:53.957
+
+2010 W   hum
+         00:58:53.092 - 00:58:53.576
+         (0.32)
+
+2011 Y   euh (1s)
+         00:58:54.278 - 00:58:56.040
+
+2012 R   le 4 (xxx)
+         00:58:54.615 - 00:58:55.500
+
+2013 B   quoi ?
+         00:58:55.731 - 00:58:56.196
+         (0.19)
+
+2014 R   pas mal le 4
+         00:58:56.385 - 00:58:57.181
+         (0.88)
+
+2015 B   t'as gagné t'as gagné
+         00:58:58.066 - 00:58:59.207
+         (0.44)
+
+2016 Y   et en fait je vais en faire 2 parce que sinon je vais me faire voler je le sens et du coup ça va pas me plaire
+         00:58:59.642 - 00:59:05.471
+         (2.41)
+
+2017 Y   et d'ailleurs j'ai la route la plus longue
+         00:59:07.885 - 00:59:09.583
+         (9.85)
+
+2018 Y   et euh du coup euh voilà et c'était à BLANC
+         00:59:19.433 - 00:59:22.604
+
+2019 W   à moi
+         00:59:22.199 - 00:59:22.925
+         (1.02)
+
+2020 W   hum
+         00:59:23.941 - 00:59:24.786
+         (0.40)
+
+2021 B   tu veux faire des échanges ?
+         00:59:25.185 - 00:59:26.083
+         (3.38)
+
+2022 W   hum hum hum hum 
+         00:59:29.461 - 00:59:31.531
+         (3.11)
+
+2023 R   je t'achète ton (xxx)
+         00:59:34.636 - 00:59:35.592
+         (0.99)
+
+2024 R   avec des moutons
+         00:59:36.577 - 00:59:37.639
+         (0.22)
+
+2025 B   [rire]
+         00:59:37.857 - 00:59:38.383
+         (1.33)
+
+2026 R   2 moutons
+         00:59:39.713 - 00:59:40.623
+         (0.13)
+
+2027 B   moi j'ai du bois si tu veux
+         00:59:40.749 - 00:59:41.750
+
+2028 W   ah
+         00:59:41.570 - 00:59:42.372
+         (0.26)
+
+2029 W   ah c'est intéressant
+         00:59:42.637 - 00:59:43.664
+
+2030 R   ben oui
+         00:59:43.664 - 00:59:44.191
+
+2031 W   tiens
+         00:59:44.135 - 00:59:44.526
+         (0.56)
+
+2032 B   quoi ?
+         00:59:45.083 - 00:59:45.369
+         (1.49)
+
+2033 O   [micro]
+         00:59:46.859 - 00:59:47.187
+         (1.32)
+
+2034 W   (xxx)
+         00:59:48.505 - 00:59:48.954
+
+2035 R   tu voulais faire le même échange ?
+         00:59:48.571 - 00:59:49.607
+         (1.16)
+
+2036 B   ben sauf que j'ai pas de minerais et pas de mouton mais [rires]
+         00:59:50.767 - 00:59:54.416
+
+2037 W   [toux]
+         00:59:51.642 - 00:59:52.088
+
+2038 W   (xxx)
+         00:59:52.785 - 00:59:53.718
+
+2039 Y   [rire]
+         00:59:52.952 - 00:59:53.705
+         (1.07)
+
+2040 B   bon [rire]
+         00:59:55.489 - 00:59:56.489
+         (0.56)
+
+2041 B   ben j'ai plus pressé plus prêt à échanger du bois plutôt mais
+         00:59:57.049 - 01:00:00.213
+         (0.25)
+
+2042 B   mais là elle va faire sa deuxième ville quoi
+         01:00:00.459 - 01:00:02.156
+         (1.28)
+
+2043 W   qui ? elle ? ben oui
+         01:00:03.433 - 01:00:04.840
+
+2044 R   il y a des chances oui
+         01:00:04.729 - 01:00:05.698
+         (0.41)
+
+2045 R   (xxx)
+         01:00:06.110 - 01:00:07.241
+         (0.08)
+
+2046 B   t'as eu tes 3 minerais ?
+         01:00:07.323 - 01:00:08.343
+         (0.91)
+
+2047 B   elle va la faire sur le minerais
+         01:00:09.253 - 01:00:10.527
+         (0.40)
+
+2048 Y   hum j'avoue
+         01:00:10.928 - 01:00:11.638
+         (0.74)
+
+2049 B   et l'argile
+         01:00:12.374 - 01:00:13.172
+         (0.49)
+
+2050 R   oui (xxx)
+         01:00:13.660 - 01:00:15.518
+
+2051 W   je vais prendre un développement
+         01:00:13.988 - 01:00:15.559
+         (0.10)
+
+2052 R   ok
+         01:00:15.660 - 01:00:16.235
+         (0.05)
+
+2053 B   le 11 ok (xxx)
+         01:00:16.289 - 01:00:18.110
+         (4.74)
+
+2054 R   est-ce que je peux jouer ?
+         01:00:22.855 - 01:00:23.617
+
+2055 B   mais le 3 il est pas tombé non plus
+         01:00:23.592 - 01:00:25.098
+         (0.19)
+
+2056 Y   non
+         01:00:25.286 - 01:00:25.830
+         (1.37)
+
+2057 R   t'as pas de jouer la carte développement que tu viens de recevoir en fait
+         01:00:27.198 - 01:00:29.444
+
+2058 W   oui je ben je ben oui vas-y oui excuse-moi
+         01:00:29.102 - 01:00:31.431
+         (0.27)
+
+2059 W   vas-y
+         01:00:31.703 - 01:00:32.277
+

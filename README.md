@@ -9,4 +9,5 @@ re-clonable en minutes (~60 Mo/s mesurés).
 - `INDICE.md` : l\u2019état du dépôt (le dataset de travail + catalogue).
 - `LISTE-RESTE.md` : tout ce qui reste à ajouter (sources + commandes).
 - `conversations/` + `francais/` : fiches + échantillons par dataset.
-- `scripts/` : clonage/échantillonnage/sondes.
+- `scripts/` : clonage/échantillonnage/sondes et ajout sécurisé des fiches
+  françaises (`ajouter_s2.py`, sans téléchargement des gros bruts).

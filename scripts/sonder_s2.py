@@ -1,113 +1,82 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""SECTION 2 (français) : sonde les sources (tailles, liens directs)."""
+"""Sonde les sources françaises avec leurs API HTTP publiques.
+
+Ce script ne dépend pas de huggingface_hub : il reste exécutable après un
+clone frais et ne télécharge aucun corpus complet.
+"""
 import json
 import requests
 
 S = requests.Session()
-S.headers["User-Agent"] = "Mozilla/5.0"
+S.headers.update({"User-Agent": "bases-donnees-sondage/1.0"})
 
 
-def get(u, timeout=30):
-    try:
-        r = S.get(u, timeout=timeout)
-        return r.status_code, r.text
-    except Exception as e:
-        return -1, str(e)[:100]
+def get_json(url, timeout=60):
+    r = S.get(url, timeout=timeout)
+    r.raise_for_status()
+    return r.json()
 
 
-def liens_href(page, mots):
-    """Tous les href contenant un des mots (sans regex)."""
-    trouves, i = [], 0
-    while True:
-        j = page.find("href", i)
-        if j < 0:
-            break
-        k = page.find('"', j)
-        if k < 0:
-            break
-        fin = page.find('"', k + 1)
-        if fin < 0:
-            break
-        url = page[k + 1:fin]
-        bas = url.lower()
-        if any(m in bas for m in mots):
-            if url not in trouves:
-                trouves.append(url)
-        i = fin + 1
-    return trouves
+def hf(repo):
+    d = get_json("https://huggingface.co/api/datasets/" + repo)
+    files = [x.get("rfilename") for x in d.get("siblings", [])]
+    return {
+        "repo": repo,
+        "taille_octets": d.get("usedStorage"),
+        "fichiers": len(files),
+        "licences": [x for x in d.get("tags", []) if "license" in x],
+        "exemples": files[:8],
+    }
 
 
 def main():
-    print("== 1. CEFR ==", flush=True)
-    from huggingface_hub import HfApi
+    print("== HF français ==", flush=True)
+    for repo in [
+        "Makxxx/french_CEFR",
+        "OpenLLM-France/Claire-Dialogue-French-0.1",
+    ]:
+        try:
+            print(json.dumps(hf(repo), ensure_ascii=False), flush=True)
+        except Exception as e:
+            print("ERR", repo, type(e).__name__, str(e)[:160], flush=True)
+
+    print("== CATIE-AQ ==", flush=True)
     try:
-        inf = HfApi().dataset_info("Makxxx/french_CEFR", files_metadata=True)
-        tot = sum(s.size or 0 for s in (inf.siblings or []) if s.size)
-        print("  taille: %.1f Mo" % (tot / 1e6))
-        for s in (inf.siblings or [])[:8]:
-            print("  ", s.rfilename, (s.size or 0) // 1024, "Ko")
-        print("  licence:", [t for t in (inf.tags or []) if "license" in t])
+        ds = get_json("https://huggingface.co/api/datasets?author=CATIE-AQ&limit=100")
+        print(json.dumps({"datasets": len(ds), "premiers": [x.get("id") for x in ds[:10]]}, ensure_ascii=False), flush=True)
     except Exception as e:
-        print("  ERR", e)
-    print("== 2. CFDD ==", flush=True)
+        print("ERR CATIE", type(e).__name__, str(e)[:160], flush=True)
+
+    print("== GitLab DING ==", flush=True)
     try:
-        inf = HfApi().dataset_info("OpenLLM-France/Claire-Dialogue-French-0.1",
-                                   files_metadata=True)
-        tot = sum(s.size or 0 for s in (inf.siblings or []) if s.size)
-        print("  taille: %.2f Go, fichiers: %d"
-              % (tot / 1e9, len(inf.siblings or [])))
-        print("  licence:", [t for t in (inf.tags or []) if "license" in t])
+        url = ("https://gitlab.inria.fr/api/v4/projects/"
+               "semagramme-public-projects%2Fresources%2Fding/repository/tree"
+               "?per_page=100&recursive=true")
+        tree = get_json(url)
+        files = [x.get("path") for x in tree if x.get("type") == "blob"]
+        print(json.dumps({"fichiers": len(files), "txt": len([x for x in files if x.endswith('.txt')]), "conllu": len([x for x in files if x.endswith('.conllu')])}), flush=True)
     except Exception as e:
-        print("  ERR", e)
-    print("== 3. CATIE-AQ org ==", flush=True)
-    try:
-        ds = S.get("https://huggingface.co/api/datasets?author=CATIE-AQ"
-                   "&limit=100&sort=downloads&direction=-1",
-                   timeout=30).json()
-        print("  nb datasets:", len(ds))
-        for d in ds[:40]:
-            print("  -", d.get("id"), d.get("downloads"))
-    except Exception as e:
-        print("  ERR", e)
-    print("== 4. ORTOLANG ANCOR ==", flush=True)
-    c, t = get("https://www.ortolang.fr/market/item/ortolang-000903/v3")
-    print("  page:", c, len(t), "octets")
-    for m in liens_href(t, ["download", "content", "zip"])[:10]:
-        print("  lien:", m[:120])
-    print("== 5. univ-tours Accueil ==", flush=True)
-    c, t = get("https://www.info.univ-tours.fr/~antoine/parole_publique/"
-               "Accueil_UBS/index.html")
-    print("  page:", c, len(t), "octets")
-    for m in liens_href(t, [".zip"])[:6]:
-        print("  zip:", m[:150])
-    print("== 6. GitLab ding ==", flush=True)
-    c, t = get("https://gitlab.inria.fr/api/v4/projects/"
-               "semagramme-public-projects%2Fresources%2Fding/"
-               "repository/tree?per_page=100&recursive=true")
-    print("  api:", c)
-    if c == 200:
-        for e in json.loads(t)[:25]:
-            print("  ", e.get("type"), e.get("path"))
-    print("== 7. FLEURON ==", flush=True)
-    c, t = get("https://apps.atilf.fr/fleuron/")
-    print("  site:", c, len(t), "octets")
-    for m in liens_href(t, ["zip", "download", "corpus", "telecharg"])[:6]:
-        print("  lien:", m[:120])
-    print("== 8. TCOF CNRTL ==", flush=True)
-    c, t = get("http://cnrtl.fr/corpus/tcof/")
-    print("  page:", c, len(t), "octets")
-    for m in liens_href(t, ["zip", "trs", "wav", "mp3", "download"])[:10]:
-        print("  lien:", m[:130])
-    print("== 9. iRead Zenodo 10889888 ==", flush=True)
-    try:
-        r = S.get("https://zenodo.org/api/records/10889888",
-                  timeout=30).json()
-        print("  titre:", (r.get("metadata", {}).get("title") or "?")[:70])
-        for f in r.get("files", []):
-            print("   %.1f Mo  %s" % (f.get("size", 0) / 1e6, f.get("key")))
-    except Exception as e:
-        print("  ERR", e)
+        print("ERR DING", type(e).__name__, str(e)[:160], flush=True)
+
+    print("== Zenodo iRead4Skills ==", flush=True)
+    for rid in [10889888, 13768477, 10889986]:
+        try:
+            d = get_json(f"https://zenodo.org/api/records/{rid}")
+            print(json.dumps({"id": rid, "titre": d.get("metadata", {}).get("title"), "version": d.get("metadata", {}).get("version"), "fichiers": len(d.get("files", [])), "acces": d.get("metadata", {}).get("access_right")}, ensure_ascii=False), flush=True)
+        except Exception as e:
+            print("ERR Zenodo", rid, type(e).__name__, str(e)[:160], flush=True)
+
+    print("== Sites ==", flush=True)
+    for name, url in [
+        ("FLEURON", "https://apps.atilf.fr/fleuron/"),
+        ("TCOF", "http://cnrtl.fr/corpus/tcof/"),
+    ]:
+        try:
+            r = S.get(url, timeout=60)
+            print(name, r.status_code, len(r.content), r.url, flush=True)
+        except Exception as e:
+            print("ERR", name, type(e).__name__, str(e)[:160], flush=True)
 
 
 if __name__ == "__main__":

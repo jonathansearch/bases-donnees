@@ -1,0 +1,13 @@
+{
+ "source": "https://huggingface.co/CATIE-AQ",
+ "licence": "variable selon dataset; voir CATALOGUE.json",
+ "datasets_catalogues": 100,
+ "statut": "catalogue complet API; un échantillon représentatif, pas de snapshots massifs",
+ "echantillon": {
+  "dataset": "CATIE-AQ/frenchQA",
+  "fichier": "README.md",
+  "lignes": 153,
+  "octets": 5698,
+  "sha_echantillon": "10e767fbce7c5568"
+ }
+}

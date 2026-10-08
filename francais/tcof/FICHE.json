@@ -1,0 +1,6 @@
+{
+ "nom": "TCOF",
+ "source": "http://cnrtl.fr/corpus/tcof/",
+ "statut": "transcriptions à extraire; liens directs non publiés par la page sondée",
+ "regle": "ne prendre que les .trs, jamais l'audio"
+}

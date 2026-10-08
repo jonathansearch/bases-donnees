@@ -1,0 +1,16 @@
+{
+ "nom": "french_CEFR",
+ "source": "https://huggingface.co/datasets/Makxxx/french_CEFR",
+ "licence": "non indiquée par la carte HF",
+ "taille_octets_annoncee": 17431599,
+ "fichiers": [
+  ".gitattributes",
+  "test.csv.txt",
+  "train.csv.txt",
+  "val.csv.txt"
+ ],
+ "lignes_echantillon": 200,
+ "octets_echantillon": 26284,
+ "sha_echantillon": "744ec8ed7bafff6e",
+ "contenu": "phrases françaises classées A1 à C2"
+}
