@@ -1,0 +1,16 @@
+{
+ "fichiers_parquet": 1,
+ "lignes_echantillon": 200,
+ "lignes_totales": 7300966,
+ "colonnes": [
+  "text",
+  "tokens",
+  "turns",
+  "characters",
+  "words"
+ ],
+ "source": "https://huggingface.co/datasets/mookiezi/Discord-Dialogues",
+ "licence": "apache-2.0",
+ "taille_octets": 347729144,
+ "sha_echantillon": "efaec620012940ce"
+}

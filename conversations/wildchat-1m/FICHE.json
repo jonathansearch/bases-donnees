@@ -1,0 +1,25 @@
+{
+ "fichiers_parquet": 14,
+ "lignes_echantillon": 200,
+ "lignes_totales": 837989,
+ "colonnes": [
+  "conversation_hash",
+  "model",
+  "timestamp",
+  "conversation",
+  "turn",
+  "language",
+  "openai_moderation",
+  "detoxify_moderation",
+  "toxic",
+  "redacted",
+  "state",
+  "country",
+  "hashed_ip",
+  "header"
+ ],
+ "source": "https://huggingface.co/datasets/allenai/WildChat-1M",
+ "licence": "odc-by",
+ "taille_octets": 3360876486,
+ "sha_echantillon": "309b319c373b8b73"
+}

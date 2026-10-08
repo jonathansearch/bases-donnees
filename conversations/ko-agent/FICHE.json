@@ -1,0 +1,11 @@
+{
+ "fichiers_parquet": 0,
+ "fichiers_json": 600,
+ "lignes_echantillon": 1000,
+ "lignes_vues_5fichiers": 24380,
+ "note": "comptage sur les 5 premiers fichiers",
+ "source": "https://huggingface.co/datasets/taejoon89/Ko-Agent-Trajectories-1.0",
+ "licence": "cc-by-4.0",
+ "taille_octets": 1358916399,
+ "sha_echantillon": "318eea9825a03b63"
+}

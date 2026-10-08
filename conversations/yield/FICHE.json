@@ -1,0 +1,18 @@
+{
+ "nom": "YIELD",
+ "source": "https://huggingface.co/datasets/infosense/yield",
+ "licence": "CC BY 4.0",
+ "taille_octets": 362440161,
+ "dialogues_papier": 2281,
+ "blocs_comptes": 105735,
+ "domaines": {
+  "journalistic_investigations": 1460,
+  "judicial_proceedings": 49300,
+  "academic_interviews": 11184,
+  "oral_history": 43791
+ },
+ "structure": "yield/ (.json) + yield-experimental/ (.jsonl), splits train/test",
+ "format": "messages role/content (system/user/assistant) + scores (factual_novelty, return_to_go)",
+ "lignes_echantillon": 200,
+ "sha_echantillon": "b088cd47cacb4ee8"
+}

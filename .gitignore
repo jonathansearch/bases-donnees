@@ -1,0 +1,6 @@
+# Les Go ne dorment ni ici ni sur GitHub (100 Mo/fichier max).
+*.parquet
+*.zip
+*.tar.gz
+*.bin
+_tmp/

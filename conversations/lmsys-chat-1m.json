@@ -1,0 +1,7 @@
+{
+ "nom": "LMSYS-Chat-1M",
+ "source": "https://huggingface.co/datasets/lmsys/lmsys-chat-1m",
+ "taille_annoncee": "1,49 Go",
+ "statut": "gated-401-anonyme",
+ "action": "1 clic accepter les conditions sur HF, puis re-cloner"
+}

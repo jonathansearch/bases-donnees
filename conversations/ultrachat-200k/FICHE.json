@@ -1,0 +1,14 @@
+{
+ "fichiers_parquet": 8,
+ "lignes_echantillon": 200,
+ "lignes_totales": 515311,
+ "colonnes": [
+  "prompt",
+  "prompt_id",
+  "messages"
+ ],
+ "source": "https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k",
+ "licence": "mit",
+ "taille_octets": 1624060272,
+ "sha_echantillon": "285ab1294050196e"
+}
