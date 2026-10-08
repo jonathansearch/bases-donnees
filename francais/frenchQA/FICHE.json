@@ -1,0 +1,27 @@
+{
+ "nom": "CATIE-AQ/frenchQA",
+ "source": "https://huggingface.co/datasets/CATIE-AQ/frenchQA",
+ "licence": "CC-BY-4.0",
+ "taille_brut_octets": 34591862,
+ "contenu": {
+  "train": 200617,
+  "validation": 910,
+  "test": 3188,
+  "total": 204715,
+  "sans_reponse": 140389,
+  "contextes_ignores": 204715
+ },
+ "bu_lecon": 41,
+ "commande": "convertisseur_dialogues.py v4 (Q + 1re réponse, topk=3)",
+ "resultat": {
+  "dialogues": 204703,
+  "tours": 259109,
+  "mots": 2398744,
+  "neurones_plus": 32903,
+  "liens_plus": 92673,
+  "cerveau": "64277 neurones / 304561 liens"
+ },
+ "bruits_chasses": 97,
+ "statut": "BU 8 oct. 2026, brut jeté après comptage (rotation); trace relationnelle seule",
+ "batterie": "130/130 contrôles verts"
+}
