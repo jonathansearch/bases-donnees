@@ -35,6 +35,7 @@ récupérés avec les sources listées dans `LISTE-RESTE.md`.
 | TCOF | environ 200k mots annoncés | ⚠️ page actuelle 404; transcription `.trs` à obtenir ailleurs, pas d'audio |
 | french_CEFR | 6000 phrases A1..C2, 109486 mots appris | ✅ BU 4 passages, réservoir vide (+5571 neurones, +38332 liens, MA1..MC2) |
 | frenchQA | 204715 Q&R, 2398744 mots appris | ✅ BU leçon 41, brut jeté (+32903 neurones, +92673 liens, Q&R) |
+| piaf | 3835 Q&R natif, 52658 mots appris | ✅ BU leçon 42, brut jeté (+48 neurones, +9536 liens, Q&R natif) |
 | iRead4Skills | 2 199 textes FR / 530 298 tokens annoncés; dataset 1 restreint | ✅ versions et accès documentés; lexique public 544 270 o |
 | CATIE-AQ | 100 datasets catalogués par l'API | ✅ `CATALOGUE.json` + extrait frenchQA |
 | Zagreus-0.4B / Ilyana | modèles, pas corpus | ✅ références seulement, aucun poids téléchargé |

@@ -1,0 +1,25 @@
+{
+ "nom": "AgentPublic/piaf (PIAF v1.1, français natif Etalab/DINUM)",
+ "source": "https://huggingface.co/datasets/AgentPublic/piaf",
+ "licence": "MIT",
+ "taille_brut_octets": 650352,
+ "contenu": {
+  "train": 3835,
+  "total": 3835,
+  "sans_reponse": 0,
+  "contextes_ignores": 3835
+ },
+ "bu_lecon": 42,
+ "commande": "convertisseur_dialogues.py v4 (Q + 1re réponse, topk=0 TOUT)",
+ "resultat": {
+  "dialogues": 3835,
+  "tours": 7429,
+  "mots": 52658,
+  "neurones_plus": 48,
+  "liens_plus": 9536,
+  "cerveau": "64325 neurones / 314097 liens"
+ },
+ "bruits_chasses": 5,
+ "statut": "BU 8 oct. 2026, brut jeté après comptage (rotation); trace relationnelle seule",
+ "batterie": "131/131 contrôles verts"
+}
