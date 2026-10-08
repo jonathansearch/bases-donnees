@@ -1,7 +1,1 @@
-{
- "nom": "Accueil_UBS",
- "source": "https://www.info.univ-tours.fr/~antoine/parole_publique/Accueil_UBS/DISTRIBUTION_ACCUEIL_UBS.zip",
- "licence": "CC BY-SA",
- "contenu": "40 dialogues téléphoniques réels, ~10 000 mots",
- "mots_comptes": 26045
-}
+{"contenu": "40 appels téléphoniques réels (standard universitaire), transcription orthographique", "dialogues": 41, "encodage": "latin-1", "formats": "TRANS_TXT (1 fichier par dialogue, tours 'h:'/'c:') + TRANS_XML + docs", "licence": "CC BY-SA", "mots_appris": 6295, "mots_tours": 7200, "note_comptage": "mots_tours = mots bruts des tours ; mots_appris = après tokeniseur leçon 38 (bruits et hésitations coupés)", "paires_uniques": 3201, "rencontres": 6021, "source": "https://www.info.univ-tours.fr/~antoine/parole_publique/Accueil_UBS/DISTRIBUTION_ACCUEIL_UBS.zip", "statut": "BU par la leçon 38 (cerveau fige-300M-accueil : +101 neurones, +2166 liens, MSUITE+MREPONSE)", "taille_zip": "745 Ko", "tours": 1062}
