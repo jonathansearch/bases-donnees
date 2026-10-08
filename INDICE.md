@@ -30,7 +30,7 @@ récupérés avec les sources listées dans `LISTE-RESTE.md`.
 |---|---:|---|
 | accueil-ubs | 41 dialogues, 1062 tours, 6295 mots appris | ✅ BU 4 passages, réservoir vide (cerveau +101 neurones, +2166 liens) |
 | CFDD / Claire | 15 089 356 633 o selon l'API HF | ✅ fiche + statut 401 documenté; brut non conservé |
-| ding-01 | 10 transcriptions `.txt`, 7 annotations `.conllu` | ✅ 2 extraits + fiche |
+| ding-01 | 10 dialogues, 14834 tours, 70274 mots appris | ✅ BU 4 passages, réservoir vide (+531 neurones, +12102 liens) |
 | FLEURON | site ATILF, masse non trouvée; URL renvoie actuellement 404 | ⚠️ site seul documenté |
 | TCOF | environ 200k mots annoncés | ⚠️ page actuelle 404; transcription `.trs` à obtenir ailleurs, pas d'audio |
 | french_CEFR | 17 431 599 o, 4 fichiers HF | ✅ 200 lignes + fiche |

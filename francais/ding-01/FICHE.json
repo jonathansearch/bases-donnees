@@ -18,5 +18,12 @@
    "sha256_16": "24470d1cd42add0f"
   }
  ],
- "statut": "échantillon ajouté; source complète re-clonable"
+ "statut": "BU par la leçon 39 (cerveau fige-300M-ding : +531 neurones, +12102 liens)",
+ "dialogues_bus": 10,
+ "tours": 14834,
+ "mots_appris": 70274,
+ "paires_uniques": 19737,
+ "rencontres": 69793,
+ "bruits_reperes_main": 45,
+ "note_comptage": "mots appris après tokeniseur (bruits coupés, chevauchements gardés, xxx décollé)"
 }
