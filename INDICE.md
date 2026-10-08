@@ -28,7 +28,7 @@ récupérés avec les sources listées dans `LISTE-RESTE.md`.
 
 | Dataset | Taille / comptage | Statut |
 |---|---:|---|
-| accueil-ubs | 41 dialogues, 1062 tours, 6295 mots appris | ✅ BU par la leçon 38 (cerveau +101 neurones, +2166 liens) |
+| accueil-ubs | 41 dialogues, 1062 tours, 6295 mots appris | ✅ BU 4 passages, réservoir vide (cerveau +101 neurones, +2166 liens) |
 | CFDD / Claire | 15 089 356 633 o selon l'API HF | ✅ fiche + statut 401 documenté; brut non conservé |
 | ding-01 | 10 transcriptions `.txt`, 7 annotations `.conllu` | ✅ 2 extraits + fiche |
 | FLEURON | site ATILF, masse non trouvée; URL renvoie actuellement 404 | ⚠️ site seul documenté |
